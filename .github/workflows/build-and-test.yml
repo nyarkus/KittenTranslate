@@ -28,17 +28,15 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: ${{ env.DOTNET_VERSION }}
-    - name: Debug
-      run: dir
-      
-    - name: Change directory
-      run: cd Generator
       
     - name: Install dependencies
       run: dotnet restore
       
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: cd CatLanguage & dotnet build --configuration Release --no-restore & cd..
     
-    - name: Test
-      run: dotnet test --no-restore --verbosity normal
+    - name: Generation test
+      run: cd TestGeneration & dotnet build & dotnet test --no-restore --verbosity normal & cd ..
+      
+    - name: Translate test
+      run: cd Translate & dotnet build & dotnet test --no-restore --verbosity normal & cd ..
