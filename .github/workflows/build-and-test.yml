@@ -30,7 +30,7 @@ jobs:
         dotnet-version: ${{ env.DOTNET_VERSION }}
       
     - name: Install dependencies
-      run: dotnet restore
+      run: cd CatLanguage & dotnet restore & cd .. & cd TestGeneration & dotnet restore & cd .. & cd Translate & dotnet restore & cd ..
       
     - name: Build
       run: cd CatLanguage & dotnet build --configuration Release --no-restore & cd..
