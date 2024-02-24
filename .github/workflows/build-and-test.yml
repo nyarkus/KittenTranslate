@@ -1,0 +1,48 @@
+name: build and test
+
+on:
+  push:
+     branches: [ dev ]
+     paths:
+      - '**.cs'
+      - '**.csproj'
+      - '**.txt'
+      - '**.json'
+  pull_request:
+    branches: [ main ]
+    paths:
+    - '**.cs'
+    - '**.csproj'
+    - '**.txt'
+    - '**.json'
+
+env:
+  DOTNET_VERSION: '8.0.201' # The .NET SDK version to use
+
+jobs:
+  build-and-test:
+
+    name: build-and-test-${{matrix.os}}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [windows-latest]
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: ${{ env.DOTNET_VERSION }}
+      
+    - name: Install dependencies
+      run: cd CatLanguage & dotnet restore & cd .. & cd TestGeneration & dotnet restore & cd .. & cd Translate & dotnet restore & cd ..
+      
+    - name: Build
+      run: cd CatLanguage & dotnet build --configuration Release --no-restore & cd..
+    
+    - name: Generation test
+      run: cd TestGeneration & dotnet build & dotnet test --no-restore --verbosity normal & cd ..
+      
+    - name: Translate test
+      run: cd Translate & dotnet build & dotnet test --no-restore --verbosity normal & cd ..

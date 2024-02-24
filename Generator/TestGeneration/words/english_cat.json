@@ -1,0 +1,11966 @@
+[
+  {
+    "sound": "мяу",
+    "Word": "a"
+  },
+  {
+    "sound": "мЯу",
+    "Word": "am"
+  },
+  {
+    "sound": "мяУ",
+    "Word": "are"
+  },
+  {
+    "sound": "мЯУ",
+    "Word": "our"
+  },
+  {
+    "sound": "ммяу",
+    "Word": "abandon"
+  },
+  {
+    "sound": "ммЯу",
+    "Word": "ability"
+  },
+  {
+    "sound": "ммяУ",
+    "Word": "able"
+  },
+  {
+    "sound": "ммЯУ",
+    "Word": "about"
+  },
+  {
+    "sound": "мяяу",
+    "Word": "above"
+  },
+  {
+    "sound": "мЯяу",
+    "Word": "abroad"
+  },
+  {
+    "sound": "мяЯу",
+    "Word": "absolute"
+  },
+  {
+    "sound": "мЯЯу",
+    "Word": "absolutely"
+  },
+  {
+    "sound": "мяяУ",
+    "Word": "academic"
+  },
+  {
+    "sound": "мЯяУ",
+    "Word": "accept"
+  },
+  {
+    "sound": "мяЯУ",
+    "Word": "acceptable"
+  },
+  {
+    "sound": "мЯЯУ",
+    "Word": "access"
+  },
+  {
+    "sound": "мяуу",
+    "Word": "accident"
+  },
+  {
+    "sound": "мЯуу",
+    "Word": "accommodation"
+  },
+  {
+    "sound": "мяУу",
+    "Word": "accompany"
+  },
+  {
+    "sound": "мЯУу",
+    "Word": "accordingto"
+  },
+  {
+    "sound": "мяуУ",
+    "Word": "account"
+  },
+  {
+    "sound": "мЯуУ",
+    "Word": "accurate"
+  },
+  {
+    "sound": "мяУУ",
+    "Word": "accuse"
+  },
+  {
+    "sound": "мЯУУ",
+    "Word": "achieve"
+  },
+  {
+    "sound": "мммяу",
+    "Word": "achievement"
+  },
+  {
+    "sound": "мммЯу",
+    "Word": "acknowledge"
+  },
+  {
+    "sound": "мммяУ",
+    "Word": "acquire"
+  },
+  {
+    "sound": "мммЯУ",
+    "Word": "across"
+  },
+  {
+    "sound": "ммяяу",
+    "Word": "act"
+  },
+  {
+    "sound": "ммЯяу",
+    "Word": "action"
+  },
+  {
+    "sound": "ммяЯу",
+    "Word": "active"
+  },
+  {
+    "sound": "ммЯЯу",
+    "Word": "activity"
+  },
+  {
+    "sound": "ммяяУ",
+    "Word": "actor"
+  },
+  {
+    "sound": "ммЯяУ",
+    "Word": "actress"
+  },
+  {
+    "sound": "ммяЯУ",
+    "Word": "actual"
+  },
+  {
+    "sound": "ммЯЯУ",
+    "Word": "actually"
+  },
+  {
+    "sound": "ммяуу",
+    "Word": "ad"
+  },
+  {
+    "sound": "ммЯуу",
+    "Word": "adapt"
+  },
+  {
+    "sound": "ммяУу",
+    "Word": "add"
+  },
+  {
+    "sound": "ммЯУу",
+    "Word": "addition"
+  },
+  {
+    "sound": "ммяуУ",
+    "Word": "additional"
+  },
+  {
+    "sound": "ммЯуУ",
+    "Word": "address"
+  },
+  {
+    "sound": "ммяУУ",
+    "Word": "administration"
+  },
+  {
+    "sound": "ммЯУУ",
+    "Word": "admire"
+  },
+  {
+    "sound": "мяяяу",
+    "Word": "admit"
+  },
+  {
+    "sound": "мЯяяу",
+    "Word": "adopt"
+  },
+  {
+    "sound": "мяЯяу",
+    "Word": "adult"
+  },
+  {
+    "sound": "мЯЯяу",
+    "Word": "advance"
+  },
+  {
+    "sound": "мяяЯу",
+    "Word": "advanced"
+  },
+  {
+    "sound": "мЯяЯу",
+    "Word": "advantage"
+  },
+  {
+    "sound": "мяЯЯу",
+    "Word": "adventure"
+  },
+  {
+    "sound": "мЯЯЯу",
+    "Word": "advertise"
+  },
+  {
+    "sound": "мяяяУ",
+    "Word": "advertisement"
+  },
+  {
+    "sound": "мЯяяУ",
+    "Word": "advertising"
+  },
+  {
+    "sound": "мяЯяУ",
+    "Word": "advice"
+  },
+  {
+    "sound": "мЯЯяУ",
+    "Word": "advise"
+  },
+  {
+    "sound": "мяяЯУ",
+    "Word": "affair"
+  },
+  {
+    "sound": "мЯяЯУ",
+    "Word": "affect"
+  },
+  {
+    "sound": "мяЯЯУ",
+    "Word": "afford"
+  },
+  {
+    "sound": "мЯЯЯУ",
+    "Word": "afraid"
+  },
+  {
+    "sound": "мяяуу",
+    "Word": "after"
+  },
+  {
+    "sound": "мЯяуу",
+    "Word": "afternoon"
+  },
+  {
+    "sound": "мяЯуу",
+    "Word": "afterwards"
+  },
+  {
+    "sound": "мЯЯуу",
+    "Word": "again"
+  },
+  {
+    "sound": "мяяУу",
+    "Word": "against"
+  },
+  {
+    "sound": "мЯяУу",
+    "Word": "age"
+  },
+  {
+    "sound": "мяЯУу",
+    "Word": "aged"
+  },
+  {
+    "sound": "мЯЯУу",
+    "Word": "agency"
+  },
+  {
+    "sound": "мяяуУ",
+    "Word": "agenda"
+  },
+  {
+    "sound": "мЯяуУ",
+    "Word": "agent"
+  },
+  {
+    "sound": "мяЯуУ",
+    "Word": "aggressive"
+  },
+  {
+    "sound": "мЯЯуУ",
+    "Word": "ago"
+  },
+  {
+    "sound": "мяяУУ",
+    "Word": "agree"
+  },
+  {
+    "sound": "мЯяУУ",
+    "Word": "agreement"
+  },
+  {
+    "sound": "мяЯУУ",
+    "Word": "ah"
+  },
+  {
+    "sound": "мЯЯУУ",
+    "Word": "ahead"
+  },
+  {
+    "sound": "мяууу",
+    "Word": "aid"
+  },
+  {
+    "sound": "мЯууу",
+    "Word": "aim"
+  },
+  {
+    "sound": "мяУуу",
+    "Word": "air"
+  },
+  {
+    "sound": "мЯУуу",
+    "Word": "aircraft"
+  },
+  {
+    "sound": "мяуУу",
+    "Word": "airline"
+  },
+  {
+    "sound": "мЯуУу",
+    "Word": "airport"
+  },
+  {
+    "sound": "мяУУу",
+    "Word": "alarm"
+  },
+  {
+    "sound": "мЯУУу",
+    "Word": "album"
+  },
+  {
+    "sound": "мяууУ",
+    "Word": "alcohol"
+  },
+  {
+    "sound": "мЯууУ",
+    "Word": "alcoholic"
+  },
+  {
+    "sound": "мяУуУ",
+    "Word": "alive"
+  },
+  {
+    "sound": "мЯУуУ",
+    "Word": "all"
+  },
+  {
+    "sound": "мяуУУ",
+    "Word": "allright"
+  },
+  {
+    "sound": "мЯуУУ",
+    "Word": "allow"
+  },
+  {
+    "sound": "мяУУУ",
+    "Word": "almost"
+  },
+  {
+    "sound": "мЯУУУ",
+    "Word": "alone"
+  },
+  {
+    "sound": "ммммяу",
+    "Word": "along"
+  },
+  {
+    "sound": "ммммЯу",
+    "Word": "already"
+  },
+  {
+    "sound": "ммммяУ",
+    "Word": "also"
+  },
+  {
+    "sound": "ммммЯУ",
+    "Word": "alter"
+  },
+  {
+    "sound": "мммяяу",
+    "Word": "alternative"
+  },
+  {
+    "sound": "мммЯяу",
+    "Word": "although"
+  },
+  {
+    "sound": "мммяЯу",
+    "Word": "always"
+  },
+  {
+    "sound": "мммЯЯу",
+    "Word": "amazed"
+  },
+  {
+    "sound": "мммяяУ",
+    "Word": "amazing"
+  },
+  {
+    "sound": "мммЯяУ",
+    "Word": "ambition"
+  },
+  {
+    "sound": "мммяЯУ",
+    "Word": "ambitious"
+  },
+  {
+    "sound": "мммЯЯУ",
+    "Word": "among"
+  },
+  {
+    "sound": "мммяуу",
+    "Word": "amount"
+  },
+  {
+    "sound": "мммЯуу",
+    "Word": "an"
+  },
+  {
+    "sound": "мммяУу",
+    "Word": "analyse"
+  },
+  {
+    "sound": "мммЯУу",
+    "Word": "analysis"
+  },
+  {
+    "sound": "мммяуУ",
+    "Word": "ancient"
+  },
+  {
+    "sound": "мммЯуУ",
+    "Word": "and"
+  },
+  {
+    "sound": "мммяУУ",
+    "Word": "anger"
+  },
+  {
+    "sound": "мммЯУУ",
+    "Word": "angle"
+  },
+  {
+    "sound": "ммяяяу",
+    "Word": "angry"
+  },
+  {
+    "sound": "ммЯяяу",
+    "Word": "animal"
+  },
+  {
+    "sound": "ммяЯяу",
+    "Word": "ankle"
+  },
+  {
+    "sound": "ммЯЯяу",
+    "Word": "anniversary"
+  },
+  {
+    "sound": "ммяяЯу",
+    "Word": "announce"
+  },
+  {
+    "sound": "ммЯяЯу",
+    "Word": "announcement"
+  },
+  {
+    "sound": "ммяЯЯу",
+    "Word": "annoy"
+  },
+  {
+    "sound": "ммЯЯЯу",
+    "Word": "annoyed"
+  },
+  {
+    "sound": "ммяяяУ",
+    "Word": "annoying"
+  },
+  {
+    "sound": "ммЯяяУ",
+    "Word": "annual"
+  },
+  {
+    "sound": "ммяЯяУ",
+    "Word": "another"
+  },
+  {
+    "sound": "ммЯЯяУ",
+    "Word": "answer"
+  },
+  {
+    "sound": "ммяяЯУ",
+    "Word": "anxious"
+  },
+  {
+    "sound": "ммЯяЯУ",
+    "Word": "any"
+  },
+  {
+    "sound": "ммяЯЯУ",
+    "Word": "anymore"
+  },
+  {
+    "sound": "ммЯЯЯУ",
+    "Word": "anybody"
+  },
+  {
+    "sound": "ммяяуу",
+    "Word": "anyone"
+  },
+  {
+    "sound": "ммЯяуу",
+    "Word": "anything"
+  },
+  {
+    "sound": "ммяЯуу",
+    "Word": "anyway"
+  },
+  {
+    "sound": "ммЯЯуу",
+    "Word": "anywhere"
+  },
+  {
+    "sound": "ммяяУу",
+    "Word": "apart"
+  },
+  {
+    "sound": "ммЯяУу",
+    "Word": "apartment"
+  },
+  {
+    "sound": "ммяЯУу",
+    "Word": "apologize"
+  },
+  {
+    "sound": "ммЯЯУу",
+    "Word": "app"
+  },
+  {
+    "sound": "ммяяуУ",
+    "Word": "apparent"
+  },
+  {
+    "sound": "ммЯяуУ",
+    "Word": "apparently"
+  },
+  {
+    "sound": "ммяЯуУ",
+    "Word": "appeal"
+  },
+  {
+    "sound": "ммЯЯуУ",
+    "Word": "appear"
+  },
+  {
+    "sound": "ммяяУУ",
+    "Word": "appearance"
+  },
+  {
+    "sound": "ммЯяУУ",
+    "Word": "apple"
+  },
+  {
+    "sound": "ммяЯУУ",
+    "Word": "application"
+  },
+  {
+    "sound": "ммЯЯУУ",
+    "Word": "apply"
+  },
+  {
+    "sound": "ммяууу",
+    "Word": "appointment"
+  },
+  {
+    "sound": "ммЯууу",
+    "Word": "appreciate"
+  },
+  {
+    "sound": "ммяУуу",
+    "Word": "approach"
+  },
+  {
+    "sound": "ммЯУуу",
+    "Word": "appropriate"
+  },
+  {
+    "sound": "ммяуУу",
+    "Word": "approval"
+  },
+  {
+    "sound": "ммЯуУу",
+    "Word": "approve"
+  },
+  {
+    "sound": "ммяУУу",
+    "Word": "approximately"
+  },
+  {
+    "sound": "ммЯУУу",
+    "Word": "april"
+  },
+  {
+    "sound": "ммяууУ",
+    "Word": "architect"
+  },
+  {
+    "sound": "ммЯууУ",
+    "Word": "architecture"
+  },
+  {
+    "sound": "ммяУуУ",
+    "Word": "area"
+  },
+  {
+    "sound": "ммЯУуУ",
+    "Word": "argue"
+  },
+  {
+    "sound": "ммяуУУ",
+    "Word": "argument"
+  },
+  {
+    "sound": "ммЯуУУ",
+    "Word": "arise"
+  },
+  {
+    "sound": "ммяУУУ",
+    "Word": "arm"
+  },
+  {
+    "sound": "ммЯУУУ",
+    "Word": "armed"
+  },
+  {
+    "sound": "мяяяяу",
+    "Word": "arms"
+  },
+  {
+    "sound": "мЯяяяу",
+    "Word": "army"
+  },
+  {
+    "sound": "мяЯяяу",
+    "Word": "around"
+  },
+  {
+    "sound": "мЯЯяяу",
+    "Word": "arrange"
+  },
+  {
+    "sound": "мяяЯяу",
+    "Word": "arrangement"
+  },
+  {
+    "sound": "мЯяЯяу",
+    "Word": "arrest"
+  },
+  {
+    "sound": "мяЯЯяу",
+    "Word": "arrival"
+  },
+  {
+    "sound": "мЯЯЯяу",
+    "Word": "arrive"
+  },
+  {
+    "sound": "мяяяЯу",
+    "Word": "art"
+  },
+  {
+    "sound": "мЯяяЯу",
+    "Word": "article"
+  },
+  {
+    "sound": "мяЯяЯу",
+    "Word": "artificial"
+  },
+  {
+    "sound": "мЯЯяЯу",
+    "Word": "artist"
+  },
+  {
+    "sound": "мяяЯЯу",
+    "Word": "artistic"
+  },
+  {
+    "sound": "мЯяЯЯу",
+    "Word": "as"
+  },
+  {
+    "sound": "мяЯЯЯу",
+    "Word": "ashamed"
+  },
+  {
+    "sound": "мЯЯЯЯу",
+    "Word": "ask"
+  },
+  {
+    "sound": "мяяяяУ",
+    "Word": "asleep"
+  },
+  {
+    "sound": "мЯяяяУ",
+    "Word": "aspect"
+  },
+  {
+    "sound": "мяЯяяУ",
+    "Word": "assess"
+  },
+  {
+    "sound": "мЯЯяяУ",
+    "Word": "assessment"
+  },
+  {
+    "sound": "мяяЯяУ",
+    "Word": "assignment"
+  },
+  {
+    "sound": "мЯяЯяУ",
+    "Word": "assist"
+  },
+  {
+    "sound": "мяЯЯяУ",
+    "Word": "assistant"
+  },
+  {
+    "sound": "мЯЯЯяУ",
+    "Word": "associate"
+  },
+  {
+    "sound": "мяяяЯУ",
+    "Word": "associated"
+  },
+  {
+    "sound": "мЯяяЯУ",
+    "Word": "association"
+  },
+  {
+    "sound": "мяЯяЯУ",
+    "Word": "assume"
+  },
+  {
+    "sound": "мЯЯяЯУ",
+    "Word": "at"
+  },
+  {
+    "sound": "мяяЯЯУ",
+    "Word": "athlete"
+  },
+  {
+    "sound": "мЯяЯЯУ",
+    "Word": "atmosphere"
+  },
+  {
+    "sound": "мяЯЯЯУ",
+    "Word": "attach"
+  },
+  {
+    "sound": "мЯЯЯЯУ",
+    "Word": "attack"
+  },
+  {
+    "sound": "мяяяуу",
+    "Word": "attempt"
+  },
+  {
+    "sound": "мЯяяуу",
+    "Word": "attend"
+  },
+  {
+    "sound": "мяЯяуу",
+    "Word": "attention"
+  },
+  {
+    "sound": "мЯЯяуу",
+    "Word": "attitude"
+  },
+  {
+    "sound": "мяяЯуу",
+    "Word": "attract"
+  },
+  {
+    "sound": "мЯяЯуу",
+    "Word": "attraction"
+  },
+  {
+    "sound": "мяЯЯуу",
+    "Word": "attractive"
+  },
+  {
+    "sound": "мЯЯЯуу",
+    "Word": "audience"
+  },
+  {
+    "sound": "мяяяУу",
+    "Word": "august"
+  },
+  {
+    "sound": "мЯяяУу",
+    "Word": "aunt"
+  },
+  {
+    "sound": "мяЯяУу",
+    "Word": "author"
+  },
+  {
+    "sound": "мЯЯяУу",
+    "Word": "authority"
+  },
+  {
+    "sound": "мяяЯУу",
+    "Word": "autumn"
+  },
+  {
+    "sound": "мЯяЯУу",
+    "Word": "available"
+  },
+  {
+    "sound": "мяЯЯУу",
+    "Word": "average"
+  },
+  {
+    "sound": "мЯЯЯУу",
+    "Word": "avoid"
+  },
+  {
+    "sound": "мяяяуУ",
+    "Word": "award"
+  },
+  {
+    "sound": "мЯяяуУ",
+    "Word": "aware"
+  },
+  {
+    "sound": "мяЯяуУ",
+    "Word": "away"
+  },
+  {
+    "sound": "мЯЯяуУ",
+    "Word": "awful"
+  },
+  {
+    "sound": "мяяЯуУ",
+    "Word": "baby"
+  },
+  {
+    "sound": "мЯяЯуУ",
+    "Word": "back"
+  },
+  {
+    "sound": "мяЯЯуУ",
+    "Word": "background"
+  },
+  {
+    "sound": "мЯЯЯуУ",
+    "Word": "backwards"
+  },
+  {
+    "sound": "мяяяУУ",
+    "Word": "bacteria"
+  },
+  {
+    "sound": "мЯяяУУ",
+    "Word": "bad"
+  },
+  {
+    "sound": "мяЯяУУ",
+    "Word": "badly"
+  },
+  {
+    "sound": "мЯЯяУУ",
+    "Word": "bag"
+  },
+  {
+    "sound": "мяяЯУУ",
+    "Word": "bake"
+  },
+  {
+    "sound": "мЯяЯУУ",
+    "Word": "balance"
+  },
+  {
+    "sound": "мяЯЯУУ",
+    "Word": "ball"
+  },
+  {
+    "sound": "мЯЯЯУУ",
+    "Word": "ban"
+  },
+  {
+    "sound": "мяяууу",
+    "Word": "banana"
+  },
+  {
+    "sound": "мЯяууу",
+    "Word": "band"
+  },
+  {
+    "sound": "мяЯууу",
+    "Word": "bank"
+  },
+  {
+    "sound": "мЯЯууу",
+    "Word": "bar"
+  },
+  {
+    "sound": "мяяУуу",
+    "Word": "barrier"
+  },
+  {
+    "sound": "мЯяУуу",
+    "Word": "base"
+  },
+  {
+    "sound": "мяЯУуу",
+    "Word": "baseball"
+  },
+  {
+    "sound": "мЯЯУуу",
+    "Word": "based"
+  },
+  {
+    "sound": "мяяуУу",
+    "Word": "basic"
+  },
+  {
+    "sound": "мЯяуУу",
+    "Word": "basically"
+  },
+  {
+    "sound": "мяЯуУу",
+    "Word": "basis"
+  },
+  {
+    "sound": "мЯЯуУу",
+    "Word": "basketball"
+  },
+  {
+    "sound": "мяяУУу",
+    "Word": "bath"
+  },
+  {
+    "sound": "мЯяУУу",
+    "Word": "bathroom"
+  },
+  {
+    "sound": "мяЯУУу",
+    "Word": "battery"
+  },
+  {
+    "sound": "мЯЯУУу",
+    "Word": "battle"
+  },
+  {
+    "sound": "мяяууУ",
+    "Word": "be"
+  },
+  {
+    "sound": "мЯяууУ",
+    "Word": "beach"
+  },
+  {
+    "sound": "мяЯууУ",
+    "Word": "bean"
+  },
+  {
+    "sound": "мЯЯууУ",
+    "Word": "bear"
+  },
+  {
+    "sound": "мяяУуУ",
+    "Word": "beat"
+  },
+  {
+    "sound": "мЯяУуУ",
+    "Word": "beautiful"
+  },
+  {
+    "sound": "мяЯУуУ",
+    "Word": "beauty"
+  },
+  {
+    "sound": "мЯЯУуУ",
+    "Word": "because"
+  },
+  {
+    "sound": "мяяуУУ",
+    "Word": "become"
+  },
+  {
+    "sound": "мЯяуУУ",
+    "Word": "bed"
+  },
+  {
+    "sound": "мяЯуУУ",
+    "Word": "bedroom"
+  },
+  {
+    "sound": "мЯЯуУУ",
+    "Word": "bee"
+  },
+  {
+    "sound": "мяяУУУ",
+    "Word": "beef"
+  },
+  {
+    "sound": "мЯяУУУ",
+    "Word": "beer"
+  },
+  {
+    "sound": "мяЯУУУ",
+    "Word": "before"
+  },
+  {
+    "sound": "мЯЯУУУ",
+    "Word": "beg"
+  },
+  {
+    "sound": "мяуууу",
+    "Word": "begin"
+  },
+  {
+    "sound": "мЯуууу",
+    "Word": "beginning"
+  },
+  {
+    "sound": "мяУууу",
+    "Word": "behave"
+  },
+  {
+    "sound": "мЯУууу",
+    "Word": "behaviour"
+  },
+  {
+    "sound": "мяуУуу",
+    "Word": "behind"
+  },
+  {
+    "sound": "мЯуУуу",
+    "Word": "being"
+  },
+  {
+    "sound": "мяУУуу",
+    "Word": "belief"
+  },
+  {
+    "sound": "мЯУУуу",
+    "Word": "believe"
+  },
+  {
+    "sound": "мяууУу",
+    "Word": "bell"
+  },
+  {
+    "sound": "мЯууУу",
+    "Word": "belong"
+  },
+  {
+    "sound": "мяУуУу",
+    "Word": "below"
+  },
+  {
+    "sound": "мЯУуУу",
+    "Word": "belt"
+  },
+  {
+    "sound": "мяуУУу",
+    "Word": "bend"
+  },
+  {
+    "sound": "мЯуУУу",
+    "Word": "benefit"
+  },
+  {
+    "sound": "мяУУУу",
+    "Word": "bent"
+  },
+  {
+    "sound": "мЯУУУу",
+    "Word": "best"
+  },
+  {
+    "sound": "мяуууУ",
+    "Word": "bet"
+  },
+  {
+    "sound": "мЯуууУ",
+    "Word": "better"
+  },
+  {
+    "sound": "мяУууУ",
+    "Word": "between"
+  },
+  {
+    "sound": "мЯУууУ",
+    "Word": "beyond"
+  },
+  {
+    "sound": "мяуУуУ",
+    "Word": "bicycle"
+  },
+  {
+    "sound": "мЯуУуУ",
+    "Word": "big"
+  },
+  {
+    "sound": "мяУУуУ",
+    "Word": "bike"
+  },
+  {
+    "sound": "мЯУУуУ",
+    "Word": "bill"
+  },
+  {
+    "sound": "мяууУУ",
+    "Word": "billion"
+  },
+  {
+    "sound": "мЯууУУ",
+    "Word": "bin"
+  },
+  {
+    "sound": "мяУуУУ",
+    "Word": "biology"
+  },
+  {
+    "sound": "мЯУуУУ",
+    "Word": "bird"
+  },
+  {
+    "sound": "мяуУУУ",
+    "Word": "birth"
+  },
+  {
+    "sound": "мЯуУУУ",
+    "Word": "birthday"
+  },
+  {
+    "sound": "мяУУУУ",
+    "Word": "biscuit"
+  },
+  {
+    "sound": "мЯУУУУ",
+    "Word": "bit"
+  },
+  {
+    "sound": "мммммяу",
+    "Word": "bite"
+  },
+  {
+    "sound": "мммммЯу",
+    "Word": "bitter"
+  },
+  {
+    "sound": "мммммяУ",
+    "Word": "black"
+  },
+  {
+    "sound": "мммммЯУ",
+    "Word": "blame"
+  },
+  {
+    "sound": "ммммяяу",
+    "Word": "blank"
+  },
+  {
+    "sound": "ммммЯяу",
+    "Word": "blind"
+  },
+  {
+    "sound": "ммммяЯу",
+    "Word": "block"
+  },
+  {
+    "sound": "ммммЯЯу",
+    "Word": "blog"
+  },
+  {
+    "sound": "ммммяяУ",
+    "Word": "blonde"
+  },
+  {
+    "sound": "ммммЯяУ",
+    "Word": "blood"
+  },
+  {
+    "sound": "ммммяЯУ",
+    "Word": "blow"
+  },
+  {
+    "sound": "ммммЯЯУ",
+    "Word": "blue"
+  },
+  {
+    "sound": "ммммяуу",
+    "Word": "board"
+  },
+  {
+    "sound": "ммммЯуу",
+    "Word": "boat"
+  },
+  {
+    "sound": "ммммяУу",
+    "Word": "body"
+  },
+  {
+    "sound": "ммммЯУу",
+    "Word": "boil"
+  },
+  {
+    "sound": "ммммяуУ",
+    "Word": "bomb"
+  },
+  {
+    "sound": "ммммЯуУ",
+    "Word": "bond"
+  },
+  {
+    "sound": "ммммяУУ",
+    "Word": "bone"
+  },
+  {
+    "sound": "ммммЯУУ",
+    "Word": "book"
+  },
+  {
+    "sound": "мммяяяу",
+    "Word": "boot"
+  },
+  {
+    "sound": "мммЯяяу",
+    "Word": "border"
+  },
+  {
+    "sound": "мммяЯяу",
+    "Word": "bored"
+  },
+  {
+    "sound": "мммЯЯяу",
+    "Word": "boring"
+  },
+  {
+    "sound": "мммяяЯу",
+    "Word": "born"
+  },
+  {
+    "sound": "мммЯяЯу",
+    "Word": "borrow"
+  },
+  {
+    "sound": "мммяЯЯу",
+    "Word": "boss"
+  },
+  {
+    "sound": "мммЯЯЯу",
+    "Word": "both"
+  },
+  {
+    "sound": "мммяяяУ",
+    "Word": "bother"
+  },
+  {
+    "sound": "мммЯяяУ",
+    "Word": "bottle"
+  },
+  {
+    "sound": "мммяЯяУ",
+    "Word": "bottom"
+  },
+  {
+    "sound": "мммЯЯяУ",
+    "Word": "bowl"
+  },
+  {
+    "sound": "мммяяЯУ",
+    "Word": "box"
+  },
+  {
+    "sound": "мммЯяЯУ",
+    "Word": "boy"
+  },
+  {
+    "sound": "мммяЯЯУ",
+    "Word": "boyfriend"
+  },
+  {
+    "sound": "мммЯЯЯУ",
+    "Word": "brain"
+  },
+  {
+    "sound": "мммяяуу",
+    "Word": "branch"
+  },
+  {
+    "sound": "мммЯяуу",
+    "Word": "brand"
+  },
+  {
+    "sound": "мммяЯуу",
+    "Word": "brave"
+  },
+  {
+    "sound": "мммЯЯуу",
+    "Word": "bread"
+  },
+  {
+    "sound": "мммяяУу",
+    "Word": "break"
+  },
+  {
+    "sound": "мммЯяУу",
+    "Word": "breakfast"
+  },
+  {
+    "sound": "мммяЯУу",
+    "Word": "breast"
+  },
+  {
+    "sound": "мммЯЯУу",
+    "Word": "breath"
+  },
+  {
+    "sound": "мммяяуУ",
+    "Word": "breathe"
+  },
+  {
+    "sound": "мммЯяуУ",
+    "Word": "breathing"
+  },
+  {
+    "sound": "мммяЯуУ",
+    "Word": "bride"
+  },
+  {
+    "sound": "мммЯЯуУ",
+    "Word": "bridge"
+  },
+  {
+    "sound": "мммяяУУ",
+    "Word": "brief"
+  },
+  {
+    "sound": "мммЯяУУ",
+    "Word": "bright"
+  },
+  {
+    "sound": "мммяЯУУ",
+    "Word": "brilliant"
+  },
+  {
+    "sound": "мммЯЯУУ",
+    "Word": "bring"
+  },
+  {
+    "sound": "мммяууу",
+    "Word": "broad"
+  },
+  {
+    "sound": "мммЯууу",
+    "Word": "broadcast"
+  },
+  {
+    "sound": "мммяУуу",
+    "Word": "broken"
+  },
+  {
+    "sound": "мммЯУуу",
+    "Word": "brother"
+  },
+  {
+    "sound": "мммяуУу",
+    "Word": "brown"
+  },
+  {
+    "sound": "мммЯуУу",
+    "Word": "brush"
+  },
+  {
+    "sound": "мммяУУу",
+    "Word": "bubble"
+  },
+  {
+    "sound": "мммЯУУу",
+    "Word": "budget"
+  },
+  {
+    "sound": "мммяууУ",
+    "Word": "build"
+  },
+  {
+    "sound": "мммЯууУ",
+    "Word": "building"
+  },
+  {
+    "sound": "мммяУуУ",
+    "Word": "bullet"
+  },
+  {
+    "sound": "мммЯУуУ",
+    "Word": "bunch"
+  },
+  {
+    "sound": "мммяуУУ",
+    "Word": "burn"
+  },
+  {
+    "sound": "мммЯуУУ",
+    "Word": "bury"
+  },
+  {
+    "sound": "мммяУУУ",
+    "Word": "bus"
+  },
+  {
+    "sound": "мммЯУУУ",
+    "Word": "bush"
+  },
+  {
+    "sound": "ммяяяяу",
+    "Word": "business"
+  },
+  {
+    "sound": "ммЯяяяу",
+    "Word": "businessman"
+  },
+  {
+    "sound": "ммяЯяяу",
+    "Word": "busy"
+  },
+  {
+    "sound": "ммЯЯяяу",
+    "Word": "but"
+  },
+  {
+    "sound": "ммяяЯяу",
+    "Word": "butter"
+  },
+  {
+    "sound": "ммЯяЯяу",
+    "Word": "button"
+  },
+  {
+    "sound": "ммяЯЯяу",
+    "Word": "buy"
+  },
+  {
+    "sound": "ммЯЯЯяу",
+    "Word": "by"
+  },
+  {
+    "sound": "ммяяяЯу",
+    "Word": "bye"
+  },
+  {
+    "sound": "ммЯяяЯу",
+    "Word": "cable"
+  },
+  {
+    "sound": "ммяЯяЯу",
+    "Word": "cafe"
+  },
+  {
+    "sound": "ммЯЯяЯу",
+    "Word": "cake"
+  },
+  {
+    "sound": "ммяяЯЯу",
+    "Word": "calculate"
+  },
+  {
+    "sound": "ммЯяЯЯу",
+    "Word": "call"
+  },
+  {
+    "sound": "ммяЯЯЯу",
+    "Word": "calm"
+  },
+  {
+    "sound": "ммЯЯЯЯу",
+    "Word": "camera"
+  },
+  {
+    "sound": "ммяяяяУ",
+    "Word": "camp"
+  },
+  {
+    "sound": "ммЯяяяУ",
+    "Word": "campaign"
+  },
+  {
+    "sound": "ммяЯяяУ",
+    "Word": "camping"
+  },
+  {
+    "sound": "ммЯЯяяУ",
+    "Word": "campus"
+  },
+  {
+    "sound": "ммяяЯяУ",
+    "Word": "can"
+  },
+  {
+    "sound": "ммЯяЯяУ",
+    "Word": "cancel"
+  },
+  {
+    "sound": "ммяЯЯяУ",
+    "Word": "cancer"
+  },
+  {
+    "sound": "ммЯЯЯяУ",
+    "Word": "candidate"
+  },
+  {
+    "sound": "ммяяяЯУ",
+    "Word": "cannot"
+  },
+  {
+    "sound": "ммЯяяЯУ",
+    "Word": "cap"
+  },
+  {
+    "sound": "ммяЯяЯУ",
+    "Word": "capable"
+  },
+  {
+    "sound": "ммЯЯяЯУ",
+    "Word": "capacity"
+  },
+  {
+    "sound": "ммяяЯЯУ",
+    "Word": "capital"
+  },
+  {
+    "sound": "ммЯяЯЯУ",
+    "Word": "captain"
+  },
+  {
+    "sound": "ммяЯЯЯУ",
+    "Word": "capture"
+  },
+  {
+    "sound": "ммЯЯЯЯУ",
+    "Word": "car"
+  },
+  {
+    "sound": "ммяяяуу",
+    "Word": "card"
+  },
+  {
+    "sound": "ммЯяяуу",
+    "Word": "care"
+  },
+  {
+    "sound": "ммяЯяуу",
+    "Word": "career"
+  },
+  {
+    "sound": "ммЯЯяуу",
+    "Word": "careful"
+  },
+  {
+    "sound": "ммяяЯуу",
+    "Word": "carefully"
+  },
+  {
+    "sound": "ммЯяЯуу",
+    "Word": "careless"
+  },
+  {
+    "sound": "ммяЯЯуу",
+    "Word": "carpet"
+  },
+  {
+    "sound": "ммЯЯЯуу",
+    "Word": "carrot"
+  },
+  {
+    "sound": "ммяяяУу",
+    "Word": "carry"
+  },
+  {
+    "sound": "ммЯяяУу",
+    "Word": "cartoon"
+  },
+  {
+    "sound": "ммяЯяУу",
+    "Word": "case"
+  },
+  {
+    "sound": "ммЯЯяУу",
+    "Word": "cash"
+  },
+  {
+    "sound": "ммяяЯУу",
+    "Word": "cast"
+  },
+  {
+    "sound": "ммЯяЯУу",
+    "Word": "castle"
+  },
+  {
+    "sound": "ммяЯЯУу",
+    "Word": "cat"
+  },
+  {
+    "sound": "ммЯЯЯУу",
+    "Word": "catch"
+  },
+  {
+    "sound": "ммяяяуУ",
+    "Word": "category"
+  },
+  {
+    "sound": "ммЯяяуУ",
+    "Word": "cause"
+  },
+  {
+    "sound": "ммяЯяуУ",
+    "Word": "cd"
+  },
+  {
+    "sound": "ммЯЯяуУ",
+    "Word": "ceiling"
+  },
+  {
+    "sound": "ммяяЯуУ",
+    "Word": "celebrate"
+  },
+  {
+    "sound": "ммЯяЯуУ",
+    "Word": "celebration"
+  },
+  {
+    "sound": "ммяЯЯуУ",
+    "Word": "celebrity"
+  },
+  {
+    "sound": "ммЯЯЯуУ",
+    "Word": "cell"
+  },
+  {
+    "sound": "ммяяяУУ",
+    "Word": "cent"
+  },
+  {
+    "sound": "ммЯяяУУ",
+    "Word": "central"
+  },
+  {
+    "sound": "ммяЯяУУ",
+    "Word": "centre"
+  },
+  {
+    "sound": "ммЯЯяУУ",
+    "Word": "century"
+  },
+  {
+    "sound": "ммяяЯУУ",
+    "Word": "ceremony"
+  },
+  {
+    "sound": "ммЯяЯУУ",
+    "Word": "certain"
+  },
+  {
+    "sound": "ммяЯЯУУ",
+    "Word": "certainly"
+  },
+  {
+    "sound": "ммЯЯЯУУ",
+    "Word": "chain"
+  },
+  {
+    "sound": "ммяяууу",
+    "Word": "chair"
+  },
+  {
+    "sound": "ммЯяууу",
+    "Word": "chairman"
+  },
+  {
+    "sound": "ммяЯууу",
+    "Word": "challenge"
+  },
+  {
+    "sound": "ммЯЯууу",
+    "Word": "champion"
+  },
+  {
+    "sound": "ммяяУуу",
+    "Word": "chance"
+  },
+  {
+    "sound": "ммЯяУуу",
+    "Word": "change"
+  },
+  {
+    "sound": "ммяЯУуу",
+    "Word": "channel"
+  },
+  {
+    "sound": "ммЯЯУуу",
+    "Word": "chapter"
+  },
+  {
+    "sound": "ммяяуУу",
+    "Word": "character"
+  },
+  {
+    "sound": "ммЯяуУу",
+    "Word": "characteristic"
+  },
+  {
+    "sound": "ммяЯуУу",
+    "Word": "charge"
+  },
+  {
+    "sound": "ммЯЯуУу",
+    "Word": "charity"
+  },
+  {
+    "sound": "ммяяУУу",
+    "Word": "chart"
+  },
+  {
+    "sound": "ммЯяУУу",
+    "Word": "chat"
+  },
+  {
+    "sound": "ммяЯУУу",
+    "Word": "cheap"
+  },
+  {
+    "sound": "ммЯЯУУу",
+    "Word": "cheat"
+  },
+  {
+    "sound": "ммяяууУ",
+    "Word": "check"
+  },
+  {
+    "sound": "ммЯяууУ",
+    "Word": "cheerful"
+  },
+  {
+    "sound": "ммяЯууУ",
+    "Word": "cheese"
+  },
+  {
+    "sound": "ммЯЯууУ",
+    "Word": "chef"
+  },
+  {
+    "sound": "ммяяУуУ",
+    "Word": "chemical"
+  },
+  {
+    "sound": "ммЯяУуУ",
+    "Word": "chemistry"
+  },
+  {
+    "sound": "ммяЯУуУ",
+    "Word": "chest"
+  },
+  {
+    "sound": "ммЯЯУуУ",
+    "Word": "chicken"
+  },
+  {
+    "sound": "ммяяуУУ",
+    "Word": "chief"
+  },
+  {
+    "sound": "ммЯяуУУ",
+    "Word": "child"
+  },
+  {
+    "sound": "ммяЯуУУ",
+    "Word": "childhood"
+  },
+  {
+    "sound": "ммЯЯуУУ",
+    "Word": "chip"
+  },
+  {
+    "sound": "ммяяУУУ",
+    "Word": "chocolate"
+  },
+  {
+    "sound": "ммЯяУУУ",
+    "Word": "choice"
+  },
+  {
+    "sound": "ммяЯУУУ",
+    "Word": "choose"
+  },
+  {
+    "sound": "ммЯЯУУУ",
+    "Word": "church"
+  },
+  {
+    "sound": "ммяуууу",
+    "Word": "cigarette"
+  },
+  {
+    "sound": "ммЯуууу",
+    "Word": "cinema"
+  },
+  {
+    "sound": "ммяУууу",
+    "Word": "circle"
+  },
+  {
+    "sound": "ммЯУууу",
+    "Word": "circumstance"
+  },
+  {
+    "sound": "ммяуУуу",
+    "Word": "cite"
+  },
+  {
+    "sound": "ммЯуУуу",
+    "Word": "citizen"
+  },
+  {
+    "sound": "ммяУУуу",
+    "Word": "city"
+  },
+  {
+    "sound": "ммЯУУуу",
+    "Word": "civil"
+  },
+  {
+    "sound": "ммяууУу",
+    "Word": "claim"
+  },
+  {
+    "sound": "ммЯууУу",
+    "Word": "class"
+  },
+  {
+    "sound": "ммяУуУу",
+    "Word": "classic"
+  },
+  {
+    "sound": "ммЯУуУу",
+    "Word": "classical"
+  },
+  {
+    "sound": "ммяуУУу",
+    "Word": "classroom"
+  },
+  {
+    "sound": "ммЯуУУу",
+    "Word": "clause"
+  },
+  {
+    "sound": "ммяУУУу",
+    "Word": "clean"
+  },
+  {
+    "sound": "ммЯУУУу",
+    "Word": "clear"
+  },
+  {
+    "sound": "ммяуууУ",
+    "Word": "clearly"
+  },
+  {
+    "sound": "ммЯуууУ",
+    "Word": "clever"
+  },
+  {
+    "sound": "ммяУууУ",
+    "Word": "click"
+  },
+  {
+    "sound": "ммЯУууУ",
+    "Word": "client"
+  },
+  {
+    "sound": "ммяуУуУ",
+    "Word": "climate"
+  },
+  {
+    "sound": "ммЯуУуУ",
+    "Word": "climb"
+  },
+  {
+    "sound": "ммяУУуУ",
+    "Word": "clock"
+  },
+  {
+    "sound": "ммЯУУуУ",
+    "Word": "close"
+  },
+  {
+    "sound": "ммяууУУ",
+    "Word": "closed"
+  },
+  {
+    "sound": "ммЯууУУ",
+    "Word": "closely"
+  },
+  {
+    "sound": "ммяУуУУ",
+    "Word": "cloth"
+  },
+  {
+    "sound": "ммЯУуУУ",
+    "Word": "clothes"
+  },
+  {
+    "sound": "ммяуУУУ",
+    "Word": "clothing"
+  },
+  {
+    "sound": "ммЯуУУУ",
+    "Word": "cloud"
+  },
+  {
+    "sound": "ммяУУУУ",
+    "Word": "club"
+  },
+  {
+    "sound": "ммЯУУУУ",
+    "Word": "clue"
+  },
+  {
+    "sound": "мяяяяяу",
+    "Word": "coach"
+  },
+  {
+    "sound": "мЯяяяяу",
+    "Word": "coal"
+  },
+  {
+    "sound": "мяЯяяяу",
+    "Word": "coast"
+  },
+  {
+    "sound": "мЯЯяяяу",
+    "Word": "coat"
+  },
+  {
+    "sound": "мяяЯяяу",
+    "Word": "code"
+  },
+  {
+    "sound": "мЯяЯяяу",
+    "Word": "coffee"
+  },
+  {
+    "sound": "мяЯЯяяу",
+    "Word": "coin"
+  },
+  {
+    "sound": "мЯЯЯяяу",
+    "Word": "cold"
+  },
+  {
+    "sound": "мяяяЯяу",
+    "Word": "collapse"
+  },
+  {
+    "sound": "мЯяяЯяу",
+    "Word": "colleague"
+  },
+  {
+    "sound": "мяЯяЯяу",
+    "Word": "collect"
+  },
+  {
+    "sound": "мЯЯяЯяу",
+    "Word": "collection"
+  },
+  {
+    "sound": "мяяЯЯяу",
+    "Word": "college"
+  },
+  {
+    "sound": "мЯяЯЯяу",
+    "Word": "colour"
+  },
+  {
+    "sound": "мяЯЯЯяу",
+    "Word": "coloured"
+  },
+  {
+    "sound": "мЯЯЯЯяу",
+    "Word": "column"
+  },
+  {
+    "sound": "мяяяяЯу",
+    "Word": "combination"
+  },
+  {
+    "sound": "мЯяяяЯу",
+    "Word": "combine"
+  },
+  {
+    "sound": "мяЯяяЯу",
+    "Word": "come"
+  },
+  {
+    "sound": "мЯЯяяЯу",
+    "Word": "comedy"
+  },
+  {
+    "sound": "мяяЯяЯу",
+    "Word": "comfort"
+  },
+  {
+    "sound": "мЯяЯяЯу",
+    "Word": "comfortable"
+  },
+  {
+    "sound": "мяЯЯяЯу",
+    "Word": "command"
+  },
+  {
+    "sound": "мЯЯЯяЯу",
+    "Word": "comment"
+  },
+  {
+    "sound": "мяяяЯЯу",
+    "Word": "commercial"
+  },
+  {
+    "sound": "мЯяяЯЯу",
+    "Word": "commission"
+  },
+  {
+    "sound": "мяЯяЯЯу",
+    "Word": "commit"
+  },
+  {
+    "sound": "мЯЯяЯЯу",
+    "Word": "commitment"
+  },
+  {
+    "sound": "мяяЯЯЯу",
+    "Word": "committee"
+  },
+  {
+    "sound": "мЯяЯЯЯу",
+    "Word": "common"
+  },
+  {
+    "sound": "мяЯЯЯЯу",
+    "Word": "commonly"
+  },
+  {
+    "sound": "мЯЯЯЯЯу",
+    "Word": "communicate"
+  },
+  {
+    "sound": "мяяяяяУ",
+    "Word": "communication"
+  },
+  {
+    "sound": "мЯяяяяУ",
+    "Word": "community"
+  },
+  {
+    "sound": "мяЯяяяУ",
+    "Word": "company"
+  },
+  {
+    "sound": "мЯЯяяяУ",
+    "Word": "compare"
+  },
+  {
+    "sound": "мяяЯяяУ",
+    "Word": "comparison"
+  },
+  {
+    "sound": "мЯяЯяяУ",
+    "Word": "compete"
+  },
+  {
+    "sound": "мяЯЯяяУ",
+    "Word": "competition"
+  },
+  {
+    "sound": "мЯЯЯяяУ",
+    "Word": "competitive"
+  },
+  {
+    "sound": "мяяяЯяУ",
+    "Word": "competitor"
+  },
+  {
+    "sound": "мЯяяЯяУ",
+    "Word": "complain"
+  },
+  {
+    "sound": "мяЯяЯяУ",
+    "Word": "complaint"
+  },
+  {
+    "sound": "мЯЯяЯяУ",
+    "Word": "complete"
+  },
+  {
+    "sound": "мяяЯЯяУ",
+    "Word": "completely"
+  },
+  {
+    "sound": "мЯяЯЯяУ",
+    "Word": "complex"
+  },
+  {
+    "sound": "мяЯЯЯяУ",
+    "Word": "complicated"
+  },
+  {
+    "sound": "мЯЯЯЯяУ",
+    "Word": "component"
+  },
+  {
+    "sound": "мяяяяЯУ",
+    "Word": "computer"
+  },
+  {
+    "sound": "мЯяяяЯУ",
+    "Word": "concentrate"
+  },
+  {
+    "sound": "мяЯяяЯУ",
+    "Word": "concentration"
+  },
+  {
+    "sound": "мЯЯяяЯУ",
+    "Word": "concept"
+  },
+  {
+    "sound": "мяяЯяЯУ",
+    "Word": "concern"
+  },
+  {
+    "sound": "мЯяЯяЯУ",
+    "Word": "concerned"
+  },
+  {
+    "sound": "мяЯЯяЯУ",
+    "Word": "concert"
+  },
+  {
+    "sound": "мЯЯЯяЯУ",
+    "Word": "conclude"
+  },
+  {
+    "sound": "мяяяЯЯУ",
+    "Word": "conclusion"
+  },
+  {
+    "sound": "мЯяяЯЯУ",
+    "Word": "condition"
+  },
+  {
+    "sound": "мяЯяЯЯУ",
+    "Word": "conduct"
+  },
+  {
+    "sound": "мЯЯяЯЯУ",
+    "Word": "conference"
+  },
+  {
+    "sound": "мяяЯЯЯУ",
+    "Word": "confidence"
+  },
+  {
+    "sound": "мЯяЯЯЯУ",
+    "Word": "confident"
+  },
+  {
+    "sound": "мяЯЯЯЯУ",
+    "Word": "confirm"
+  },
+  {
+    "sound": "мЯЯЯЯЯУ",
+    "Word": "conflict"
+  },
+  {
+    "sound": "мяяяяуу",
+    "Word": "confuse"
+  },
+  {
+    "sound": "мЯяяяуу",
+    "Word": "confused"
+  },
+  {
+    "sound": "мяЯяяуу",
+    "Word": "confusing"
+  },
+  {
+    "sound": "мЯЯяяуу",
+    "Word": "connect"
+  },
+  {
+    "sound": "мяяЯяуу",
+    "Word": "connected"
+  },
+  {
+    "sound": "мЯяЯяуу",
+    "Word": "connection"
+  },
+  {
+    "sound": "мяЯЯяуу",
+    "Word": "conscious"
+  },
+  {
+    "sound": "мЯЯЯяуу",
+    "Word": "consequence"
+  },
+  {
+    "sound": "мяяяЯуу",
+    "Word": "conservative"
+  },
+  {
+    "sound": "мЯяяЯуу",
+    "Word": "consider"
+  },
+  {
+    "sound": "мяЯяЯуу",
+    "Word": "consideration"
+  },
+  {
+    "sound": "мЯЯяЯуу",
+    "Word": "consist"
+  },
+  {
+    "sound": "мяяЯЯуу",
+    "Word": "consistent"
+  },
+  {
+    "sound": "мЯяЯЯуу",
+    "Word": "constant"
+  },
+  {
+    "sound": "мяЯЯЯуу",
+    "Word": "constantly"
+  },
+  {
+    "sound": "мЯЯЯЯуу",
+    "Word": "construct"
+  },
+  {
+    "sound": "мяяяяУу",
+    "Word": "construction"
+  },
+  {
+    "sound": "мЯяяяУу",
+    "Word": "consume"
+  },
+  {
+    "sound": "мяЯяяУу",
+    "Word": "consumer"
+  },
+  {
+    "sound": "мЯЯяяУу",
+    "Word": "contact"
+  },
+  {
+    "sound": "мяяЯяУу",
+    "Word": "contain"
+  },
+  {
+    "sound": "мЯяЯяУу",
+    "Word": "container"
+  },
+  {
+    "sound": "мяЯЯяУу",
+    "Word": "contemporary"
+  },
+  {
+    "sound": "мЯЯЯяУу",
+    "Word": "content"
+  },
+  {
+    "sound": "мяяяЯУу",
+    "Word": "contest"
+  },
+  {
+    "sound": "мЯяяЯУу",
+    "Word": "context"
+  },
+  {
+    "sound": "мяЯяЯУу",
+    "Word": "continent"
+  },
+  {
+    "sound": "мЯЯяЯУу",
+    "Word": "continue"
+  },
+  {
+    "sound": "мяяЯЯУу",
+    "Word": "continuous"
+  },
+  {
+    "sound": "мЯяЯЯУу",
+    "Word": "contract"
+  },
+  {
+    "sound": "мяЯЯЯУу",
+    "Word": "contrast"
+  },
+  {
+    "sound": "мЯЯЯЯУу",
+    "Word": "contribute"
+  },
+  {
+    "sound": "мяяяяуУ",
+    "Word": "contribution"
+  },
+  {
+    "sound": "мЯяяяуУ",
+    "Word": "control"
+  },
+  {
+    "sound": "мяЯяяуУ",
+    "Word": "convenient"
+  },
+  {
+    "sound": "мЯЯяяуУ",
+    "Word": "conversation"
+  },
+  {
+    "sound": "мяяЯяуУ",
+    "Word": "convert"
+  },
+  {
+    "sound": "мЯяЯяуУ",
+    "Word": "convince"
+  },
+  {
+    "sound": "мяЯЯяуУ",
+    "Word": "convinced"
+  },
+  {
+    "sound": "мЯЯЯяуУ",
+    "Word": "cook"
+  },
+  {
+    "sound": "мяяяЯуУ",
+    "Word": "cooker"
+  },
+  {
+    "sound": "мЯяяЯуУ",
+    "Word": "cooking"
+  },
+  {
+    "sound": "мяЯяЯуУ",
+    "Word": "cool"
+  },
+  {
+    "sound": "мЯЯяЯуУ",
+    "Word": "copy"
+  },
+  {
+    "sound": "мяяЯЯуУ",
+    "Word": "core"
+  },
+  {
+    "sound": "мЯяЯЯуУ",
+    "Word": "corner"
+  },
+  {
+    "sound": "мяЯЯЯуУ",
+    "Word": "corporate"
+  },
+  {
+    "sound": "мЯЯЯЯуУ",
+    "Word": "correct"
+  },
+  {
+    "sound": "мяяяяУУ",
+    "Word": "correctly"
+  },
+  {
+    "sound": "мЯяяяУУ",
+    "Word": "cost"
+  },
+  {
+    "sound": "мяЯяяУУ",
+    "Word": "costume"
+  },
+  {
+    "sound": "мЯЯяяУУ",
+    "Word": "cottage"
+  },
+  {
+    "sound": "мяяЯяУУ",
+    "Word": "cotton"
+  },
+  {
+    "sound": "мЯяЯяУУ",
+    "Word": "could"
+  },
+  {
+    "sound": "мяЯЯяУУ",
+    "Word": "council"
+  },
+  {
+    "sound": "мЯЯЯяУУ",
+    "Word": "count"
+  },
+  {
+    "sound": "мяяяЯУУ",
+    "Word": "country"
+  },
+  {
+    "sound": "мЯяяЯУУ",
+    "Word": "countryside"
+  },
+  {
+    "sound": "мяЯяЯУУ",
+    "Word": "county"
+  },
+  {
+    "sound": "мЯЯяЯУУ",
+    "Word": "couple"
+  },
+  {
+    "sound": "мяяЯЯУУ",
+    "Word": "courage"
+  },
+  {
+    "sound": "мЯяЯЯУУ",
+    "Word": "course"
+  },
+  {
+    "sound": "мяЯЯЯУУ",
+    "Word": "court"
+  },
+  {
+    "sound": "мЯЯЯЯУУ",
+    "Word": "cousin"
+  },
+  {
+    "sound": "мяяяууу",
+    "Word": "cover"
+  },
+  {
+    "sound": "мЯяяууу",
+    "Word": "covered"
+  },
+  {
+    "sound": "мяЯяууу",
+    "Word": "cow"
+  },
+  {
+    "sound": "мЯЯяууу",
+    "Word": "crash"
+  },
+  {
+    "sound": "мяяЯууу",
+    "Word": "crazy"
+  },
+  {
+    "sound": "мЯяЯууу",
+    "Word": "cream"
+  },
+  {
+    "sound": "мяЯЯууу",
+    "Word": "create"
+  },
+  {
+    "sound": "мЯЯЯууу",
+    "Word": "creation"
+  },
+  {
+    "sound": "мяяяУуу",
+    "Word": "creative"
+  },
+  {
+    "sound": "мЯяяУуу",
+    "Word": "creature"
+  },
+  {
+    "sound": "мяЯяУуу",
+    "Word": "credit"
+  },
+  {
+    "sound": "мЯЯяУуу",
+    "Word": "crew"
+  },
+  {
+    "sound": "мяяЯУуу",
+    "Word": "crime"
+  },
+  {
+    "sound": "мЯяЯУуу",
+    "Word": "criminal"
+  },
+  {
+    "sound": "мяЯЯУуу",
+    "Word": "crisis"
+  },
+  {
+    "sound": "мЯЯЯУуу",
+    "Word": "criterion"
+  },
+  {
+    "sound": "мяяяуУу",
+    "Word": "critic"
+  },
+  {
+    "sound": "мЯяяуУу",
+    "Word": "critical"
+  },
+  {
+    "sound": "мяЯяуУу",
+    "Word": "criticism"
+  },
+  {
+    "sound": "мЯЯяуУу",
+    "Word": "criticize"
+  },
+  {
+    "sound": "мяяЯуУу",
+    "Word": "crop"
+  },
+  {
+    "sound": "мЯяЯуУу",
+    "Word": "cross"
+  },
+  {
+    "sound": "мяЯЯуУу",
+    "Word": "crowd"
+  },
+  {
+    "sound": "мЯЯЯуУу",
+    "Word": "crowded"
+  },
+  {
+    "sound": "мяяяУУу",
+    "Word": "crucial"
+  },
+  {
+    "sound": "мЯяяУУу",
+    "Word": "cruel"
+  },
+  {
+    "sound": "мяЯяУУу",
+    "Word": "cry"
+  },
+  {
+    "sound": "мЯЯяУУу",
+    "Word": "cultural"
+  },
+  {
+    "sound": "мяяЯУУу",
+    "Word": "culture"
+  },
+  {
+    "sound": "мЯяЯУУу",
+    "Word": "cup"
+  },
+  {
+    "sound": "мяЯЯУУу",
+    "Word": "cupboard"
+  },
+  {
+    "sound": "мЯЯЯУУу",
+    "Word": "cure"
+  },
+  {
+    "sound": "мяяяууУ",
+    "Word": "curly"
+  },
+  {
+    "sound": "мЯяяууУ",
+    "Word": "currency"
+  },
+  {
+    "sound": "мяЯяууУ",
+    "Word": "current"
+  },
+  {
+    "sound": "мЯЯяууУ",
+    "Word": "currently"
+  },
+  {
+    "sound": "мяяЯууУ",
+    "Word": "curtain"
+  },
+  {
+    "sound": "мЯяЯууУ",
+    "Word": "curve"
+  },
+  {
+    "sound": "мяЯЯууУ",
+    "Word": "curved"
+  },
+  {
+    "sound": "мЯЯЯууУ",
+    "Word": "custom"
+  },
+  {
+    "sound": "мяяяУуУ",
+    "Word": "customer"
+  },
+  {
+    "sound": "мЯяяУуУ",
+    "Word": "cut"
+  },
+  {
+    "sound": "мяЯяУуУ",
+    "Word": "cycle"
+  },
+  {
+    "sound": "мЯЯяУуУ",
+    "Word": "dad"
+  },
+  {
+    "sound": "мяяЯУуУ",
+    "Word": "daily"
+  },
+  {
+    "sound": "мЯяЯУуУ",
+    "Word": "damage"
+  },
+  {
+    "sound": "мяЯЯУуУ",
+    "Word": "dance"
+  },
+  {
+    "sound": "мЯЯЯУуУ",
+    "Word": "dancer"
+  },
+  {
+    "sound": "мяяяуУУ",
+    "Word": "dancing"
+  },
+  {
+    "sound": "мЯяяуУУ",
+    "Word": "danger"
+  },
+  {
+    "sound": "мяЯяуУУ",
+    "Word": "dangerous"
+  },
+  {
+    "sound": "мЯЯяуУУ",
+    "Word": "dark"
+  },
+  {
+    "sound": "мяяЯуУУ",
+    "Word": "data"
+  },
+  {
+    "sound": "мЯяЯуУУ",
+    "Word": "date"
+  },
+  {
+    "sound": "мяЯЯуУУ",
+    "Word": "daughter"
+  },
+  {
+    "sound": "мЯЯЯуУУ",
+    "Word": "day"
+  },
+  {
+    "sound": "мяяяУУУ",
+    "Word": "dead"
+  },
+  {
+    "sound": "мЯяяУУУ",
+    "Word": "deal"
+  },
+  {
+    "sound": "мяЯяУУУ",
+    "Word": "dear"
+  },
+  {
+    "sound": "мЯЯяУУУ",
+    "Word": "death"
+  },
+  {
+    "sound": "мяяЯУУУ",
+    "Word": "debate"
+  },
+  {
+    "sound": "мЯяЯУУУ",
+    "Word": "debt"
+  },
+  {
+    "sound": "мяЯЯУУУ",
+    "Word": "decade"
+  },
+  {
+    "sound": "мЯЯЯУУУ",
+    "Word": "december"
+  },
+  {
+    "sound": "мяяуууу",
+    "Word": "decent"
+  },
+  {
+    "sound": "мЯяуууу",
+    "Word": "decide"
+  },
+  {
+    "sound": "мяЯуууу",
+    "Word": "decision"
+  },
+  {
+    "sound": "мЯЯуууу",
+    "Word": "declare"
+  },
+  {
+    "sound": "мяяУууу",
+    "Word": "decline"
+  },
+  {
+    "sound": "мЯяУууу",
+    "Word": "decorate"
+  },
+  {
+    "sound": "мяЯУууу",
+    "Word": "decoration"
+  },
+  {
+    "sound": "мЯЯУууу",
+    "Word": "decrease"
+  },
+  {
+    "sound": "мяяуУуу",
+    "Word": "deep"
+  },
+  {
+    "sound": "мЯяуУуу",
+    "Word": "deeply"
+  },
+  {
+    "sound": "мяЯуУуу",
+    "Word": "defeat"
+  },
+  {
+    "sound": "мЯЯуУуу",
+    "Word": "defence"
+  },
+  {
+    "sound": "мяяУУуу",
+    "Word": "defend"
+  },
+  {
+    "sound": "мЯяУУуу",
+    "Word": "define"
+  },
+  {
+    "sound": "мяЯУУуу",
+    "Word": "definite"
+  },
+  {
+    "sound": "мЯЯУУуу",
+    "Word": "definitely"
+  },
+  {
+    "sound": "мяяууУу",
+    "Word": "definition"
+  },
+  {
+    "sound": "мЯяууУу",
+    "Word": "degree"
+  },
+  {
+    "sound": "мяЯууУу",
+    "Word": "delay"
+  },
+  {
+    "sound": "мЯЯууУу",
+    "Word": "deliberate"
+  },
+  {
+    "sound": "мяяУуУу",
+    "Word": "deliberately"
+  },
+  {
+    "sound": "мЯяУуУу",
+    "Word": "delicious"
+  },
+  {
+    "sound": "мяЯУуУу",
+    "Word": "delight"
+  },
+  {
+    "sound": "мЯЯУуУу",
+    "Word": "delighted"
+  },
+  {
+    "sound": "мяяуУУу",
+    "Word": "deliver"
+  },
+  {
+    "sound": "мЯяуУУу",
+    "Word": "delivery"
+  },
+  {
+    "sound": "мяЯуУУу",
+    "Word": "demand"
+  },
+  {
+    "sound": "мЯЯуУУу",
+    "Word": "demonstrate"
+  },
+  {
+    "sound": "мяяУУУу",
+    "Word": "dentist"
+  },
+  {
+    "sound": "мЯяУУУу",
+    "Word": "deny"
+  },
+  {
+    "sound": "мяЯУУУу",
+    "Word": "department"
+  },
+  {
+    "sound": "мЯЯУУУу",
+    "Word": "departure"
+  },
+  {
+    "sound": "мяяуууУ",
+    "Word": "depend"
+  },
+  {
+    "sound": "мЯяуууУ",
+    "Word": "depressed"
+  },
+  {
+    "sound": "мяЯуууУ",
+    "Word": "depressing"
+  },
+  {
+    "sound": "мЯЯуууУ",
+    "Word": "depth"
+  },
+  {
+    "sound": "мяяУууУ",
+    "Word": "describe"
+  },
+  {
+    "sound": "мЯяУууУ",
+    "Word": "description"
+  },
+  {
+    "sound": "мяЯУууУ",
+    "Word": "desert"
+  },
+  {
+    "sound": "мЯЯУууУ",
+    "Word": "deserve"
+  },
+  {
+    "sound": "мяяуУуУ",
+    "Word": "design"
+  },
+  {
+    "sound": "мЯяуУуУ",
+    "Word": "designer"
+  },
+  {
+    "sound": "мяЯуУуУ",
+    "Word": "desire"
+  },
+  {
+    "sound": "мЯЯуУуУ",
+    "Word": "desk"
+  },
+  {
+    "sound": "мяяУУуУ",
+    "Word": "desperate"
+  },
+  {
+    "sound": "мЯяУУуУ",
+    "Word": "despite"
+  },
+  {
+    "sound": "мяЯУУуУ",
+    "Word": "destination"
+  },
+  {
+    "sound": "мЯЯУУуУ",
+    "Word": "destroy"
+  },
+  {
+    "sound": "мяяууУУ",
+    "Word": "detail"
+  },
+  {
+    "sound": "мЯяууУУ",
+    "Word": "detailed"
+  },
+  {
+    "sound": "мяЯууУУ",
+    "Word": "detect"
+  },
+  {
+    "sound": "мЯЯууУУ",
+    "Word": "detective"
+  },
+  {
+    "sound": "мяяУуУУ",
+    "Word": "determine"
+  },
+  {
+    "sound": "мЯяУуУУ",
+    "Word": "determined"
+  },
+  {
+    "sound": "мяЯУуУУ",
+    "Word": "develop"
+  },
+  {
+    "sound": "мЯЯУуУУ",
+    "Word": "development"
+  },
+  {
+    "sound": "мяяуУУУ",
+    "Word": "device"
+  },
+  {
+    "sound": "мЯяуУУУ",
+    "Word": "diagram"
+  },
+  {
+    "sound": "мяЯуУУУ",
+    "Word": "dialogue"
+  },
+  {
+    "sound": "мЯЯуУУУ",
+    "Word": "diamond"
+  },
+  {
+    "sound": "мяяУУУУ",
+    "Word": "diary"
+  },
+  {
+    "sound": "мЯяУУУУ",
+    "Word": "dictionary"
+  },
+  {
+    "sound": "мяЯУУУУ",
+    "Word": "die"
+  },
+  {
+    "sound": "мЯЯУУУУ",
+    "Word": "diet"
+  },
+  {
+    "sound": "мяууууу",
+    "Word": "difference"
+  },
+  {
+    "sound": "мЯууууу",
+    "Word": "different"
+  },
+  {
+    "sound": "мяУуууу",
+    "Word": "differently"
+  },
+  {
+    "sound": "мЯУуууу",
+    "Word": "difficult"
+  },
+  {
+    "sound": "мяуУууу",
+    "Word": "difficulty"
+  },
+  {
+    "sound": "мЯуУууу",
+    "Word": "dig"
+  },
+  {
+    "sound": "мяУУууу",
+    "Word": "digital"
+  },
+  {
+    "sound": "мЯУУууу",
+    "Word": "dinner"
+  },
+  {
+    "sound": "мяууУуу",
+    "Word": "direct"
+  },
+  {
+    "sound": "мЯууУуу",
+    "Word": "direction"
+  },
+  {
+    "sound": "мяУуУуу",
+    "Word": "directly"
+  },
+  {
+    "sound": "мЯУуУуу",
+    "Word": "director"
+  },
+  {
+    "sound": "мяуУУуу",
+    "Word": "dirt"
+  },
+  {
+    "sound": "мЯуУУуу",
+    "Word": "dirty"
+  },
+  {
+    "sound": "мяУУУуу",
+    "Word": "disadvantage"
+  },
+  {
+    "sound": "мЯУУУуу",
+    "Word": "disagree"
+  },
+  {
+    "sound": "мяуууУу",
+    "Word": "disappear"
+  },
+  {
+    "sound": "мЯуууУу",
+    "Word": "disappointed"
+  },
+  {
+    "sound": "мяУууУу",
+    "Word": "disappointing"
+  },
+  {
+    "sound": "мЯУууУу",
+    "Word": "disaster"
+  },
+  {
+    "sound": "мяуУуУу",
+    "Word": "disc"
+  },
+  {
+    "sound": "мЯуУуУу",
+    "Word": "discipline"
+  },
+  {
+    "sound": "мяУУуУу",
+    "Word": "discount"
+  },
+  {
+    "sound": "мЯУУуУу",
+    "Word": "discover"
+  },
+  {
+    "sound": "мяууУУу",
+    "Word": "discovery"
+  },
+  {
+    "sound": "мЯууУУу",
+    "Word": "discuss"
+  },
+  {
+    "sound": "мяУуУУу",
+    "Word": "discussion"
+  },
+  {
+    "sound": "мЯУуУУу",
+    "Word": "disease"
+  },
+  {
+    "sound": "мяуУУУу",
+    "Word": "dish"
+  },
+  {
+    "sound": "мЯуУУУу",
+    "Word": "dishonest"
+  },
+  {
+    "sound": "мяУУУУу",
+    "Word": "dislike"
+  },
+  {
+    "sound": "мЯУУУУу",
+    "Word": "dismiss"
+  },
+  {
+    "sound": "мяууууУ",
+    "Word": "display"
+  },
+  {
+    "sound": "мЯууууУ",
+    "Word": "distance"
+  },
+  {
+    "sound": "мяУуууУ",
+    "Word": "distribute"
+  },
+  {
+    "sound": "мЯУуууУ",
+    "Word": "distribution"
+  },
+  {
+    "sound": "мяуУууУ",
+    "Word": "district"
+  },
+  {
+    "sound": "мЯуУууУ",
+    "Word": "divide"
+  },
+  {
+    "sound": "мяУУууУ",
+    "Word": "division"
+  },
+  {
+    "sound": "мЯУУууУ",
+    "Word": "divorced"
+  },
+  {
+    "sound": "мяууУуУ",
+    "Word": "do"
+  },
+  {
+    "sound": "мЯууУуУ",
+    "Word": "doctor"
+  },
+  {
+    "sound": "мяУуУуУ",
+    "Word": "document"
+  },
+  {
+    "sound": "мЯУуУуУ",
+    "Word": "documentary"
+  },
+  {
+    "sound": "мяуУУуУ",
+    "Word": "dog"
+  },
+  {
+    "sound": "мЯуУУуУ",
+    "Word": "dollar"
+  },
+  {
+    "sound": "мяУУУуУ",
+    "Word": "domestic"
+  },
+  {
+    "sound": "мЯУУУуУ",
+    "Word": "dominate"
+  },
+  {
+    "sound": "мяуууУУ",
+    "Word": "donate"
+  },
+  {
+    "sound": "мЯуууУУ",
+    "Word": "door"
+  },
+  {
+    "sound": "мяУууУУ",
+    "Word": "double"
+  },
+  {
+    "sound": "мЯУууУУ",
+    "Word": "doubt"
+  },
+  {
+    "sound": "мяуУуУУ",
+    "Word": "down"
+  },
+  {
+    "sound": "мЯуУуУУ",
+    "Word": "download"
+  },
+  {
+    "sound": "мяУУуУУ",
+    "Word": "downstairs"
+  },
+  {
+    "sound": "мЯУУуУУ",
+    "Word": "downwards"
+  },
+  {
+    "sound": "мяууУУУ",
+    "Word": "dozen"
+  },
+  {
+    "sound": "мЯууУУУ",
+    "Word": "draft"
+  },
+  {
+    "sound": "мяУуУУУ",
+    "Word": "drag"
+  },
+  {
+    "sound": "мЯУуУУУ",
+    "Word": "drama"
+  },
+  {
+    "sound": "мяуУУУУ",
+    "Word": "dramatic"
+  },
+  {
+    "sound": "мЯуУУУУ",
+    "Word": "draw"
+  },
+  {
+    "sound": "мяУУУУУ",
+    "Word": "drawing"
+  },
+  {
+    "sound": "мЯУУУУУ",
+    "Word": "dream"
+  },
+  {
+    "sound": "ммммммяу",
+    "Word": "dress"
+  },
+  {
+    "sound": "ммммммЯу",
+    "Word": "dressed"
+  },
+  {
+    "sound": "ммммммяУ",
+    "Word": "drink"
+  },
+  {
+    "sound": "ммммммЯУ",
+    "Word": "drive"
+  },
+  {
+    "sound": "мммммяяу",
+    "Word": "driver"
+  },
+  {
+    "sound": "мммммЯяу",
+    "Word": "driving"
+  },
+  {
+    "sound": "мммммяЯу",
+    "Word": "drop"
+  },
+  {
+    "sound": "мммммЯЯу",
+    "Word": "drug"
+  },
+  {
+    "sound": "мммммяяУ",
+    "Word": "drum"
+  },
+  {
+    "sound": "мммммЯяУ",
+    "Word": "drunk"
+  },
+  {
+    "sound": "мммммяЯУ",
+    "Word": "dry"
+  },
+  {
+    "sound": "мммммЯЯУ",
+    "Word": "due"
+  },
+  {
+    "sound": "мммммяуу",
+    "Word": "during"
+  },
+  {
+    "sound": "мммммЯуу",
+    "Word": "dust"
+  },
+  {
+    "sound": "мммммяУу",
+    "Word": "duty"
+  },
+  {
+    "sound": "мммммЯУу",
+    "Word": "dvd"
+  },
+  {
+    "sound": "мммммяуУ",
+    "Word": "each"
+  },
+  {
+    "sound": "мммммЯуУ",
+    "Word": "ear"
+  },
+  {
+    "sound": "мммммяУУ",
+    "Word": "early"
+  },
+  {
+    "sound": "мммммЯУУ",
+    "Word": "earn"
+  },
+  {
+    "sound": "ммммяяяу",
+    "Word": "earth"
+  },
+  {
+    "sound": "ммммЯяяу",
+    "Word": "earthquake"
+  },
+  {
+    "sound": "ммммяЯяу",
+    "Word": "easily"
+  },
+  {
+    "sound": "ммммЯЯяу",
+    "Word": "east"
+  },
+  {
+    "sound": "ммммяяЯу",
+    "Word": "eastern"
+  },
+  {
+    "sound": "ммммЯяЯу",
+    "Word": "easy"
+  },
+  {
+    "sound": "ммммяЯЯу",
+    "Word": "eat"
+  },
+  {
+    "sound": "ммммЯЯЯу",
+    "Word": "economic"
+  },
+  {
+    "sound": "ммммяяяУ",
+    "Word": "economy"
+  },
+  {
+    "sound": "ммммЯяяУ",
+    "Word": "edge"
+  },
+  {
+    "sound": "ммммяЯяУ",
+    "Word": "edit"
+  },
+  {
+    "sound": "ммммЯЯяУ",
+    "Word": "edition"
+  },
+  {
+    "sound": "ммммяяЯУ",
+    "Word": "editor"
+  },
+  {
+    "sound": "ммммЯяЯУ",
+    "Word": "educate"
+  },
+  {
+    "sound": "ммммяЯЯУ",
+    "Word": "educated"
+  },
+  {
+    "sound": "ммммЯЯЯУ",
+    "Word": "education"
+  },
+  {
+    "sound": "ммммяяуу",
+    "Word": "educational"
+  },
+  {
+    "sound": "ммммЯяуу",
+    "Word": "effect"
+  },
+  {
+    "sound": "ммммяЯуу",
+    "Word": "effective"
+  },
+  {
+    "sound": "ммммЯЯуу",
+    "Word": "effectively"
+  },
+  {
+    "sound": "ммммяяУу",
+    "Word": "efficient"
+  },
+  {
+    "sound": "ммммЯяУу",
+    "Word": "effort"
+  },
+  {
+    "sound": "ммммяЯУу",
+    "Word": "egg"
+  },
+  {
+    "sound": "ммммЯЯУу",
+    "Word": "eight"
+  },
+  {
+    "sound": "ммммяяуУ",
+    "Word": "eighteen"
+  },
+  {
+    "sound": "ммммЯяуУ",
+    "Word": "eighty"
+  },
+  {
+    "sound": "ммммяЯуУ",
+    "Word": "either"
+  },
+  {
+    "sound": "ммммЯЯуУ",
+    "Word": "elderly"
+  },
+  {
+    "sound": "ммммяяУУ",
+    "Word": "elect"
+  },
+  {
+    "sound": "ммммЯяУУ",
+    "Word": "election"
+  },
+  {
+    "sound": "ммммяЯУУ",
+    "Word": "electric"
+  },
+  {
+    "sound": "ммммЯЯУУ",
+    "Word": "electrical"
+  },
+  {
+    "sound": "ммммяууу",
+    "Word": "electricity"
+  },
+  {
+    "sound": "ммммЯууу",
+    "Word": "electronic"
+  },
+  {
+    "sound": "ммммяУуу",
+    "Word": "element"
+  },
+  {
+    "sound": "ммммЯУуу",
+    "Word": "elephant"
+  },
+  {
+    "sound": "ммммяуУу",
+    "Word": "eleven"
+  },
+  {
+    "sound": "ммммЯуУу",
+    "Word": "else"
+  },
+  {
+    "sound": "ммммяУУу",
+    "Word": "elsewhere"
+  },
+  {
+    "sound": "ммммЯУУу",
+    "Word": "email"
+  },
+  {
+    "sound": "ммммяууУ",
+    "Word": "embarrassed"
+  },
+  {
+    "sound": "ммммЯууУ",
+    "Word": "embarrassing"
+  },
+  {
+    "sound": "ммммяУуУ",
+    "Word": "emerge"
+  },
+  {
+    "sound": "ммммЯУуУ",
+    "Word": "emergency"
+  },
+  {
+    "sound": "ммммяуУУ",
+    "Word": "emotion"
+  },
+  {
+    "sound": "ммммЯуУУ",
+    "Word": "emotional"
+  },
+  {
+    "sound": "ммммяУУУ",
+    "Word": "emphasis"
+  },
+  {
+    "sound": "ммммЯУУУ",
+    "Word": "emphasize"
+  },
+  {
+    "sound": "мммяяяяу",
+    "Word": "employ"
+  },
+  {
+    "sound": "мммЯяяяу",
+    "Word": "employee"
+  },
+  {
+    "sound": "мммяЯяяу",
+    "Word": "employer"
+  },
+  {
+    "sound": "мммЯЯяяу",
+    "Word": "employment"
+  },
+  {
+    "sound": "мммяяЯяу",
+    "Word": "empty"
+  },
+  {
+    "sound": "мммЯяЯяу",
+    "Word": "enable"
+  },
+  {
+    "sound": "мммяЯЯяу",
+    "Word": "encounter"
+  },
+  {
+    "sound": "мммЯЯЯяу",
+    "Word": "encourage"
+  },
+  {
+    "sound": "мммяяяЯу",
+    "Word": "end"
+  },
+  {
+    "sound": "мммЯяяЯу",
+    "Word": "ending"
+  },
+  {
+    "sound": "мммяЯяЯу",
+    "Word": "enemy"
+  },
+  {
+    "sound": "мммЯЯяЯу",
+    "Word": "energy"
+  },
+  {
+    "sound": "мммяяЯЯу",
+    "Word": "engage"
+  },
+  {
+    "sound": "мммЯяЯЯу",
+    "Word": "engaged"
+  },
+  {
+    "sound": "мммяЯЯЯу",
+    "Word": "engine"
+  },
+  {
+    "sound": "мммЯЯЯЯу",
+    "Word": "engineer"
+  },
+  {
+    "sound": "мммяяяяУ",
+    "Word": "engineering"
+  },
+  {
+    "sound": "мммЯяяяУ",
+    "Word": "enhance"
+  },
+  {
+    "sound": "мммяЯяяУ",
+    "Word": "enjoy"
+  },
+  {
+    "sound": "мммЯЯяяУ",
+    "Word": "enormous"
+  },
+  {
+    "sound": "мммяяЯяУ",
+    "Word": "enough"
+  },
+  {
+    "sound": "мммЯяЯяУ",
+    "Word": "enquiry"
+  },
+  {
+    "sound": "мммяЯЯяУ",
+    "Word": "ensure"
+  },
+  {
+    "sound": "мммЯЯЯяУ",
+    "Word": "enter"
+  },
+  {
+    "sound": "мммяяяЯУ",
+    "Word": "entertain"
+  },
+  {
+    "sound": "мммЯяяЯУ",
+    "Word": "entertainment"
+  },
+  {
+    "sound": "мммяЯяЯУ",
+    "Word": "enthusiasm"
+  },
+  {
+    "sound": "мммЯЯяЯУ",
+    "Word": "enthusiastic"
+  },
+  {
+    "sound": "мммяяЯЯУ",
+    "Word": "entire"
+  },
+  {
+    "sound": "мммЯяЯЯУ",
+    "Word": "entirely"
+  },
+  {
+    "sound": "мммяЯЯЯУ",
+    "Word": "entrance"
+  },
+  {
+    "sound": "мммЯЯЯЯУ",
+    "Word": "entry"
+  },
+  {
+    "sound": "мммяяяуу",
+    "Word": "environment"
+  },
+  {
+    "sound": "мммЯяяуу",
+    "Word": "environmental"
+  },
+  {
+    "sound": "мммяЯяуу",
+    "Word": "episode"
+  },
+  {
+    "sound": "мммЯЯяуу",
+    "Word": "equal"
+  },
+  {
+    "sound": "мммяяЯуу",
+    "Word": "equally"
+  },
+  {
+    "sound": "мммЯяЯуу",
+    "Word": "equipment"
+  },
+  {
+    "sound": "мммяЯЯуу",
+    "Word": "error"
+  },
+  {
+    "sound": "мммЯЯЯуу",
+    "Word": "escape"
+  },
+  {
+    "sound": "мммяяяУу",
+    "Word": "especially"
+  },
+  {
+    "sound": "мммЯяяУу",
+    "Word": "essay"
+  },
+  {
+    "sound": "мммяЯяУу",
+    "Word": "essential"
+  },
+  {
+    "sound": "мммЯЯяУу",
+    "Word": "establish"
+  },
+  {
+    "sound": "мммяяЯУу",
+    "Word": "estate"
+  },
+  {
+    "sound": "мммЯяЯУу",
+    "Word": "estimate"
+  },
+  {
+    "sound": "мммяЯЯУу",
+    "Word": "ethical"
+  },
+  {
+    "sound": "мммЯЯЯУу",
+    "Word": "euro"
+  },
+  {
+    "sound": "мммяяяуУ",
+    "Word": "evaluate"
+  },
+  {
+    "sound": "мммЯяяуУ",
+    "Word": "even"
+  },
+  {
+    "sound": "мммяЯяуУ",
+    "Word": "evening"
+  },
+  {
+    "sound": "мммЯЯяуУ",
+    "Word": "event"
+  },
+  {
+    "sound": "мммяяЯуУ",
+    "Word": "eventually"
+  },
+  {
+    "sound": "мммЯяЯуУ",
+    "Word": "ever"
+  },
+  {
+    "sound": "мммяЯЯуУ",
+    "Word": "every"
+  },
+  {
+    "sound": "мммЯЯЯуУ",
+    "Word": "everybody"
+  },
+  {
+    "sound": "мммяяяУУ",
+    "Word": "everyday"
+  },
+  {
+    "sound": "мммЯяяУУ",
+    "Word": "everyone"
+  },
+  {
+    "sound": "мммяЯяУУ",
+    "Word": "everything"
+  },
+  {
+    "sound": "мммЯЯяУУ",
+    "Word": "everywhere"
+  },
+  {
+    "sound": "мммяяЯУУ",
+    "Word": "evidence"
+  },
+  {
+    "sound": "мммЯяЯУУ",
+    "Word": "evil"
+  },
+  {
+    "sound": "мммяЯЯУУ",
+    "Word": "exact"
+  },
+  {
+    "sound": "мммЯЯЯУУ",
+    "Word": "exactly"
+  },
+  {
+    "sound": "мммяяууу",
+    "Word": "exam"
+  },
+  {
+    "sound": "мммЯяууу",
+    "Word": "examination"
+  },
+  {
+    "sound": "мммяЯууу",
+    "Word": "examine"
+  },
+  {
+    "sound": "мммЯЯууу",
+    "Word": "example"
+  },
+  {
+    "sound": "мммяяУуу",
+    "Word": "excellent"
+  },
+  {
+    "sound": "мммЯяУуу",
+    "Word": "except"
+  },
+  {
+    "sound": "мммяЯУуу",
+    "Word": "exchange"
+  },
+  {
+    "sound": "мммЯЯУуу",
+    "Word": "excited"
+  },
+  {
+    "sound": "мммяяуУу",
+    "Word": "excitement"
+  },
+  {
+    "sound": "мммЯяуУу",
+    "Word": "exciting"
+  },
+  {
+    "sound": "мммяЯуУу",
+    "Word": "excuse"
+  },
+  {
+    "sound": "мммЯЯуУу",
+    "Word": "executive"
+  },
+  {
+    "sound": "мммяяУУу",
+    "Word": "exercise"
+  },
+  {
+    "sound": "мммЯяУУу",
+    "Word": "exhibition"
+  },
+  {
+    "sound": "мммяЯУУу",
+    "Word": "exist"
+  },
+  {
+    "sound": "мммЯЯУУу",
+    "Word": "existence"
+  },
+  {
+    "sound": "мммяяууУ",
+    "Word": "expand"
+  },
+  {
+    "sound": "мммЯяууУ",
+    "Word": "expect"
+  },
+  {
+    "sound": "мммяЯууУ",
+    "Word": "expectation"
+  },
+  {
+    "sound": "мммЯЯууУ",
+    "Word": "expected"
+  },
+  {
+    "sound": "мммяяУуУ",
+    "Word": "expedition"
+  },
+  {
+    "sound": "мммЯяУуУ",
+    "Word": "expense"
+  },
+  {
+    "sound": "мммяЯУуУ",
+    "Word": "expensive"
+  },
+  {
+    "sound": "мммЯЯУуУ",
+    "Word": "experience"
+  },
+  {
+    "sound": "мммяяуУУ",
+    "Word": "experienced"
+  },
+  {
+    "sound": "мммЯяуУУ",
+    "Word": "experiment"
+  },
+  {
+    "sound": "мммяЯуУУ",
+    "Word": "expert"
+  },
+  {
+    "sound": "мммЯЯуУУ",
+    "Word": "explain"
+  },
+  {
+    "sound": "мммяяУУУ",
+    "Word": "explanation"
+  },
+  {
+    "sound": "мммЯяУУУ",
+    "Word": "explode"
+  },
+  {
+    "sound": "мммяЯУУУ",
+    "Word": "exploration"
+  },
+  {
+    "sound": "мммЯЯУУУ",
+    "Word": "explore"
+  },
+  {
+    "sound": "мммяуууу",
+    "Word": "explosion"
+  },
+  {
+    "sound": "мммЯуууу",
+    "Word": "export"
+  },
+  {
+    "sound": "мммяУууу",
+    "Word": "expose"
+  },
+  {
+    "sound": "мммЯУууу",
+    "Word": "express"
+  },
+  {
+    "sound": "мммяуУуу",
+    "Word": "expression"
+  },
+  {
+    "sound": "мммЯуУуу",
+    "Word": "extend"
+  },
+  {
+    "sound": "мммяУУуу",
+    "Word": "extent"
+  },
+  {
+    "sound": "мммЯУУуу",
+    "Word": "external"
+  },
+  {
+    "sound": "мммяууУу",
+    "Word": "extra"
+  },
+  {
+    "sound": "мммЯууУу",
+    "Word": "extraordinary"
+  },
+  {
+    "sound": "мммяУуУу",
+    "Word": "extreme"
+  },
+  {
+    "sound": "мммЯУуУу",
+    "Word": "extremely"
+  },
+  {
+    "sound": "мммяуУУу",
+    "Word": "eye"
+  },
+  {
+    "sound": "мммЯуУУу",
+    "Word": "face"
+  },
+  {
+    "sound": "мммяУУУу",
+    "Word": "facility"
+  },
+  {
+    "sound": "мммЯУУУу",
+    "Word": "fact"
+  },
+  {
+    "sound": "мммяуууУ",
+    "Word": "factor"
+  },
+  {
+    "sound": "мммЯуууУ",
+    "Word": "factory"
+  },
+  {
+    "sound": "мммяУууУ",
+    "Word": "fail"
+  },
+  {
+    "sound": "мммЯУууУ",
+    "Word": "failure"
+  },
+  {
+    "sound": "мммяуУуУ",
+    "Word": "fair"
+  },
+  {
+    "sound": "мммЯуУуУ",
+    "Word": "fairly"
+  },
+  {
+    "sound": "мммяУУуУ",
+    "Word": "faith"
+  },
+  {
+    "sound": "мммЯУУуУ",
+    "Word": "fall"
+  },
+  {
+    "sound": "мммяууУУ",
+    "Word": "false"
+  },
+  {
+    "sound": "мммЯууУУ",
+    "Word": "familiar"
+  },
+  {
+    "sound": "мммяУуУУ",
+    "Word": "family"
+  },
+  {
+    "sound": "мммЯУуУУ",
+    "Word": "famous"
+  },
+  {
+    "sound": "мммяуУУУ",
+    "Word": "fan"
+  },
+  {
+    "sound": "мммЯуУУУ",
+    "Word": "fancy"
+  },
+  {
+    "sound": "мммяУУУУ",
+    "Word": "fantastic"
+  },
+  {
+    "sound": "мммЯУУУУ",
+    "Word": "far"
+  },
+  {
+    "sound": "ммяяяяяу",
+    "Word": "farm"
+  },
+  {
+    "sound": "ммЯяяяяу",
+    "Word": "farmer"
+  },
+  {
+    "sound": "ммяЯяяяу",
+    "Word": "farming"
+  },
+  {
+    "sound": "ммЯЯяяяу",
+    "Word": "fascinating"
+  },
+  {
+    "sound": "ммяяЯяяу",
+    "Word": "fashion"
+  },
+  {
+    "sound": "ммЯяЯяяу",
+    "Word": "fashionable"
+  },
+  {
+    "sound": "ммяЯЯяяу",
+    "Word": "fast"
+  },
+  {
+    "sound": "ммЯЯЯяяу",
+    "Word": "fasten"
+  },
+  {
+    "sound": "ммяяяЯяу",
+    "Word": "fat"
+  },
+  {
+    "sound": "ммЯяяЯяу",
+    "Word": "father"
+  },
+  {
+    "sound": "ммяЯяЯяу",
+    "Word": "fault"
+  },
+  {
+    "sound": "ммЯЯяЯяу",
+    "Word": "favour"
+  },
+  {
+    "sound": "ммяяЯЯяу",
+    "Word": "favourite"
+  },
+  {
+    "sound": "ммЯяЯЯяу",
+    "Word": "fear"
+  },
+  {
+    "sound": "ммяЯЯЯяу",
+    "Word": "feather"
+  },
+  {
+    "sound": "ммЯЯЯЯяу",
+    "Word": "feature"
+  },
+  {
+    "sound": "ммяяяяЯу",
+    "Word": "february"
+  },
+  {
+    "sound": "ммЯяяяЯу",
+    "Word": "fee"
+  },
+  {
+    "sound": "ммяЯяяЯу",
+    "Word": "feed"
+  },
+  {
+    "sound": "ммЯЯяяЯу",
+    "Word": "feedback"
+  },
+  {
+    "sound": "ммяяЯяЯу",
+    "Word": "feel"
+  },
+  {
+    "sound": "ммЯяЯяЯу",
+    "Word": "feeling"
+  },
+  {
+    "sound": "ммяЯЯяЯу",
+    "Word": "fellow"
+  },
+  {
+    "sound": "ммЯЯЯяЯу",
+    "Word": "female"
+  },
+  {
+    "sound": "ммяяяЯЯу",
+    "Word": "fence"
+  },
+  {
+    "sound": "ммЯяяЯЯу",
+    "Word": "festival"
+  },
+  {
+    "sound": "ммяЯяЯЯу",
+    "Word": "few"
+  },
+  {
+    "sound": "ммЯЯяЯЯу",
+    "Word": "fiction"
+  },
+  {
+    "sound": "ммяяЯЯЯу",
+    "Word": "field"
+  },
+  {
+    "sound": "ммЯяЯЯЯу",
+    "Word": "fifteen"
+  },
+  {
+    "sound": "ммяЯЯЯЯу",
+    "Word": "fifth"
+  },
+  {
+    "sound": "ммЯЯЯЯЯу",
+    "Word": "fifty"
+  },
+  {
+    "sound": "ммяяяяяУ",
+    "Word": "fight"
+  },
+  {
+    "sound": "ммЯяяяяУ",
+    "Word": "fighting"
+  },
+  {
+    "sound": "ммяЯяяяУ",
+    "Word": "figure"
+  },
+  {
+    "sound": "ммЯЯяяяУ",
+    "Word": "file"
+  },
+  {
+    "sound": "ммяяЯяяУ",
+    "Word": "fill"
+  },
+  {
+    "sound": "ммЯяЯяяУ",
+    "Word": "film"
+  },
+  {
+    "sound": "ммяЯЯяяУ",
+    "Word": "final"
+  },
+  {
+    "sound": "ммЯЯЯяяУ",
+    "Word": "finally"
+  },
+  {
+    "sound": "ммяяяЯяУ",
+    "Word": "finance"
+  },
+  {
+    "sound": "ммЯяяЯяУ",
+    "Word": "financial"
+  },
+  {
+    "sound": "ммяЯяЯяУ",
+    "Word": "find"
+  },
+  {
+    "sound": "ммЯЯяЯяУ",
+    "Word": "finding"
+  },
+  {
+    "sound": "ммяяЯЯяУ",
+    "Word": "fine"
+  },
+  {
+    "sound": "ммЯяЯЯяУ",
+    "Word": "finger"
+  },
+  {
+    "sound": "ммяЯЯЯяУ",
+    "Word": "finish"
+  },
+  {
+    "sound": "ммЯЯЯЯяУ",
+    "Word": "fire"
+  },
+  {
+    "sound": "ммяяяяЯУ",
+    "Word": "firm"
+  },
+  {
+    "sound": "ммЯяяяЯУ",
+    "Word": "first"
+  },
+  {
+    "sound": "ммяЯяяЯУ",
+    "Word": "firstly"
+  },
+  {
+    "sound": "ммЯЯяяЯУ",
+    "Word": "fish"
+  },
+  {
+    "sound": "ммяяЯяЯУ",
+    "Word": "fishing"
+  },
+  {
+    "sound": "ммЯяЯяЯУ",
+    "Word": "fit"
+  },
+  {
+    "sound": "ммяЯЯяЯУ",
+    "Word": "fitness"
+  },
+  {
+    "sound": "ммЯЯЯяЯУ",
+    "Word": "five"
+  },
+  {
+    "sound": "ммяяяЯЯУ",
+    "Word": "fix"
+  },
+  {
+    "sound": "ммЯяяЯЯУ",
+    "Word": "fixed"
+  },
+  {
+    "sound": "ммяЯяЯЯУ",
+    "Word": "flag"
+  },
+  {
+    "sound": "ммЯЯяЯЯУ",
+    "Word": "flame"
+  },
+  {
+    "sound": "ммяяЯЯЯУ",
+    "Word": "flash"
+  },
+  {
+    "sound": "ммЯяЯЯЯУ",
+    "Word": "flat"
+  },
+  {
+    "sound": "ммяЯЯЯЯУ",
+    "Word": "flexible"
+  },
+  {
+    "sound": "ммЯЯЯЯЯУ",
+    "Word": "flight"
+  },
+  {
+    "sound": "ммяяяяуу",
+    "Word": "float"
+  },
+  {
+    "sound": "ммЯяяяуу",
+    "Word": "flood"
+  },
+  {
+    "sound": "ммяЯяяуу",
+    "Word": "floor"
+  },
+  {
+    "sound": "ммЯЯяяуу",
+    "Word": "flour"
+  },
+  {
+    "sound": "ммяяЯяуу",
+    "Word": "flow"
+  },
+  {
+    "sound": "ммЯяЯяуу",
+    "Word": "flower"
+  },
+  {
+    "sound": "ммяЯЯяуу",
+    "Word": "flu"
+  },
+  {
+    "sound": "ммЯЯЯяуу",
+    "Word": "fly"
+  },
+  {
+    "sound": "ммяяяЯуу",
+    "Word": "flying"
+  },
+  {
+    "sound": "ммЯяяЯуу",
+    "Word": "focus"
+  },
+  {
+    "sound": "ммяЯяЯуу",
+    "Word": "fold"
+  },
+  {
+    "sound": "ммЯЯяЯуу",
+    "Word": "folding"
+  },
+  {
+    "sound": "ммяяЯЯуу",
+    "Word": "folk"
+  },
+  {
+    "sound": "ммЯяЯЯуу",
+    "Word": "follow"
+  },
+  {
+    "sound": "ммяЯЯЯуу",
+    "Word": "following"
+  },
+  {
+    "sound": "ммЯЯЯЯуу",
+    "Word": "food"
+  },
+  {
+    "sound": "ммяяяяУу",
+    "Word": "foot"
+  },
+  {
+    "sound": "ммЯяяяУу",
+    "Word": "football"
+  },
+  {
+    "sound": "ммяЯяяУу",
+    "Word": "for"
+  },
+  {
+    "sound": "ммЯЯяяУу",
+    "Word": "force"
+  },
+  {
+    "sound": "ммяяЯяУу",
+    "Word": "foreign"
+  },
+  {
+    "sound": "ммЯяЯяУу",
+    "Word": "forest"
+  },
+  {
+    "sound": "ммяЯЯяУу",
+    "Word": "forever"
+  },
+  {
+    "sound": "ммЯЯЯяУу",
+    "Word": "forget"
+  },
+  {
+    "sound": "ммяяяЯУу",
+    "Word": "forgive"
+  },
+  {
+    "sound": "ммЯяяЯУу",
+    "Word": "fork"
+  },
+  {
+    "sound": "ммяЯяЯУу",
+    "Word": "form"
+  },
+  {
+    "sound": "ммЯЯяЯУу",
+    "Word": "formal"
+  },
+  {
+    "sound": "ммяяЯЯУу",
+    "Word": "former"
+  },
+  {
+    "sound": "ммЯяЯЯУу",
+    "Word": "fortunately"
+  },
+  {
+    "sound": "ммяЯЯЯУу",
+    "Word": "fortune"
+  },
+  {
+    "sound": "ммЯЯЯЯУу",
+    "Word": "forty"
+  },
+  {
+    "sound": "ммяяяяуУ",
+    "Word": "forward"
+  },
+  {
+    "sound": "ммЯяяяуУ",
+    "Word": "found"
+  },
+  {
+    "sound": "ммяЯяяуУ",
+    "Word": "four"
+  },
+  {
+    "sound": "ммЯЯяяуУ",
+    "Word": "fourteen"
+  },
+  {
+    "sound": "ммяяЯяуУ",
+    "Word": "fourth"
+  },
+  {
+    "sound": "ммЯяЯяуУ",
+    "Word": "frame"
+  },
+  {
+    "sound": "ммяЯЯяуУ",
+    "Word": "free"
+  },
+  {
+    "sound": "ммЯЯЯяуУ",
+    "Word": "freedom"
+  },
+  {
+    "sound": "ммяяяЯуУ",
+    "Word": "freeze"
+  },
+  {
+    "sound": "ммЯяяЯуУ",
+    "Word": "frequency"
+  },
+  {
+    "sound": "ммяЯяЯуУ",
+    "Word": "frequently"
+  },
+  {
+    "sound": "ммЯЯяЯуУ",
+    "Word": "fresh"
+  },
+  {
+    "sound": "ммяяЯЯуУ",
+    "Word": "friday"
+  },
+  {
+    "sound": "ммЯяЯЯуУ",
+    "Word": "fridge"
+  },
+  {
+    "sound": "ммяЯЯЯуУ",
+    "Word": "friend"
+  },
+  {
+    "sound": "ммЯЯЯЯуУ",
+    "Word": "friendly"
+  },
+  {
+    "sound": "ммяяяяУУ",
+    "Word": "friendship"
+  },
+  {
+    "sound": "ммЯяяяУУ",
+    "Word": "frighten"
+  },
+  {
+    "sound": "ммяЯяяУУ",
+    "Word": "frightened"
+  },
+  {
+    "sound": "ммЯЯяяУУ",
+    "Word": "frightening"
+  },
+  {
+    "sound": "ммяяЯяУУ",
+    "Word": "frog"
+  },
+  {
+    "sound": "ммЯяЯяУУ",
+    "Word": "from"
+  },
+  {
+    "sound": "ммяЯЯяУУ",
+    "Word": "front"
+  },
+  {
+    "sound": "ммЯЯЯяУУ",
+    "Word": "frozen"
+  },
+  {
+    "sound": "ммяяяЯУУ",
+    "Word": "fruit"
+  },
+  {
+    "sound": "ммЯяяЯУУ",
+    "Word": "fry"
+  },
+  {
+    "sound": "ммяЯяЯУУ",
+    "Word": "fuel"
+  },
+  {
+    "sound": "ммЯЯяЯУУ",
+    "Word": "full"
+  },
+  {
+    "sound": "ммяяЯЯУУ",
+    "Word": "fully"
+  },
+  {
+    "sound": "ммЯяЯЯУУ",
+    "Word": "fun"
+  },
+  {
+    "sound": "ммяЯЯЯУУ",
+    "Word": "function"
+  },
+  {
+    "sound": "ммЯЯЯЯУУ",
+    "Word": "fund"
+  },
+  {
+    "sound": "ммяяяууу",
+    "Word": "fundamental"
+  },
+  {
+    "sound": "ммЯяяууу",
+    "Word": "funding"
+  },
+  {
+    "sound": "ммяЯяууу",
+    "Word": "funny"
+  },
+  {
+    "sound": "ммЯЯяууу",
+    "Word": "fur"
+  },
+  {
+    "sound": "ммяяЯууу",
+    "Word": "furniture"
+  },
+  {
+    "sound": "ммЯяЯууу",
+    "Word": "further"
+  },
+  {
+    "sound": "ммяЯЯууу",
+    "Word": "furthermore"
+  },
+  {
+    "sound": "ммЯЯЯууу",
+    "Word": "future"
+  },
+  {
+    "sound": "ммяяяУуу",
+    "Word": "gain"
+  },
+  {
+    "sound": "ммЯяяУуу",
+    "Word": "gallery"
+  },
+  {
+    "sound": "ммяЯяУуу",
+    "Word": "game"
+  },
+  {
+    "sound": "ммЯЯяУуу",
+    "Word": "gang"
+  },
+  {
+    "sound": "ммяяЯУуу",
+    "Word": "gap"
+  },
+  {
+    "sound": "ммЯяЯУуу",
+    "Word": "garage"
+  },
+  {
+    "sound": "ммяЯЯУуу",
+    "Word": "garden"
+  },
+  {
+    "sound": "ммЯЯЯУуу",
+    "Word": "gas"
+  },
+  {
+    "sound": "ммяяяуУу",
+    "Word": "gate"
+  },
+  {
+    "sound": "ммЯяяуУу",
+    "Word": "gather"
+  },
+  {
+    "sound": "ммяЯяуУу",
+    "Word": "general"
+  },
+  {
+    "sound": "ммЯЯяуУу",
+    "Word": "generally"
+  },
+  {
+    "sound": "ммяяЯуУу",
+    "Word": "generate"
+  },
+  {
+    "sound": "ммЯяЯуУу",
+    "Word": "generation"
+  },
+  {
+    "sound": "ммяЯЯуУу",
+    "Word": "generous"
+  },
+  {
+    "sound": "ммЯЯЯуУу",
+    "Word": "genre"
+  },
+  {
+    "sound": "ммяяяУУу",
+    "Word": "gentle"
+  },
+  {
+    "sound": "ммЯяяУУу",
+    "Word": "gentleman"
+  },
+  {
+    "sound": "ммяЯяУУу",
+    "Word": "geography"
+  },
+  {
+    "sound": "ммЯЯяУУу",
+    "Word": "get"
+  },
+  {
+    "sound": "ммяяЯУУу",
+    "Word": "ghost"
+  },
+  {
+    "sound": "ммЯяЯУУу",
+    "Word": "giant"
+  },
+  {
+    "sound": "ммяЯЯУУу",
+    "Word": "gift"
+  },
+  {
+    "sound": "ммЯЯЯУУу",
+    "Word": "girl"
+  },
+  {
+    "sound": "ммяяяууУ",
+    "Word": "girlfriend"
+  },
+  {
+    "sound": "ммЯяяууУ",
+    "Word": "give"
+  },
+  {
+    "sound": "ммяЯяууУ",
+    "Word": "glad"
+  },
+  {
+    "sound": "ммЯЯяууУ",
+    "Word": "glass"
+  },
+  {
+    "sound": "ммяяЯууУ",
+    "Word": "global"
+  },
+  {
+    "sound": "ммЯяЯууУ",
+    "Word": "glove"
+  },
+  {
+    "sound": "ммяЯЯууУ",
+    "Word": "go"
+  },
+  {
+    "sound": "ммЯЯЯууУ",
+    "Word": "goal"
+  },
+  {
+    "sound": "ммяяяУуУ",
+    "Word": "god"
+  },
+  {
+    "sound": "ммЯяяУуУ",
+    "Word": "gold"
+  },
+  {
+    "sound": "ммяЯяУуУ",
+    "Word": "golf"
+  },
+  {
+    "sound": "ммЯЯяУуУ",
+    "Word": "good"
+  },
+  {
+    "sound": "ммяяЯУуУ",
+    "Word": "goodbye"
+  },
+  {
+    "sound": "ммЯяЯУуУ",
+    "Word": "goods"
+  },
+  {
+    "sound": "ммяЯЯУуУ",
+    "Word": "govern"
+  },
+  {
+    "sound": "ммЯЯЯУуУ",
+    "Word": "government"
+  },
+  {
+    "sound": "ммяяяуУУ",
+    "Word": "grab"
+  },
+  {
+    "sound": "ммЯяяуУУ",
+    "Word": "grade"
+  },
+  {
+    "sound": "ммяЯяуУУ",
+    "Word": "gradually"
+  },
+  {
+    "sound": "ммЯЯяуУУ",
+    "Word": "graduate"
+  },
+  {
+    "sound": "ммяяЯуУУ",
+    "Word": "grain"
+  },
+  {
+    "sound": "ммЯяЯуУУ",
+    "Word": "grand"
+  },
+  {
+    "sound": "ммяЯЯуУУ",
+    "Word": "grandfather"
+  },
+  {
+    "sound": "ммЯЯЯуУУ",
+    "Word": "grandmother"
+  },
+  {
+    "sound": "ммяяяУУУ",
+    "Word": "grandparent"
+  },
+  {
+    "sound": "ммЯяяУУУ",
+    "Word": "grant"
+  },
+  {
+    "sound": "ммяЯяУУУ",
+    "Word": "grass"
+  },
+  {
+    "sound": "ммЯЯяУУУ",
+    "Word": "grateful"
+  },
+  {
+    "sound": "ммяяЯУУУ",
+    "Word": "great"
+  },
+  {
+    "sound": "ммЯяЯУУУ",
+    "Word": "green"
+  },
+  {
+    "sound": "ммяЯЯУУУ",
+    "Word": "greet"
+  },
+  {
+    "sound": "ммЯЯЯУУУ",
+    "Word": "grey"
+  },
+  {
+    "sound": "ммяяуууу",
+    "Word": "ground"
+  },
+  {
+    "sound": "ммЯяуууу",
+    "Word": "group"
+  },
+  {
+    "sound": "ммяЯуууу",
+    "Word": "grow"
+  },
+  {
+    "sound": "ммЯЯуууу",
+    "Word": "growth"
+  },
+  {
+    "sound": "ммяяУууу",
+    "Word": "guarantee"
+  },
+  {
+    "sound": "ммЯяУууу",
+    "Word": "guard"
+  },
+  {
+    "sound": "ммяЯУууу",
+    "Word": "guess"
+  },
+  {
+    "sound": "ммЯЯУууу",
+    "Word": "guest"
+  },
+  {
+    "sound": "ммяяуУуу",
+    "Word": "guide"
+  },
+  {
+    "sound": "ммЯяуУуу",
+    "Word": "guilty"
+  },
+  {
+    "sound": "ммяЯуУуу",
+    "Word": "guitar"
+  },
+  {
+    "sound": "ммЯЯуУуу",
+    "Word": "gun"
+  },
+  {
+    "sound": "ммяяУУуу",
+    "Word": "guy"
+  },
+  {
+    "sound": "ммЯяУУуу",
+    "Word": "gym"
+  },
+  {
+    "sound": "ммяЯУУуу",
+    "Word": "habit"
+  },
+  {
+    "sound": "ммЯЯУУуу",
+    "Word": "hair"
+  },
+  {
+    "sound": "ммяяууУу",
+    "Word": "half"
+  },
+  {
+    "sound": "ммЯяууУу",
+    "Word": "hall"
+  },
+  {
+    "sound": "ммяЯууУу",
+    "Word": "hand"
+  },
+  {
+    "sound": "ммЯЯууУу",
+    "Word": "handle"
+  },
+  {
+    "sound": "ммяяУуУу",
+    "Word": "hang"
+  },
+  {
+    "sound": "ммЯяУуУу",
+    "Word": "happen"
+  },
+  {
+    "sound": "ммяЯУуУу",
+    "Word": "happily"
+  },
+  {
+    "sound": "ммЯЯУуУу",
+    "Word": "happiness"
+  },
+  {
+    "sound": "ммяяуУУу",
+    "Word": "happy"
+  },
+  {
+    "sound": "ммЯяуУУу",
+    "Word": "hard"
+  },
+  {
+    "sound": "ммяЯуУУу",
+    "Word": "hardly"
+  },
+  {
+    "sound": "ммЯЯуУУу",
+    "Word": "harm"
+  },
+  {
+    "sound": "ммяяУУУу",
+    "Word": "harmful"
+  },
+  {
+    "sound": "ммЯяУУУу",
+    "Word": "hat"
+  },
+  {
+    "sound": "ммяЯУУУу",
+    "Word": "hate"
+  },
+  {
+    "sound": "ммЯЯУУУу",
+    "Word": "have"
+  },
+  {
+    "sound": "ммяяуууУ",
+    "Word": "haveauxiliary"
+  },
+  {
+    "sound": "ммЯяуууУ",
+    "Word": "haveto"
+  },
+  {
+    "sound": "ммяЯуууУ",
+    "Word": "he"
+  },
+  {
+    "sound": "ммЯЯуууУ",
+    "Word": "head"
+  },
+  {
+    "sound": "ммяяУууУ",
+    "Word": "headache"
+  },
+  {
+    "sound": "ммЯяУууУ",
+    "Word": "headline"
+  },
+  {
+    "sound": "ммяЯУууУ",
+    "Word": "health"
+  },
+  {
+    "sound": "ммЯЯУууУ",
+    "Word": "healthy"
+  },
+  {
+    "sound": "ммяяуУуУ",
+    "Word": "hear"
+  },
+  {
+    "sound": "ммЯяуУуУ",
+    "Word": "hearing"
+  },
+  {
+    "sound": "ммяЯуУуУ",
+    "Word": "heart"
+  },
+  {
+    "sound": "ммЯЯуУуУ",
+    "Word": "heat"
+  },
+  {
+    "sound": "ммяяУУуУ",
+    "Word": "heating"
+  },
+  {
+    "sound": "ммЯяУУуУ",
+    "Word": "heaven"
+  },
+  {
+    "sound": "ммяЯУУуУ",
+    "Word": "heavily"
+  },
+  {
+    "sound": "ммЯЯУУуУ",
+    "Word": "heavy"
+  },
+  {
+    "sound": "ммяяууУУ",
+    "Word": "heel"
+  },
+  {
+    "sound": "ммЯяууУУ",
+    "Word": "height"
+  },
+  {
+    "sound": "ммяЯууУУ",
+    "Word": "helicopter"
+  },
+  {
+    "sound": "ммЯЯууУУ",
+    "Word": "hell"
+  },
+  {
+    "sound": "ммяяУуУУ",
+    "Word": "hello"
+  },
+  {
+    "sound": "ммЯяУуУУ",
+    "Word": "help"
+  },
+  {
+    "sound": "ммяЯУуУУ",
+    "Word": "helpful"
+  },
+  {
+    "sound": "ммЯЯУуУУ",
+    "Word": "her"
+  },
+  {
+    "sound": "ммяяуУУУ",
+    "Word": "here"
+  },
+  {
+    "sound": "ммЯяуУУУ",
+    "Word": "hero"
+  },
+  {
+    "sound": "ммяЯуУУУ",
+    "Word": "hers"
+  },
+  {
+    "sound": "ммЯЯуУУУ",
+    "Word": "herself"
+  },
+  {
+    "sound": "ммяяУУУУ",
+    "Word": "hesitate"
+  },
+  {
+    "sound": "ммЯяУУУУ",
+    "Word": "hey"
+  },
+  {
+    "sound": "ммяЯУУУУ",
+    "Word": "hi"
+  },
+  {
+    "sound": "ммЯЯУУУУ",
+    "Word": "hide"
+  },
+  {
+    "sound": "ммяууууу",
+    "Word": "high"
+  },
+  {
+    "sound": "ммЯууууу",
+    "Word": "highlight"
+  },
+  {
+    "sound": "ммяУуууу",
+    "Word": "highly"
+  },
+  {
+    "sound": "ммЯУуууу",
+    "Word": "hill"
+  },
+  {
+    "sound": "ммяуУууу",
+    "Word": "him"
+  },
+  {
+    "sound": "ммЯуУууу",
+    "Word": "himself"
+  },
+  {
+    "sound": "ммяУУууу",
+    "Word": "hire"
+  },
+  {
+    "sound": "ммЯУУууу",
+    "Word": "his"
+  },
+  {
+    "sound": "ммяууУуу",
+    "Word": "historic"
+  },
+  {
+    "sound": "ммЯууУуу",
+    "Word": "historical"
+  },
+  {
+    "sound": "ммяУуУуу",
+    "Word": "history"
+  },
+  {
+    "sound": "ммЯУуУуу",
+    "Word": "hit"
+  },
+  {
+    "sound": "ммяуУУуу",
+    "Word": "hobby"
+  },
+  {
+    "sound": "ммЯуУУуу",
+    "Word": "hockey"
+  },
+  {
+    "sound": "ммяУУУуу",
+    "Word": "hold"
+  },
+  {
+    "sound": "ммЯУУУуу",
+    "Word": "hole"
+  },
+  {
+    "sound": "ммяуууУу",
+    "Word": "holiday"
+  },
+  {
+    "sound": "ммЯуууУу",
+    "Word": "hollow"
+  },
+  {
+    "sound": "ммяУууУу",
+    "Word": "holy"
+  },
+  {
+    "sound": "ммЯУууУу",
+    "Word": "home"
+  },
+  {
+    "sound": "ммяуУуУу",
+    "Word": "homework"
+  },
+  {
+    "sound": "ммЯуУуУу",
+    "Word": "honest"
+  },
+  {
+    "sound": "ммяУУуУу",
+    "Word": "honour"
+  },
+  {
+    "sound": "ммЯУУуУу",
+    "Word": "hope"
+  },
+  {
+    "sound": "ммяууУУу",
+    "Word": "horrible"
+  },
+  {
+    "sound": "ммЯууУУу",
+    "Word": "horror"
+  },
+  {
+    "sound": "ммяУуУУу",
+    "Word": "horse"
+  },
+  {
+    "sound": "ммЯУуУУу",
+    "Word": "hospital"
+  },
+  {
+    "sound": "ммяуУУУу",
+    "Word": "host"
+  },
+  {
+    "sound": "ммЯуУУУу",
+    "Word": "hot"
+  },
+  {
+    "sound": "ммяУУУУу",
+    "Word": "hotel"
+  },
+  {
+    "sound": "ммЯУУУУу",
+    "Word": "hour"
+  },
+  {
+    "sound": "ммяууууУ",
+    "Word": "house"
+  },
+  {
+    "sound": "ммЯууууУ",
+    "Word": "household"
+  },
+  {
+    "sound": "ммяУуууУ",
+    "Word": "housing"
+  },
+  {
+    "sound": "ммЯУуууУ",
+    "Word": "how"
+  },
+  {
+    "sound": "ммяуУууУ",
+    "Word": "however"
+  },
+  {
+    "sound": "ммЯуУууУ",
+    "Word": "huge"
+  },
+  {
+    "sound": "ммяУУууУ",
+    "Word": "human"
+  },
+  {
+    "sound": "ммЯУУууУ",
+    "Word": "humorous"
+  },
+  {
+    "sound": "ммяууУуУ",
+    "Word": "humour"
+  },
+  {
+    "sound": "ммЯууУуУ",
+    "Word": "hundred"
+  },
+  {
+    "sound": "ммяУуУуУ",
+    "Word": "hungry"
+  },
+  {
+    "sound": "ммЯУуУуУ",
+    "Word": "hunt"
+  },
+  {
+    "sound": "ммяуУУуУ",
+    "Word": "hunting"
+  },
+  {
+    "sound": "ммЯуУУуУ",
+    "Word": "hurricane"
+  },
+  {
+    "sound": "ммяУУУуУ",
+    "Word": "hurry"
+  },
+  {
+    "sound": "ммЯУУУуУ",
+    "Word": "hurt"
+  },
+  {
+    "sound": "ммяуууУУ",
+    "Word": "husband"
+  },
+  {
+    "sound": "ммЯуууУУ",
+    "Word": "i"
+  },
+  {
+    "sound": "ммяУууУУ",
+    "Word": "ice"
+  },
+  {
+    "sound": "ммЯУууУУ",
+    "Word": "icecream"
+  },
+  {
+    "sound": "ммяуУуУУ",
+    "Word": "idea"
+  },
+  {
+    "sound": "ммЯуУуУУ",
+    "Word": "ideal"
+  },
+  {
+    "sound": "ммяУУуУУ",
+    "Word": "identify"
+  },
+  {
+    "sound": "ммЯУУуУУ",
+    "Word": "identity"
+  },
+  {
+    "sound": "ммяууУУУ",
+    "Word": "if"
+  },
+  {
+    "sound": "ммЯууУУУ",
+    "Word": "ignore"
+  },
+  {
+    "sound": "ммяУуУУУ",
+    "Word": "ill"
+  },
+  {
+    "sound": "ммЯУуУУУ",
+    "Word": "illegal"
+  },
+  {
+    "sound": "ммяуУУУУ",
+    "Word": "illness"
+  },
+  {
+    "sound": "ммЯуУУУУ",
+    "Word": "illustrate"
+  },
+  {
+    "sound": "ммяУУУУУ",
+    "Word": "illustration"
+  },
+  {
+    "sound": "ммЯУУУУУ",
+    "Word": "image"
+  },
+  {
+    "sound": "мяяяяяяу",
+    "Word": "imaginary"
+  },
+  {
+    "sound": "мЯяяяяяу",
+    "Word": "imagination"
+  },
+  {
+    "sound": "мяЯяяяяу",
+    "Word": "imagine"
+  },
+  {
+    "sound": "мЯЯяяяяу",
+    "Word": "immediate"
+  },
+  {
+    "sound": "мяяЯяяяу",
+    "Word": "immediately"
+  },
+  {
+    "sound": "мЯяЯяяяу",
+    "Word": "immigrant"
+  },
+  {
+    "sound": "мяЯЯяяяу",
+    "Word": "impact"
+  },
+  {
+    "sound": "мЯЯЯяяяу",
+    "Word": "impatient"
+  },
+  {
+    "sound": "мяяяЯяяу",
+    "Word": "imply"
+  },
+  {
+    "sound": "мЯяяЯяяу",
+    "Word": "import"
+  },
+  {
+    "sound": "мяЯяЯяяу",
+    "Word": "importance"
+  },
+  {
+    "sound": "мЯЯяЯяяу",
+    "Word": "important"
+  },
+  {
+    "sound": "мяяЯЯяяу",
+    "Word": "impose"
+  },
+  {
+    "sound": "мЯяЯЯяяу",
+    "Word": "impossible"
+  },
+  {
+    "sound": "мяЯЯЯяяу",
+    "Word": "impress"
+  },
+  {
+    "sound": "мЯЯЯЯяяу",
+    "Word": "impressed"
+  },
+  {
+    "sound": "мяяяяЯяу",
+    "Word": "impression"
+  },
+  {
+    "sound": "мЯяяяЯяу",
+    "Word": "impressive"
+  },
+  {
+    "sound": "мяЯяяЯяу",
+    "Word": "improve"
+  },
+  {
+    "sound": "мЯЯяяЯяу",
+    "Word": "improvement"
+  },
+  {
+    "sound": "мяяЯяЯяу",
+    "Word": "in"
+  },
+  {
+    "sound": "мЯяЯяЯяу",
+    "Word": "inch"
+  },
+  {
+    "sound": "мяЯЯяЯяу",
+    "Word": "incident"
+  },
+  {
+    "sound": "мЯЯЯяЯяу",
+    "Word": "include"
+  },
+  {
+    "sound": "мяяяЯЯяу",
+    "Word": "included"
+  },
+  {
+    "sound": "мЯяяЯЯяу",
+    "Word": "including"
+  },
+  {
+    "sound": "мяЯяЯЯяу",
+    "Word": "income"
+  },
+  {
+    "sound": "мЯЯяЯЯяу",
+    "Word": "increase"
+  },
+  {
+    "sound": "мяяЯЯЯяу",
+    "Word": "increasingly"
+  },
+  {
+    "sound": "мЯяЯЯЯяу",
+    "Word": "incredible"
+  },
+  {
+    "sound": "мяЯЯЯЯяу",
+    "Word": "incredibly"
+  },
+  {
+    "sound": "мЯЯЯЯЯяу",
+    "Word": "indeed"
+  },
+  {
+    "sound": "мяяяяяЯу",
+    "Word": "independent"
+  },
+  {
+    "sound": "мЯяяяяЯу",
+    "Word": "indicate"
+  },
+  {
+    "sound": "мяЯяяяЯу",
+    "Word": "indirect"
+  },
+  {
+    "sound": "мЯЯяяяЯу",
+    "Word": "individual"
+  },
+  {
+    "sound": "мяяЯяяЯу",
+    "Word": "indoor"
+  },
+  {
+    "sound": "мЯяЯяяЯу",
+    "Word": "indoors"
+  },
+  {
+    "sound": "мяЯЯяяЯу",
+    "Word": "industrial"
+  },
+  {
+    "sound": "мЯЯЯяяЯу",
+    "Word": "industry"
+  },
+  {
+    "sound": "мяяяЯяЯу",
+    "Word": "infection"
+  },
+  {
+    "sound": "мЯяяЯяЯу",
+    "Word": "influence"
+  },
+  {
+    "sound": "мяЯяЯяЯу",
+    "Word": "inform"
+  },
+  {
+    "sound": "мЯЯяЯяЯу",
+    "Word": "informal"
+  },
+  {
+    "sound": "мяяЯЯяЯу",
+    "Word": "information"
+  },
+  {
+    "sound": "мЯяЯЯяЯу",
+    "Word": "ingredient"
+  },
+  {
+    "sound": "мяЯЯЯяЯу",
+    "Word": "initial"
+  },
+  {
+    "sound": "мЯЯЯЯяЯу",
+    "Word": "initially"
+  },
+  {
+    "sound": "мяяяяЯЯу",
+    "Word": "initiative"
+  },
+  {
+    "sound": "мЯяяяЯЯу",
+    "Word": "injure"
+  },
+  {
+    "sound": "мяЯяяЯЯу",
+    "Word": "injured"
+  },
+  {
+    "sound": "мЯЯяяЯЯу",
+    "Word": "injury"
+  },
+  {
+    "sound": "мяяЯяЯЯу",
+    "Word": "inner"
+  },
+  {
+    "sound": "мЯяЯяЯЯу",
+    "Word": "innocent"
+  },
+  {
+    "sound": "мяЯЯяЯЯу",
+    "Word": "insect"
+  },
+  {
+    "sound": "мЯЯЯяЯЯу",
+    "Word": "inside"
+  },
+  {
+    "sound": "мяяяЯЯЯу",
+    "Word": "insight"
+  },
+  {
+    "sound": "мЯяяЯЯЯу",
+    "Word": "insist"
+  },
+  {
+    "sound": "мяЯяЯЯЯу",
+    "Word": "inspire"
+  },
+  {
+    "sound": "мЯЯяЯЯЯу",
+    "Word": "install"
+  },
+  {
+    "sound": "мяяЯЯЯЯу",
+    "Word": "instance"
+  },
+  {
+    "sound": "мЯяЯЯЯЯу",
+    "Word": "instead"
+  },
+  {
+    "sound": "мяЯЯЯЯЯу",
+    "Word": "institute"
+  },
+  {
+    "sound": "мЯЯЯЯЯЯу",
+    "Word": "institution"
+  },
+  {
+    "sound": "мяяяяяяУ",
+    "Word": "instruction"
+  },
+  {
+    "sound": "мЯяяяяяУ",
+    "Word": "instructor"
+  },
+  {
+    "sound": "мяЯяяяяУ",
+    "Word": "instrument"
+  },
+  {
+    "sound": "мЯЯяяяяУ",
+    "Word": "insurance"
+  },
+  {
+    "sound": "мяяЯяяяУ",
+    "Word": "intelligence"
+  },
+  {
+    "sound": "мЯяЯяяяУ",
+    "Word": "intelligent"
+  },
+  {
+    "sound": "мяЯЯяяяУ",
+    "Word": "intend"
+  },
+  {
+    "sound": "мЯЯЯяяяУ",
+    "Word": "intended"
+  },
+  {
+    "sound": "мяяяЯяяУ",
+    "Word": "intense"
+  },
+  {
+    "sound": "мЯяяЯяяУ",
+    "Word": "intention"
+  },
+  {
+    "sound": "мяЯяЯяяУ",
+    "Word": "interest"
+  },
+  {
+    "sound": "мЯЯяЯяяУ",
+    "Word": "interested"
+  },
+  {
+    "sound": "мяяЯЯяяУ",
+    "Word": "interesting"
+  },
+  {
+    "sound": "мЯяЯЯяяУ",
+    "Word": "internal"
+  },
+  {
+    "sound": "мяЯЯЯяяУ",
+    "Word": "international"
+  },
+  {
+    "sound": "мЯЯЯЯяяУ",
+    "Word": "internet"
+  },
+  {
+    "sound": "мяяяяЯяУ",
+    "Word": "interpret"
+  },
+  {
+    "sound": "мЯяяяЯяУ",
+    "Word": "interrupt"
+  },
+  {
+    "sound": "мяЯяяЯяУ",
+    "Word": "interview"
+  },
+  {
+    "sound": "мЯЯяяЯяУ",
+    "Word": "into"
+  },
+  {
+    "sound": "мяяЯяЯяУ",
+    "Word": "introduce"
+  },
+  {
+    "sound": "мЯяЯяЯяУ",
+    "Word": "introduction"
+  },
+  {
+    "sound": "мяЯЯяЯяУ",
+    "Word": "invent"
+  },
+  {
+    "sound": "мЯЯЯяЯяУ",
+    "Word": "invention"
+  },
+  {
+    "sound": "мяяяЯЯяУ",
+    "Word": "invest"
+  },
+  {
+    "sound": "мЯяяЯЯяУ",
+    "Word": "investigate"
+  },
+  {
+    "sound": "мяЯяЯЯяУ",
+    "Word": "investigation"
+  },
+  {
+    "sound": "мЯЯяЯЯяУ",
+    "Word": "investment"
+  },
+  {
+    "sound": "мяяЯЯЯяУ",
+    "Word": "invitation"
+  },
+  {
+    "sound": "мЯяЯЯЯяУ",
+    "Word": "invite"
+  },
+  {
+    "sound": "мяЯЯЯЯяУ",
+    "Word": "involve"
+  },
+  {
+    "sound": "мЯЯЯЯЯяУ",
+    "Word": "involved"
+  },
+  {
+    "sound": "мяяяяяЯУ",
+    "Word": "iron"
+  },
+  {
+    "sound": "мЯяяяяЯУ",
+    "Word": "island"
+  },
+  {
+    "sound": "мяЯяяяЯУ",
+    "Word": "issue"
+  },
+  {
+    "sound": "мЯЯяяяЯУ",
+    "Word": "it"
+  },
+  {
+    "sound": "мяяЯяяЯУ",
+    "Word": "item"
+  },
+  {
+    "sound": "мЯяЯяяЯУ",
+    "Word": "its"
+  },
+  {
+    "sound": "мяЯЯяяЯУ",
+    "Word": "itself"
+  },
+  {
+    "sound": "мЯЯЯяяЯУ",
+    "Word": "jacket"
+  },
+  {
+    "sound": "мяяяЯяЯУ",
+    "Word": "jam"
+  },
+  {
+    "sound": "мЯяяЯяЯУ",
+    "Word": "january"
+  },
+  {
+    "sound": "мяЯяЯяЯУ",
+    "Word": "jazz"
+  },
+  {
+    "sound": "мЯЯяЯяЯУ",
+    "Word": "jeans"
+  },
+  {
+    "sound": "мяяЯЯяЯУ",
+    "Word": "jewellery"
+  },
+  {
+    "sound": "мЯяЯЯяЯУ",
+    "Word": "job"
+  },
+  {
+    "sound": "мяЯЯЯяЯУ",
+    "Word": "join"
+  },
+  {
+    "sound": "мЯЯЯЯяЯУ",
+    "Word": "joke"
+  },
+  {
+    "sound": "мяяяяЯЯУ",
+    "Word": "journal"
+  },
+  {
+    "sound": "мЯяяяЯЯУ",
+    "Word": "journalist"
+  },
+  {
+    "sound": "мяЯяяЯЯУ",
+    "Word": "journey"
+  },
+  {
+    "sound": "мЯЯяяЯЯУ",
+    "Word": "joy"
+  },
+  {
+    "sound": "мяяЯяЯЯУ",
+    "Word": "judge"
+  },
+  {
+    "sound": "мЯяЯяЯЯУ",
+    "Word": "judgement"
+  },
+  {
+    "sound": "мяЯЯяЯЯУ",
+    "Word": "juice"
+  },
+  {
+    "sound": "мЯЯЯяЯЯУ",
+    "Word": "july"
+  },
+  {
+    "sound": "мяяяЯЯЯУ",
+    "Word": "jump"
+  },
+  {
+    "sound": "мЯяяЯЯЯУ",
+    "Word": "june"
+  },
+  {
+    "sound": "мяЯяЯЯЯУ",
+    "Word": "junior"
+  },
+  {
+    "sound": "мЯЯяЯЯЯУ",
+    "Word": "just"
+  },
+  {
+    "sound": "мяяЯЯЯЯУ",
+    "Word": "justice"
+  },
+  {
+    "sound": "мЯяЯЯЯЯУ",
+    "Word": "justify"
+  },
+  {
+    "sound": "мяЯЯЯЯЯУ",
+    "Word": "keen"
+  },
+  {
+    "sound": "мЯЯЯЯЯЯУ",
+    "Word": "keep"
+  },
+  {
+    "sound": "мяяяяяуу",
+    "Word": "key"
+  },
+  {
+    "sound": "мЯяяяяуу",
+    "Word": "keyboard"
+  },
+  {
+    "sound": "мяЯяяяуу",
+    "Word": "kick"
+  },
+  {
+    "sound": "мЯЯяяяуу",
+    "Word": "kid"
+  },
+  {
+    "sound": "мяяЯяяуу",
+    "Word": "kill"
+  },
+  {
+    "sound": "мЯяЯяяуу",
+    "Word": "killing"
+  },
+  {
+    "sound": "мяЯЯяяуу",
+    "Word": "kilometre"
+  },
+  {
+    "sound": "мЯЯЯяяуу",
+    "Word": "kind"
+  },
+  {
+    "sound": "мяяяЯяуу",
+    "Word": "king"
+  },
+  {
+    "sound": "мЯяяЯяуу",
+    "Word": "kiss"
+  },
+  {
+    "sound": "мяЯяЯяуу",
+    "Word": "kitchen"
+  },
+  {
+    "sound": "мЯЯяЯяуу",
+    "Word": "knee"
+  },
+  {
+    "sound": "мяяЯЯяуу",
+    "Word": "knife"
+  },
+  {
+    "sound": "мЯяЯЯяуу",
+    "Word": "knock"
+  },
+  {
+    "sound": "мяЯЯЯяуу",
+    "Word": "know"
+  },
+  {
+    "sound": "мЯЯЯЯяуу",
+    "Word": "knowledge"
+  },
+  {
+    "sound": "мяяяяЯуу",
+    "Word": "lab"
+  },
+  {
+    "sound": "мЯяяяЯуу",
+    "Word": "label"
+  },
+  {
+    "sound": "мяЯяяЯуу",
+    "Word": "laboratory"
+  },
+  {
+    "sound": "мЯЯяяЯуу",
+    "Word": "labour"
+  },
+  {
+    "sound": "мяяЯяЯуу",
+    "Word": "lack"
+  },
+  {
+    "sound": "мЯяЯяЯуу",
+    "Word": "lady"
+  },
+  {
+    "sound": "мяЯЯяЯуу",
+    "Word": "lake"
+  },
+  {
+    "sound": "мЯЯЯяЯуу",
+    "Word": "lamp"
+  },
+  {
+    "sound": "мяяяЯЯуу",
+    "Word": "land"
+  },
+  {
+    "sound": "мЯяяЯЯуу",
+    "Word": "landscape"
+  },
+  {
+    "sound": "мяЯяЯЯуу",
+    "Word": "language"
+  },
+  {
+    "sound": "мЯЯяЯЯуу",
+    "Word": "laptop"
+  },
+  {
+    "sound": "мяяЯЯЯуу",
+    "Word": "large"
+  },
+  {
+    "sound": "мЯяЯЯЯуу",
+    "Word": "largely"
+  },
+  {
+    "sound": "мяЯЯЯЯуу",
+    "Word": "last"
+  },
+  {
+    "sound": "мЯЯЯЯЯуу",
+    "Word": "late"
+  },
+  {
+    "sound": "мяяяяяУу",
+    "Word": "later"
+  },
+  {
+    "sound": "мЯяяяяУу",
+    "Word": "latest"
+  },
+  {
+    "sound": "мяЯяяяУу",
+    "Word": "laugh"
+  },
+  {
+    "sound": "мЯЯяяяУу",
+    "Word": "laughter"
+  },
+  {
+    "sound": "мяяЯяяУу",
+    "Word": "launch"
+  },
+  {
+    "sound": "мЯяЯяяУу",
+    "Word": "law"
+  },
+  {
+    "sound": "мяЯЯяяУу",
+    "Word": "lawyer"
+  },
+  {
+    "sound": "мЯЯЯяяУу",
+    "Word": "lay"
+  },
+  {
+    "sound": "мяяяЯяУу",
+    "Word": "layer"
+  },
+  {
+    "sound": "мЯяяЯяУу",
+    "Word": "lazy"
+  },
+  {
+    "sound": "мяЯяЯяУу",
+    "Word": "lead"
+  },
+  {
+    "sound": "мЯЯяЯяУу",
+    "Word": "leader"
+  },
+  {
+    "sound": "мяяЯЯяУу",
+    "Word": "leadership"
+  },
+  {
+    "sound": "мЯяЯЯяУу",
+    "Word": "leading"
+  },
+  {
+    "sound": "мяЯЯЯяУу",
+    "Word": "leaf"
+  },
+  {
+    "sound": "мЯЯЯЯяУу",
+    "Word": "league"
+  },
+  {
+    "sound": "мяяяяЯУу",
+    "Word": "lean"
+  },
+  {
+    "sound": "мЯяяяЯУу",
+    "Word": "learn"
+  },
+  {
+    "sound": "мяЯяяЯУу",
+    "Word": "learning"
+  },
+  {
+    "sound": "мЯЯяяЯУу",
+    "Word": "least"
+  },
+  {
+    "sound": "мяяЯяЯУу",
+    "Word": "leather"
+  },
+  {
+    "sound": "мЯяЯяЯУу",
+    "Word": "leave"
+  },
+  {
+    "sound": "мяЯЯяЯУу",
+    "Word": "lecture"
+  },
+  {
+    "sound": "мЯЯЯяЯУу",
+    "Word": "left"
+  },
+  {
+    "sound": "мяяяЯЯУу",
+    "Word": "leg"
+  },
+  {
+    "sound": "мЯяяЯЯУу",
+    "Word": "legal"
+  },
+  {
+    "sound": "мяЯяЯЯУу",
+    "Word": "leisure"
+  },
+  {
+    "sound": "мЯЯяЯЯУу",
+    "Word": "lemon"
+  },
+  {
+    "sound": "мяяЯЯЯУу",
+    "Word": "lend"
+  },
+  {
+    "sound": "мЯяЯЯЯУу",
+    "Word": "length"
+  },
+  {
+    "sound": "мяЯЯЯЯУу",
+    "Word": "less"
+  },
+  {
+    "sound": "мЯЯЯЯЯУу",
+    "Word": "lesson"
+  },
+  {
+    "sound": "мяяяяяуУ",
+    "Word": "let"
+  },
+  {
+    "sound": "мЯяяяяуУ",
+    "Word": "letter"
+  },
+  {
+    "sound": "мяЯяяяуУ",
+    "Word": "level"
+  },
+  {
+    "sound": "мЯЯяяяуУ",
+    "Word": "library"
+  },
+  {
+    "sound": "мяяЯяяуУ",
+    "Word": "licence"
+  },
+  {
+    "sound": "мЯяЯяяуУ",
+    "Word": "lie"
+  },
+  {
+    "sound": "мяЯЯяяуУ",
+    "Word": "life"
+  },
+  {
+    "sound": "мЯЯЯяяуУ",
+    "Word": "lifestyle"
+  },
+  {
+    "sound": "мяяяЯяуУ",
+    "Word": "lift"
+  },
+  {
+    "sound": "мЯяяЯяуУ",
+    "Word": "light"
+  },
+  {
+    "sound": "мяЯяЯяуУ",
+    "Word": "like"
+  },
+  {
+    "sound": "мЯЯяЯяуУ",
+    "Word": "likely"
+  },
+  {
+    "sound": "мяяЯЯяуУ",
+    "Word": "limit"
+  },
+  {
+    "sound": "мЯяЯЯяуУ",
+    "Word": "limited"
+  },
+  {
+    "sound": "мяЯЯЯяуУ",
+    "Word": "line"
+  },
+  {
+    "sound": "мЯЯЯЯяуУ",
+    "Word": "link"
+  },
+  {
+    "sound": "мяяяяЯуУ",
+    "Word": "lion"
+  },
+  {
+    "sound": "мЯяяяЯуУ",
+    "Word": "lip"
+  },
+  {
+    "sound": "мяЯяяЯуУ",
+    "Word": "liquid"
+  },
+  {
+    "sound": "мЯЯяяЯуУ",
+    "Word": "list"
+  },
+  {
+    "sound": "мяяЯяЯуУ",
+    "Word": "listen"
+  },
+  {
+    "sound": "мЯяЯяЯуУ",
+    "Word": "listener"
+  },
+  {
+    "sound": "мяЯЯяЯуУ",
+    "Word": "literature"
+  },
+  {
+    "sound": "мЯЯЯяЯуУ",
+    "Word": "little"
+  },
+  {
+    "sound": "мяяяЯЯуУ",
+    "Word": "live"
+  },
+  {
+    "sound": "мЯяяЯЯуУ",
+    "Word": "lively"
+  },
+  {
+    "sound": "мяЯяЯЯуУ",
+    "Word": "living"
+  },
+  {
+    "sound": "мЯЯяЯЯуУ",
+    "Word": "load"
+  },
+  {
+    "sound": "мяяЯЯЯуУ",
+    "Word": "loan"
+  },
+  {
+    "sound": "мЯяЯЯЯуУ",
+    "Word": "local"
+  },
+  {
+    "sound": "мяЯЯЯЯуУ",
+    "Word": "locate"
+  },
+  {
+    "sound": "мЯЯЯЯЯуУ",
+    "Word": "located"
+  },
+  {
+    "sound": "мяяяяяУУ",
+    "Word": "location"
+  },
+  {
+    "sound": "мЯяяяяУУ",
+    "Word": "lock"
+  },
+  {
+    "sound": "мяЯяяяУУ",
+    "Word": "logical"
+  },
+  {
+    "sound": "мЯЯяяяУУ",
+    "Word": "lonely"
+  },
+  {
+    "sound": "мяяЯяяУУ",
+    "Word": "long"
+  },
+  {
+    "sound": "мЯяЯяяУУ",
+    "Word": "long-term"
+  },
+  {
+    "sound": "мяЯЯяяУУ",
+    "Word": "look"
+  },
+  {
+    "sound": "мЯЯЯяяУУ",
+    "Word": "loose"
+  },
+  {
+    "sound": "мяяяЯяУУ",
+    "Word": "lord"
+  },
+  {
+    "sound": "мЯяяЯяУУ",
+    "Word": "lorry"
+  },
+  {
+    "sound": "мяЯяЯяУУ",
+    "Word": "lose"
+  },
+  {
+    "sound": "мЯЯяЯяУУ",
+    "Word": "loss"
+  },
+  {
+    "sound": "мяяЯЯяУУ",
+    "Word": "lost"
+  },
+  {
+    "sound": "мЯяЯЯяУУ",
+    "Word": "lot"
+  },
+  {
+    "sound": "мяЯЯЯяУУ",
+    "Word": "loud"
+  },
+  {
+    "sound": "мЯЯЯЯяУУ",
+    "Word": "loudly"
+  },
+  {
+    "sound": "мяяяяЯУУ",
+    "Word": "love"
+  },
+  {
+    "sound": "мЯяяяЯУУ",
+    "Word": "lovely"
+  },
+  {
+    "sound": "мяЯяяЯУУ",
+    "Word": "low"
+  },
+  {
+    "sound": "мЯЯяяЯУУ",
+    "Word": "lower"
+  },
+  {
+    "sound": "мяяЯяЯУУ",
+    "Word": "luck"
+  },
+  {
+    "sound": "мЯяЯяЯУУ",
+    "Word": "lucky"
+  },
+  {
+    "sound": "мяЯЯяЯУУ",
+    "Word": "lunch"
+  },
+  {
+    "sound": "мЯЯЯяЯУУ",
+    "Word": "lung"
+  },
+  {
+    "sound": "мяяяЯЯУУ",
+    "Word": "luxury"
+  },
+  {
+    "sound": "мЯяяЯЯУУ",
+    "Word": "machine"
+  },
+  {
+    "sound": "мяЯяЯЯУУ",
+    "Word": "mad"
+  },
+  {
+    "sound": "мЯЯяЯЯУУ",
+    "Word": "magazine"
+  },
+  {
+    "sound": "мяяЯЯЯУУ",
+    "Word": "magic"
+  },
+  {
+    "sound": "мЯяЯЯЯУУ",
+    "Word": "mail"
+  },
+  {
+    "sound": "мяЯЯЯЯУУ",
+    "Word": "main"
+  },
+  {
+    "sound": "мЯЯЯЯЯУУ",
+    "Word": "mainly"
+  },
+  {
+    "sound": "мяяяяууу",
+    "Word": "maintain"
+  },
+  {
+    "sound": "мЯяяяууу",
+    "Word": "major"
+  },
+  {
+    "sound": "мяЯяяууу",
+    "Word": "majority"
+  },
+  {
+    "sound": "мЯЯяяууу",
+    "Word": "make"
+  },
+  {
+    "sound": "мяяЯяууу",
+    "Word": "male"
+  },
+  {
+    "sound": "мЯяЯяууу",
+    "Word": "mall"
+  },
+  {
+    "sound": "мяЯЯяууу",
+    "Word": "man"
+  },
+  {
+    "sound": "мЯЯЯяууу",
+    "Word": "manage"
+  },
+  {
+    "sound": "мяяяЯууу",
+    "Word": "management"
+  },
+  {
+    "sound": "мЯяяЯууу",
+    "Word": "manager"
+  },
+  {
+    "sound": "мяЯяЯууу",
+    "Word": "manner"
+  },
+  {
+    "sound": "мЯЯяЯууу",
+    "Word": "many"
+  },
+  {
+    "sound": "мяяЯЯууу",
+    "Word": "map"
+  },
+  {
+    "sound": "мЯяЯЯууу",
+    "Word": "march"
+  },
+  {
+    "sound": "мяЯЯЯууу",
+    "Word": "mark"
+  },
+  {
+    "sound": "мЯЯЯЯууу",
+    "Word": "market"
+  },
+  {
+    "sound": "мяяяяУуу",
+    "Word": "marketing"
+  },
+  {
+    "sound": "мЯяяяУуу",
+    "Word": "marriage"
+  },
+  {
+    "sound": "мяЯяяУуу",
+    "Word": "married"
+  },
+  {
+    "sound": "мЯЯяяУуу",
+    "Word": "marry"
+  },
+  {
+    "sound": "мяяЯяУуу",
+    "Word": "mass"
+  },
+  {
+    "sound": "мЯяЯяУуу",
+    "Word": "massive"
+  },
+  {
+    "sound": "мяЯЯяУуу",
+    "Word": "master"
+  },
+  {
+    "sound": "мЯЯЯяУуу",
+    "Word": "match"
+  },
+  {
+    "sound": "мяяяЯУуу",
+    "Word": "matching"
+  },
+  {
+    "sound": "мЯяяЯУуу",
+    "Word": "material"
+  },
+  {
+    "sound": "мяЯяЯУуу",
+    "Word": "mathematics"
+  },
+  {
+    "sound": "мЯЯяЯУуу",
+    "Word": "maths"
+  },
+  {
+    "sound": "мяяЯЯУуу",
+    "Word": "matter"
+  },
+  {
+    "sound": "мЯяЯЯУуу",
+    "Word": "maximum"
+  },
+  {
+    "sound": "мяЯЯЯУуу",
+    "Word": "may"
+  },
+  {
+    "sound": "мЯЯЯЯУуу",
+    "Word": "maymodal"
+  },
+  {
+    "sound": "мяяяяуУу",
+    "Word": "maybe"
+  },
+  {
+    "sound": "мЯяяяуУу",
+    "Word": "me"
+  },
+  {
+    "sound": "мяЯяяуУу",
+    "Word": "meal"
+  },
+  {
+    "sound": "мЯЯяяуУу",
+    "Word": "mean"
+  },
+  {
+    "sound": "мяяЯяуУу",
+    "Word": "meaning"
+  },
+  {
+    "sound": "мЯяЯяуУу",
+    "Word": "means"
+  },
+  {
+    "sound": "мяЯЯяуУу",
+    "Word": "meanwhile"
+  },
+  {
+    "sound": "мЯЯЯяуУу",
+    "Word": "measure"
+  },
+  {
+    "sound": "мяяяЯуУу",
+    "Word": "measurement"
+  },
+  {
+    "sound": "мЯяяЯуУу",
+    "Word": "meat"
+  },
+  {
+    "sound": "мяЯяЯуУу",
+    "Word": "media"
+  },
+  {
+    "sound": "мЯЯяЯуУу",
+    "Word": "medical"
+  },
+  {
+    "sound": "мяяЯЯуУу",
+    "Word": "medicine"
+  },
+  {
+    "sound": "мЯяЯЯуУу",
+    "Word": "medium"
+  },
+  {
+    "sound": "мяЯЯЯуУу",
+    "Word": "meet"
+  },
+  {
+    "sound": "мЯЯЯЯуУу",
+    "Word": "meeting"
+  },
+  {
+    "sound": "мяяяяУУу",
+    "Word": "melt"
+  },
+  {
+    "sound": "мЯяяяУУу",
+    "Word": "member"
+  },
+  {
+    "sound": "мяЯяяУУу",
+    "Word": "memory"
+  },
+  {
+    "sound": "мЯЯяяУУу",
+    "Word": "mental"
+  },
+  {
+    "sound": "мяяЯяУУу",
+    "Word": "mention"
+  },
+  {
+    "sound": "мЯяЯяУУу",
+    "Word": "menu"
+  },
+  {
+    "sound": "мяЯЯяУУу",
+    "Word": "mess"
+  },
+  {
+    "sound": "мЯЯЯяУУу",
+    "Word": "message"
+  },
+  {
+    "sound": "мяяяЯУУу",
+    "Word": "metal"
+  },
+  {
+    "sound": "мЯяяЯУУу",
+    "Word": "method"
+  },
+  {
+    "sound": "мяЯяЯУУу",
+    "Word": "metre"
+  },
+  {
+    "sound": "мЯЯяЯУУу",
+    "Word": "middle"
+  },
+  {
+    "sound": "мяяЯЯУУу",
+    "Word": "midnight"
+  },
+  {
+    "sound": "мЯяЯЯУУу",
+    "Word": "might"
+  },
+  {
+    "sound": "мяЯЯЯУУу",
+    "Word": "mild"
+  },
+  {
+    "sound": "мЯЯЯЯУУу",
+    "Word": "mile"
+  },
+  {
+    "sound": "мяяяяууУ",
+    "Word": "military"
+  },
+  {
+    "sound": "мЯяяяууУ",
+    "Word": "milk"
+  },
+  {
+    "sound": "мяЯяяууУ",
+    "Word": "millionnumber"
+  },
+  {
+    "sound": "мЯЯяяууУ",
+    "Word": "mind"
+  },
+  {
+    "sound": "мяяЯяууУ",
+    "Word": "mine"
+  },
+  {
+    "sound": "мЯяЯяууУ",
+    "Word": "mineral"
+  },
+  {
+    "sound": "мяЯЯяууУ",
+    "Word": "minimum"
+  },
+  {
+    "sound": "мЯЯЯяууУ",
+    "Word": "minister"
+  },
+  {
+    "sound": "мяяяЯууУ",
+    "Word": "minor"
+  },
+  {
+    "sound": "мЯяяЯууУ",
+    "Word": "minority"
+  },
+  {
+    "sound": "мяЯяЯууУ",
+    "Word": "minute"
+  },
+  {
+    "sound": "мЯЯяЯууУ",
+    "Word": "mirror"
+  },
+  {
+    "sound": "мяяЯЯууУ",
+    "Word": "miss"
+  },
+  {
+    "sound": "мЯяЯЯууУ",
+    "Word": "missing"
+  },
+  {
+    "sound": "мяЯЯЯууУ",
+    "Word": "mission"
+  },
+  {
+    "sound": "мЯЯЯЯууУ",
+    "Word": "mistake"
+  },
+  {
+    "sound": "мяяяяУуУ",
+    "Word": "mix"
+  },
+  {
+    "sound": "мЯяяяУуУ",
+    "Word": "mixed"
+  },
+  {
+    "sound": "мяЯяяУуУ",
+    "Word": "mixture"
+  },
+  {
+    "sound": "мЯЯяяУуУ",
+    "Word": "mobile"
+  },
+  {
+    "sound": "мяяЯяУуУ",
+    "Word": "model"
+  },
+  {
+    "sound": "мЯяЯяУуУ",
+    "Word": "modern"
+  },
+  {
+    "sound": "мяЯЯяУуУ",
+    "Word": "modify"
+  },
+  {
+    "sound": "мЯЯЯяУуУ",
+    "Word": "moment"
+  },
+  {
+    "sound": "мяяяЯУуУ",
+    "Word": "monday"
+  },
+  {
+    "sound": "мЯяяЯУуУ",
+    "Word": "money"
+  },
+  {
+    "sound": "мяЯяЯУуУ",
+    "Word": "monitor"
+  },
+  {
+    "sound": "мЯЯяЯУуУ",
+    "Word": "monkey"
+  },
+  {
+    "sound": "мяяЯЯУуУ",
+    "Word": "month"
+  },
+  {
+    "sound": "мЯяЯЯУуУ",
+    "Word": "mood"
+  },
+  {
+    "sound": "мяЯЯЯУуУ",
+    "Word": "moon"
+  },
+  {
+    "sound": "мЯЯЯЯУуУ",
+    "Word": "moral"
+  },
+  {
+    "sound": "мяяяяуУУ",
+    "Word": "more"
+  },
+  {
+    "sound": "мЯяяяуУУ",
+    "Word": "morning"
+  },
+  {
+    "sound": "мяЯяяуУУ",
+    "Word": "most"
+  },
+  {
+    "sound": "мЯЯяяуУУ",
+    "Word": "mostly"
+  },
+  {
+    "sound": "мяяЯяуУУ",
+    "Word": "mother"
+  },
+  {
+    "sound": "мЯяЯяуУУ",
+    "Word": "motor"
+  },
+  {
+    "sound": "мяЯЯяуУУ",
+    "Word": "motorcycle"
+  },
+  {
+    "sound": "мЯЯЯяуУУ",
+    "Word": "mount"
+  },
+  {
+    "sound": "мяяяЯуУУ",
+    "Word": "mountain"
+  },
+  {
+    "sound": "мЯяяЯуУУ",
+    "Word": "mouse"
+  },
+  {
+    "sound": "мяЯяЯуУУ",
+    "Word": "mouth"
+  },
+  {
+    "sound": "мЯЯяЯуУУ",
+    "Word": "move"
+  },
+  {
+    "sound": "мяяЯЯуУУ",
+    "Word": "movement"
+  },
+  {
+    "sound": "мЯяЯЯуУУ",
+    "Word": "movie"
+  },
+  {
+    "sound": "мяЯЯЯуУУ",
+    "Word": "much"
+  },
+  {
+    "sound": "мЯЯЯЯуУУ",
+    "Word": "mud"
+  },
+  {
+    "sound": "мяяяяУУУ",
+    "Word": "multiple"
+  },
+  {
+    "sound": "мЯяяяУУУ",
+    "Word": "multiply"
+  },
+  {
+    "sound": "мяЯяяУУУ",
+    "Word": "mum"
+  },
+  {
+    "sound": "мЯЯяяУУУ",
+    "Word": "murder"
+  },
+  {
+    "sound": "мяяЯяУУУ",
+    "Word": "muscle"
+  },
+  {
+    "sound": "мЯяЯяУУУ",
+    "Word": "museum"
+  },
+  {
+    "sound": "мяЯЯяУУУ",
+    "Word": "music"
+  },
+  {
+    "sound": "мЯЯЯяУУУ",
+    "Word": "musical"
+  },
+  {
+    "sound": "мяяяЯУУУ",
+    "Word": "musician"
+  },
+  {
+    "sound": "мЯяяЯУУУ",
+    "Word": "must"
+  },
+  {
+    "sound": "мяЯяЯУУУ",
+    "Word": "my"
+  },
+  {
+    "sound": "мЯЯяЯУУУ",
+    "Word": "myself"
+  },
+  {
+    "sound": "мяяЯЯУУУ",
+    "Word": "mysterious"
+  },
+  {
+    "sound": "мЯяЯЯУУУ",
+    "Word": "mystery"
+  },
+  {
+    "sound": "мяЯЯЯУУУ",
+    "Word": "nail"
+  },
+  {
+    "sound": "мЯЯЯЯУУУ",
+    "Word": "name"
+  },
+  {
+    "sound": "мяяяуууу",
+    "Word": "narrative"
+  },
+  {
+    "sound": "мЯяяуууу",
+    "Word": "narrow"
+  },
+  {
+    "sound": "мяЯяуууу",
+    "Word": "nation"
+  },
+  {
+    "sound": "мЯЯяуууу",
+    "Word": "national"
+  },
+  {
+    "sound": "мяяЯуууу",
+    "Word": "native"
+  },
+  {
+    "sound": "мЯяЯуууу",
+    "Word": "natural"
+  },
+  {
+    "sound": "мяЯЯуууу",
+    "Word": "naturally"
+  },
+  {
+    "sound": "мЯЯЯуууу",
+    "Word": "nature"
+  },
+  {
+    "sound": "мяяяУууу",
+    "Word": "near"
+  },
+  {
+    "sound": "мЯяяУууу",
+    "Word": "nearly"
+  },
+  {
+    "sound": "мяЯяУууу",
+    "Word": "neat"
+  },
+  {
+    "sound": "мЯЯяУууу",
+    "Word": "necessarily"
+  },
+  {
+    "sound": "мяяЯУууу",
+    "Word": "necessary"
+  },
+  {
+    "sound": "мЯяЯУууу",
+    "Word": "neck"
+  },
+  {
+    "sound": "мяЯЯУууу",
+    "Word": "need"
+  },
+  {
+    "sound": "мЯЯЯУууу",
+    "Word": "needmodal"
+  },
+  {
+    "sound": "мяяяуУуу",
+    "Word": "needle"
+  },
+  {
+    "sound": "мЯяяуУуу",
+    "Word": "negative"
+  },
+  {
+    "sound": "мяЯяуУуу",
+    "Word": "neighbour"
+  },
+  {
+    "sound": "мЯЯяуУуу",
+    "Word": "neighbourhood"
+  },
+  {
+    "sound": "мяяЯуУуу",
+    "Word": "neither"
+  },
+  {
+    "sound": "мЯяЯуУуу",
+    "Word": "nerve"
+  },
+  {
+    "sound": "мяЯЯуУуу",
+    "Word": "nervous"
+  },
+  {
+    "sound": "мЯЯЯуУуу",
+    "Word": "net"
+  },
+  {
+    "sound": "мяяяУУуу",
+    "Word": "network"
+  },
+  {
+    "sound": "мЯяяУУуу",
+    "Word": "never"
+  },
+  {
+    "sound": "мяЯяУУуу",
+    "Word": "nevertheless"
+  },
+  {
+    "sound": "мЯЯяУУуу",
+    "Word": "new"
+  },
+  {
+    "sound": "мяяЯУУуу",
+    "Word": "news"
+  },
+  {
+    "sound": "мЯяЯУУуу",
+    "Word": "newspaper"
+  },
+  {
+    "sound": "мяЯЯУУуу",
+    "Word": "next"
+  },
+  {
+    "sound": "мЯЯЯУУуу",
+    "Word": "nextto"
+  },
+  {
+    "sound": "мяяяууУу",
+    "Word": "nice"
+  },
+  {
+    "sound": "мЯяяууУу",
+    "Word": "night"
+  },
+  {
+    "sound": "мяЯяууУу",
+    "Word": "nightmare"
+  },
+  {
+    "sound": "мЯЯяууУу",
+    "Word": "nine"
+  },
+  {
+    "sound": "мяяЯууУу",
+    "Word": "nineteen"
+  },
+  {
+    "sound": "мЯяЯууУу",
+    "Word": "ninety"
+  },
+  {
+    "sound": "мяЯЯууУу",
+    "Word": "no"
+  },
+  {
+    "sound": "мЯЯЯууУу",
+    "Word": "noone"
+  },
+  {
+    "sound": "мяяяУуУу",
+    "Word": "nobody"
+  },
+  {
+    "sound": "мЯяяУуУу",
+    "Word": "noise"
+  },
+  {
+    "sound": "мяЯяУуУу",
+    "Word": "noisy"
+  },
+  {
+    "sound": "мЯЯяУуУу",
+    "Word": "none"
+  },
+  {
+    "sound": "мяяЯУуУу",
+    "Word": "nor"
+  },
+  {
+    "sound": "мЯяЯУуУу",
+    "Word": "normal"
+  },
+  {
+    "sound": "мяЯЯУуУу",
+    "Word": "normally"
+  },
+  {
+    "sound": "мЯЯЯУуУу",
+    "Word": "north"
+  },
+  {
+    "sound": "мяяяуУУу",
+    "Word": "northern"
+  },
+  {
+    "sound": "мЯяяуУУу",
+    "Word": "nose"
+  },
+  {
+    "sound": "мяЯяуУУу",
+    "Word": "not"
+  },
+  {
+    "sound": "мЯЯяуУУу",
+    "Word": "note"
+  },
+  {
+    "sound": "мяяЯуУУу",
+    "Word": "nothing"
+  },
+  {
+    "sound": "мЯяЯуУУу",
+    "Word": "notice"
+  },
+  {
+    "sound": "мяЯЯуУУу",
+    "Word": "notion"
+  },
+  {
+    "sound": "мЯЯЯуУУу",
+    "Word": "novel"
+  },
+  {
+    "sound": "мяяяУУУу",
+    "Word": "november"
+  },
+  {
+    "sound": "мЯяяУУУу",
+    "Word": "now"
+  },
+  {
+    "sound": "мяЯяУУУу",
+    "Word": "nowhere"
+  },
+  {
+    "sound": "мЯЯяУУУу",
+    "Word": "nuclear"
+  },
+  {
+    "sound": "мяяЯУУУу",
+    "Word": "number"
+  },
+  {
+    "sound": "мЯяЯУУУу",
+    "Word": "numerous"
+  },
+  {
+    "sound": "мяЯЯУУУу",
+    "Word": "nurse"
+  },
+  {
+    "sound": "мЯЯЯУУУу",
+    "Word": "nut"
+  },
+  {
+    "sound": "мяяяуууУ",
+    "Word": "o’clock"
+  },
+  {
+    "sound": "мЯяяуууУ",
+    "Word": "obey"
+  },
+  {
+    "sound": "мяЯяуууУ",
+    "Word": "object"
+  },
+  {
+    "sound": "мЯЯяуууУ",
+    "Word": "objective"
+  },
+  {
+    "sound": "мяяЯуууУ",
+    "Word": "obligation"
+  },
+  {
+    "sound": "мЯяЯуууУ",
+    "Word": "observation"
+  },
+  {
+    "sound": "мяЯЯуууУ",
+    "Word": "observe"
+  },
+  {
+    "sound": "мЯЯЯуууУ",
+    "Word": "obtain"
+  },
+  {
+    "sound": "мяяяУууУ",
+    "Word": "obvious"
+  },
+  {
+    "sound": "мЯяяУууУ",
+    "Word": "obviously"
+  },
+  {
+    "sound": "мяЯяУууУ",
+    "Word": "occasion"
+  },
+  {
+    "sound": "мЯЯяУууУ",
+    "Word": "occasionally"
+  },
+  {
+    "sound": "мяяЯУууУ",
+    "Word": "occur"
+  },
+  {
+    "sound": "мЯяЯУууУ",
+    "Word": "ocean"
+  },
+  {
+    "sound": "мяЯЯУууУ",
+    "Word": "october"
+  },
+  {
+    "sound": "мЯЯЯУууУ",
+    "Word": "odd"
+  },
+  {
+    "sound": "мяяяуУуУ",
+    "Word": "of"
+  },
+  {
+    "sound": "мЯяяуУуУ",
+    "Word": "off"
+  },
+  {
+    "sound": "мяЯяуУуУ",
+    "Word": "offence"
+  },
+  {
+    "sound": "мЯЯяуУуУ",
+    "Word": "offend"
+  },
+  {
+    "sound": "мяяЯуУуУ",
+    "Word": "offensive"
+  },
+  {
+    "sound": "мЯяЯуУуУ",
+    "Word": "offer"
+  },
+  {
+    "sound": "мяЯЯуУуУ",
+    "Word": "office"
+  },
+  {
+    "sound": "мЯЯЯуУуУ",
+    "Word": "officer"
+  },
+  {
+    "sound": "мяяяУУуУ",
+    "Word": "official"
+  },
+  {
+    "sound": "мЯяяУУуУ",
+    "Word": "often"
+  },
+  {
+    "sound": "мяЯяУУуУ",
+    "Word": "oh"
+  },
+  {
+    "sound": "мЯЯяУУуУ",
+    "Word": "oil"
+  },
+  {
+    "sound": "мяяЯУУуУ",
+    "Word": "ok"
+  },
+  {
+    "sound": "мЯяЯУУуУ",
+    "Word": "old"
+  },
+  {
+    "sound": "мяЯЯУУуУ",
+    "Word": "old-fashioned"
+  },
+  {
+    "sound": "мЯЯЯУУуУ",
+    "Word": "on"
+  },
+  {
+    "sound": "мяяяууУУ",
+    "Word": "once"
+  },
+  {
+    "sound": "мЯяяууУУ",
+    "Word": "one"
+  },
+  {
+    "sound": "мяЯяууУУ",
+    "Word": "onion"
+  },
+  {
+    "sound": "мЯЯяууУУ",
+    "Word": "online"
+  },
+  {
+    "sound": "мяяЯууУУ",
+    "Word": "only"
+  },
+  {
+    "sound": "мЯяЯууУУ",
+    "Word": "onto"
+  },
+  {
+    "sound": "мяЯЯууУУ",
+    "Word": "open"
+  },
+  {
+    "sound": "мЯЯЯууУУ",
+    "Word": "opening"
+  },
+  {
+    "sound": "мяяяУуУУ",
+    "Word": "operate"
+  },
+  {
+    "sound": "мЯяяУуУУ",
+    "Word": "operation"
+  },
+  {
+    "sound": "мяЯяУуУУ",
+    "Word": "opinion"
+  },
+  {
+    "sound": "мЯЯяУуУУ",
+    "Word": "opponent"
+  },
+  {
+    "sound": "мяяЯУуУУ",
+    "Word": "opportunity"
+  },
+  {
+    "sound": "мЯяЯУуУУ",
+    "Word": "oppose"
+  },
+  {
+    "sound": "мяЯЯУуУУ",
+    "Word": "opposed"
+  },
+  {
+    "sound": "мЯЯЯУуУУ",
+    "Word": "opposite"
+  },
+  {
+    "sound": "мяяяуУУУ",
+    "Word": "opposition"
+  },
+  {
+    "sound": "мЯяяуУУУ",
+    "Word": "option"
+  },
+  {
+    "sound": "мяЯяуУУУ",
+    "Word": "or"
+  },
+  {
+    "sound": "мЯЯяуУУУ",
+    "Word": "orange"
+  },
+  {
+    "sound": "мяяЯуУУУ",
+    "Word": "order"
+  },
+  {
+    "sound": "мЯяЯуУУУ",
+    "Word": "ordinary"
+  },
+  {
+    "sound": "мяЯЯуУУУ",
+    "Word": "organ"
+  },
+  {
+    "sound": "мЯЯЯуУУУ",
+    "Word": "organization"
+  },
+  {
+    "sound": "мяяяУУУУ",
+    "Word": "organize"
+  },
+  {
+    "sound": "мЯяяУУУУ",
+    "Word": "organized"
+  },
+  {
+    "sound": "мяЯяУУУУ",
+    "Word": "organizer"
+  },
+  {
+    "sound": "мЯЯяУУУУ",
+    "Word": "origin"
+  },
+  {
+    "sound": "мяяЯУУУУ",
+    "Word": "original"
+  },
+  {
+    "sound": "мЯяЯУУУУ",
+    "Word": "originally"
+  },
+  {
+    "sound": "мяЯЯУУУУ",
+    "Word": "other"
+  },
+  {
+    "sound": "мЯЯЯУУУУ",
+    "Word": "otherwise"
+  },
+  {
+    "sound": "мяяууууу",
+    "Word": "oughtmodal"
+  },
+  {
+    "sound": "мЯяууууу",
+    "Word": "our"
+  },
+  {
+    "sound": "мяЯууууу",
+    "Word": "ours"
+  },
+  {
+    "sound": "мЯЯууууу",
+    "Word": "ourselves"
+  },
+  {
+    "sound": "мяяУуууу",
+    "Word": "out"
+  },
+  {
+    "sound": "мЯяУуууу",
+    "Word": "outcome"
+  },
+  {
+    "sound": "мяЯУуууу",
+    "Word": "outdoor"
+  },
+  {
+    "sound": "мЯЯУуууу",
+    "Word": "outdoors"
+  },
+  {
+    "sound": "мяяуУууу",
+    "Word": "outer"
+  },
+  {
+    "sound": "мЯяуУууу",
+    "Word": "outline"
+  },
+  {
+    "sound": "мяЯуУууу",
+    "Word": "outside"
+  },
+  {
+    "sound": "мЯЯуУууу",
+    "Word": "oven"
+  },
+  {
+    "sound": "мяяУУууу",
+    "Word": "over"
+  },
+  {
+    "sound": "мЯяУУууу",
+    "Word": "overall"
+  },
+  {
+    "sound": "мяЯУУууу",
+    "Word": "owe"
+  },
+  {
+    "sound": "мЯЯУУууу",
+    "Word": "own"
+  },
+  {
+    "sound": "мяяууУуу",
+    "Word": "owner"
+  },
+  {
+    "sound": "мЯяууУуу",
+    "Word": "pace"
+  },
+  {
+    "sound": "мяЯууУуу",
+    "Word": "pack"
+  },
+  {
+    "sound": "мЯЯууУуу",
+    "Word": "package"
+  },
+  {
+    "sound": "мяяУуУуу",
+    "Word": "page"
+  },
+  {
+    "sound": "мЯяУуУуу",
+    "Word": "pain"
+  },
+  {
+    "sound": "мяЯУуУуу",
+    "Word": "painful"
+  },
+  {
+    "sound": "мЯЯУуУуу",
+    "Word": "paint"
+  },
+  {
+    "sound": "мяяуУУуу",
+    "Word": "painter"
+  },
+  {
+    "sound": "мЯяуУУуу",
+    "Word": "painting"
+  },
+  {
+    "sound": "мяЯуУУуу",
+    "Word": "pair"
+  },
+  {
+    "sound": "мЯЯуУУуу",
+    "Word": "palace"
+  },
+  {
+    "sound": "мяяУУУуу",
+    "Word": "pale"
+  },
+  {
+    "sound": "мЯяУУУуу",
+    "Word": "pan"
+  },
+  {
+    "sound": "мяЯУУУуу",
+    "Word": "panel"
+  },
+  {
+    "sound": "мЯЯУУУуу",
+    "Word": "pants"
+  },
+  {
+    "sound": "мяяуууУу",
+    "Word": "paper"
+  },
+  {
+    "sound": "мЯяуууУу",
+    "Word": "paragraph"
+  },
+  {
+    "sound": "мяЯуууУу",
+    "Word": "parent"
+  },
+  {
+    "sound": "мЯЯуууУу",
+    "Word": "park"
+  },
+  {
+    "sound": "мяяУууУу",
+    "Word": "parking"
+  },
+  {
+    "sound": "мЯяУууУу",
+    "Word": "parliament"
+  },
+  {
+    "sound": "мяЯУууУу",
+    "Word": "part"
+  },
+  {
+    "sound": "мЯЯУууУу",
+    "Word": "participant"
+  },
+  {
+    "sound": "мяяуУуУу",
+    "Word": "participate"
+  },
+  {
+    "sound": "мЯяуУуУу",
+    "Word": "particular"
+  },
+  {
+    "sound": "мяЯуУуУу",
+    "Word": "particularly"
+  },
+  {
+    "sound": "мЯЯуУуУу",
+    "Word": "partly"
+  },
+  {
+    "sound": "мяяУУуУу",
+    "Word": "partner"
+  },
+  {
+    "sound": "мЯяУУуУу",
+    "Word": "party"
+  },
+  {
+    "sound": "мяЯУУуУу",
+    "Word": "pass"
+  },
+  {
+    "sound": "мЯЯУУуУу",
+    "Word": "passage"
+  },
+  {
+    "sound": "мяяууУУу",
+    "Word": "passenger"
+  },
+  {
+    "sound": "мЯяууУУу",
+    "Word": "passion"
+  },
+  {
+    "sound": "мяЯууУУу",
+    "Word": "passport"
+  },
+  {
+    "sound": "мЯЯууУУу",
+    "Word": "past"
+  },
+  {
+    "sound": "мяяУуУУу",
+    "Word": "path"
+  },
+  {
+    "sound": "мЯяУуУУу",
+    "Word": "patient"
+  },
+  {
+    "sound": "мяЯУуУУу",
+    "Word": "pattern"
+  },
+  {
+    "sound": "мЯЯУуУУу",
+    "Word": "pay"
+  },
+  {
+    "sound": "мяяуУУУу",
+    "Word": "payment"
+  },
+  {
+    "sound": "мЯяуУУУу",
+    "Word": "peace"
+  },
+  {
+    "sound": "мяЯуУУУу",
+    "Word": "peaceful"
+  },
+  {
+    "sound": "мЯЯуУУУу",
+    "Word": "pen"
+  },
+  {
+    "sound": "мяяУУУУу",
+    "Word": "pencil"
+  },
+  {
+    "sound": "мЯяУУУУу",
+    "Word": "penny"
+  },
+  {
+    "sound": "мяЯУУУУу",
+    "Word": "pension"
+  },
+  {
+    "sound": "мЯЯУУУУу",
+    "Word": "people"
+  },
+  {
+    "sound": "мяяууууУ",
+    "Word": "pepper"
+  },
+  {
+    "sound": "мЯяууууУ",
+    "Word": "per"
+  },
+  {
+    "sound": "мяЯууууУ",
+    "Word": "percent"
+  },
+  {
+    "sound": "мЯЯууууУ",
+    "Word": "percentage"
+  },
+  {
+    "sound": "мяяУуууУ",
+    "Word": "perfect"
+  },
+  {
+    "sound": "мЯяУуууУ",
+    "Word": "perfectly"
+  },
+  {
+    "sound": "мяЯУуууУ",
+    "Word": "perform"
+  },
+  {
+    "sound": "мЯЯУуууУ",
+    "Word": "performance"
+  },
+  {
+    "sound": "мяяуУууУ",
+    "Word": "perhaps"
+  },
+  {
+    "sound": "мЯяуУууУ",
+    "Word": "period"
+  },
+  {
+    "sound": "мяЯуУууУ",
+    "Word": "permanent"
+  },
+  {
+    "sound": "мЯЯуУууУ",
+    "Word": "permission"
+  },
+  {
+    "sound": "мяяУУууУ",
+    "Word": "permit"
+  },
+  {
+    "sound": "мЯяУУууУ",
+    "Word": "person"
+  },
+  {
+    "sound": "мяЯУУууУ",
+    "Word": "personal"
+  },
+  {
+    "sound": "мЯЯУУууУ",
+    "Word": "personality"
+  },
+  {
+    "sound": "мяяууУуУ",
+    "Word": "personally"
+  },
+  {
+    "sound": "мЯяууУуУ",
+    "Word": "perspective"
+  },
+  {
+    "sound": "мяЯууУуУ",
+    "Word": "persuade"
+  },
+  {
+    "sound": "мЯЯууУуУ",
+    "Word": "pet"
+  },
+  {
+    "sound": "мяяУуУуУ",
+    "Word": "petrol"
+  },
+  {
+    "sound": "мЯяУуУуУ",
+    "Word": "phase"
+  },
+  {
+    "sound": "мяЯУуУуУ",
+    "Word": "phenomenon"
+  },
+  {
+    "sound": "мЯЯУуУуУ",
+    "Word": "philosophy"
+  },
+  {
+    "sound": "мяяуУУуУ",
+    "Word": "phone"
+  },
+  {
+    "sound": "мЯяуУУуУ",
+    "Word": "photo"
+  },
+  {
+    "sound": "мяЯуУУуУ",
+    "Word": "photograph"
+  },
+  {
+    "sound": "мЯЯуУУуУ",
+    "Word": "photographer"
+  },
+  {
+    "sound": "мяяУУУуУ",
+    "Word": "photography"
+  },
+  {
+    "sound": "мЯяУУУуУ",
+    "Word": "phrase"
+  },
+  {
+    "sound": "мяЯУУУуУ",
+    "Word": "physical"
+  },
+  {
+    "sound": "мЯЯУУУуУ",
+    "Word": "physics"
+  },
+  {
+    "sound": "мяяуууУУ",
+    "Word": "piano"
+  },
+  {
+    "sound": "мЯяуууУУ",
+    "Word": "pick"
+  },
+  {
+    "sound": "мяЯуууУУ",
+    "Word": "picture"
+  },
+  {
+    "sound": "мЯЯуууУУ",
+    "Word": "piece"
+  },
+  {
+    "sound": "мяяУууУУ",
+    "Word": "pig"
+  },
+  {
+    "sound": "мЯяУууУУ",
+    "Word": "pile"
+  },
+  {
+    "sound": "мяЯУууУУ",
+    "Word": "pilot"
+  },
+  {
+    "sound": "мЯЯУууУУ",
+    "Word": "pin"
+  },
+  {
+    "sound": "мяяуУуУУ",
+    "Word": "pink"
+  },
+  {
+    "sound": "мЯяуУуУУ",
+    "Word": "pipe"
+  },
+  {
+    "sound": "мяЯуУуУУ",
+    "Word": "pitch"
+  },
+  {
+    "sound": "мЯЯуУуУУ",
+    "Word": "place"
+  },
+  {
+    "sound": "мяяУУуУУ",
+    "Word": "plain"
+  },
+  {
+    "sound": "мЯяУУуУУ",
+    "Word": "plan"
+  },
+  {
+    "sound": "мяЯУУуУУ",
+    "Word": "plane"
+  },
+  {
+    "sound": "мЯЯУУуУУ",
+    "Word": "planet"
+  },
+  {
+    "sound": "мяяууУУУ",
+    "Word": "planning"
+  },
+  {
+    "sound": "мЯяууУУУ",
+    "Word": "plant"
+  },
+  {
+    "sound": "мяЯууУУУ",
+    "Word": "plastic"
+  },
+  {
+    "sound": "мЯЯууУУУ",
+    "Word": "plate"
+  },
+  {
+    "sound": "мяяУуУУУ",
+    "Word": "platform"
+  },
+  {
+    "sound": "мЯяУуУУУ",
+    "Word": "play"
+  },
+  {
+    "sound": "мяЯУуУУУ",
+    "Word": "player"
+  },
+  {
+    "sound": "мЯЯУуУУУ",
+    "Word": "pleasant"
+  },
+  {
+    "sound": "мяяуУУУУ",
+    "Word": "please"
+  },
+  {
+    "sound": "мЯяуУУУУ",
+    "Word": "pleased"
+  },
+  {
+    "sound": "мяЯуУУУУ",
+    "Word": "pleasure"
+  },
+  {
+    "sound": "мЯЯуУУУУ",
+    "Word": "plenty"
+  },
+  {
+    "sound": "мяяУУУУУ",
+    "Word": "plot"
+  },
+  {
+    "sound": "мЯяУУУУУ",
+    "Word": "plus"
+  },
+  {
+    "sound": "мяЯУУУУУ",
+    "Word": "pocket"
+  },
+  {
+    "sound": "мЯЯУУУУУ",
+    "Word": "poem"
+  },
+  {
+    "sound": "мяуууууу",
+    "Word": "poet"
+  },
+  {
+    "sound": "мЯуууууу",
+    "Word": "poetry"
+  },
+  {
+    "sound": "мяУууууу",
+    "Word": "point"
+  },
+  {
+    "sound": "мЯУууууу",
+    "Word": "pointed"
+  },
+  {
+    "sound": "мяуУуууу",
+    "Word": "poison"
+  },
+  {
+    "sound": "мЯуУуууу",
+    "Word": "poisonous"
+  },
+  {
+    "sound": "мяУУуууу",
+    "Word": "police"
+  },
+  {
+    "sound": "мЯУУуууу",
+    "Word": "policeman"
+  },
+  {
+    "sound": "мяууУууу",
+    "Word": "policy"
+  },
+  {
+    "sound": "мЯууУууу",
+    "Word": "polite"
+  },
+  {
+    "sound": "мяУуУууу",
+    "Word": "political"
+  },
+  {
+    "sound": "мЯУуУууу",
+    "Word": "politician"
+  },
+  {
+    "sound": "мяуУУууу",
+    "Word": "politics"
+  },
+  {
+    "sound": "мЯуУУууу",
+    "Word": "pollution"
+  },
+  {
+    "sound": "мяУУУууу",
+    "Word": "pool"
+  },
+  {
+    "sound": "мЯУУУууу",
+    "Word": "poor"
+  },
+  {
+    "sound": "мяуууУуу",
+    "Word": "pop"
+  },
+  {
+    "sound": "мЯуууУуу",
+    "Word": "popular"
+  },
+  {
+    "sound": "мяУууУуу",
+    "Word": "popularity"
+  },
+  {
+    "sound": "мЯУууУуу",
+    "Word": "population"
+  },
+  {
+    "sound": "мяуУуУуу",
+    "Word": "port"
+  },
+  {
+    "sound": "мЯуУуУуу",
+    "Word": "portrait"
+  },
+  {
+    "sound": "мяУУуУуу",
+    "Word": "pose"
+  },
+  {
+    "sound": "мЯУУуУуу",
+    "Word": "position"
+  },
+  {
+    "sound": "мяууУУуу",
+    "Word": "positive"
+  },
+  {
+    "sound": "мЯууУУуу",
+    "Word": "possess"
+  },
+  {
+    "sound": "мяУуУУуу",
+    "Word": "possession"
+  },
+  {
+    "sound": "мЯУуУУуу",
+    "Word": "possibility"
+  },
+  {
+    "sound": "мяуУУУуу",
+    "Word": "possible"
+  },
+  {
+    "sound": "мЯуУУУуу",
+    "Word": "possibly"
+  },
+  {
+    "sound": "мяУУУУуу",
+    "Word": "post"
+  },
+  {
+    "sound": "мЯУУУУуу",
+    "Word": "poster"
+  },
+  {
+    "sound": "мяууууУу",
+    "Word": "pot"
+  },
+  {
+    "sound": "мЯууууУу",
+    "Word": "potato"
+  },
+  {
+    "sound": "мяУуууУу",
+    "Word": "potential"
+  },
+  {
+    "sound": "мЯУуууУу",
+    "Word": "pound"
+  },
+  {
+    "sound": "мяуУууУу",
+    "Word": "pour"
+  },
+  {
+    "sound": "мЯуУууУу",
+    "Word": "poverty"
+  },
+  {
+    "sound": "мяУУууУу",
+    "Word": "powder"
+  },
+  {
+    "sound": "мЯУУууУу",
+    "Word": "power"
+  },
+  {
+    "sound": "мяууУуУу",
+    "Word": "powerful"
+  },
+  {
+    "sound": "мЯууУуУу",
+    "Word": "practical"
+  },
+  {
+    "sound": "мяУуУуУу",
+    "Word": "practice"
+  },
+  {
+    "sound": "мЯУуУуУу",
+    "Word": "practise"
+  },
+  {
+    "sound": "мяуУУуУу",
+    "Word": "praise"
+  },
+  {
+    "sound": "мЯуУУуУу",
+    "Word": "pray"
+  },
+  {
+    "sound": "мяУУУуУу",
+    "Word": "prayer"
+  },
+  {
+    "sound": "мЯУУУуУу",
+    "Word": "predict"
+  },
+  {
+    "sound": "мяуууУУу",
+    "Word": "prediction"
+  },
+  {
+    "sound": "мЯуууУУу",
+    "Word": "prefer"
+  },
+  {
+    "sound": "мяУууУУу",
+    "Word": "pregnant"
+  },
+  {
+    "sound": "мЯУууУУу",
+    "Word": "preparation"
+  },
+  {
+    "sound": "мяуУуУУу",
+    "Word": "prepare"
+  },
+  {
+    "sound": "мЯуУуУУу",
+    "Word": "prepared"
+  },
+  {
+    "sound": "мяУУуУУу",
+    "Word": "presence"
+  },
+  {
+    "sound": "мЯУУуУУу",
+    "Word": "present"
+  },
+  {
+    "sound": "мяууУУУу",
+    "Word": "presentation"
+  },
+  {
+    "sound": "мЯууУУУу",
+    "Word": "preserve"
+  },
+  {
+    "sound": "мяУуУУУу",
+    "Word": "president"
+  },
+  {
+    "sound": "мЯУуУУУу",
+    "Word": "press"
+  },
+  {
+    "sound": "мяуУУУУу",
+    "Word": "pressure"
+  },
+  {
+    "sound": "мЯуУУУУу",
+    "Word": "pretend"
+  },
+  {
+    "sound": "мяУУУУУу",
+    "Word": "pretty"
+  },
+  {
+    "sound": "мЯУУУУУу",
+    "Word": "prevent"
+  },
+  {
+    "sound": "мяуууууУ",
+    "Word": "previous"
+  },
+  {
+    "sound": "мЯуууууУ",
+    "Word": "previously"
+  },
+  {
+    "sound": "мяУууууУ",
+    "Word": "price"
+  },
+  {
+    "sound": "мЯУууууУ",
+    "Word": "priest"
+  },
+  {
+    "sound": "мяуУуууУ",
+    "Word": "primary"
+  },
+  {
+    "sound": "мЯуУуууУ",
+    "Word": "prime"
+  },
+  {
+    "sound": "мяУУуууУ",
+    "Word": "prince"
+  },
+  {
+    "sound": "мЯУУуууУ",
+    "Word": "princess"
+  },
+  {
+    "sound": "мяууУууУ",
+    "Word": "principle"
+  },
+  {
+    "sound": "мЯууУууУ",
+    "Word": "print"
+  },
+  {
+    "sound": "мяУуУууУ",
+    "Word": "printer"
+  },
+  {
+    "sound": "мЯУуУууУ",
+    "Word": "printing"
+  },
+  {
+    "sound": "мяуУУууУ",
+    "Word": "priority"
+  },
+  {
+    "sound": "мЯуУУууУ",
+    "Word": "prison"
+  },
+  {
+    "sound": "мяУУУууУ",
+    "Word": "prisoner"
+  },
+  {
+    "sound": "мЯУУУууУ",
+    "Word": "privacy"
+  },
+  {
+    "sound": "мяуууУуУ",
+    "Word": "private"
+  },
+  {
+    "sound": "мЯуууУуУ",
+    "Word": "prize"
+  },
+  {
+    "sound": "мяУууУуУ",
+    "Word": "probably"
+  },
+  {
+    "sound": "мЯУууУуУ",
+    "Word": "problem"
+  },
+  {
+    "sound": "мяуУуУуУ",
+    "Word": "procedure"
+  },
+  {
+    "sound": "мЯуУуУуУ",
+    "Word": "process"
+  },
+  {
+    "sound": "мяУУуУуУ",
+    "Word": "produce"
+  },
+  {
+    "sound": "мЯУУуУуУ",
+    "Word": "producer"
+  },
+  {
+    "sound": "мяууУУуУ",
+    "Word": "product"
+  },
+  {
+    "sound": "мЯууУУуУ",
+    "Word": "production"
+  },
+  {
+    "sound": "мяУуУУуУ",
+    "Word": "profession"
+  },
+  {
+    "sound": "мЯУуУУуУ",
+    "Word": "professional"
+  },
+  {
+    "sound": "мяуУУУуУ",
+    "Word": "professor"
+  },
+  {
+    "sound": "мЯуУУУуУ",
+    "Word": "profile"
+  },
+  {
+    "sound": "мяУУУУуУ",
+    "Word": "profit"
+  },
+  {
+    "sound": "мЯУУУУуУ",
+    "Word": "program"
+  },
+  {
+    "sound": "мяууууУУ",
+    "Word": "programme"
+  },
+  {
+    "sound": "мЯууууУУ",
+    "Word": "progress"
+  },
+  {
+    "sound": "мяУуууУУ",
+    "Word": "project"
+  },
+  {
+    "sound": "мЯУуууУУ",
+    "Word": "promise"
+  },
+  {
+    "sound": "мяуУууУУ",
+    "Word": "promote"
+  },
+  {
+    "sound": "мЯуУууУУ",
+    "Word": "pronounce"
+  },
+  {
+    "sound": "мяУУууУУ",
+    "Word": "proof"
+  },
+  {
+    "sound": "мЯУУууУУ",
+    "Word": "proper"
+  },
+  {
+    "sound": "мяууУуУУ",
+    "Word": "properly"
+  },
+  {
+    "sound": "мЯууУуУУ",
+    "Word": "property"
+  },
+  {
+    "sound": "мяУуУуУУ",
+    "Word": "proposal"
+  },
+  {
+    "sound": "мЯУуУуУУ",
+    "Word": "propose"
+  },
+  {
+    "sound": "мяуУУуУУ",
+    "Word": "prospect"
+  },
+  {
+    "sound": "мЯуУУуУУ",
+    "Word": "protect"
+  },
+  {
+    "sound": "мяУУУуУУ",
+    "Word": "protection"
+  },
+  {
+    "sound": "мЯУУУуУУ",
+    "Word": "protest"
+  },
+  {
+    "sound": "мяуууУУУ",
+    "Word": "proud"
+  },
+  {
+    "sound": "мЯуууУУУ",
+    "Word": "prove"
+  },
+  {
+    "sound": "мяУууУУУ",
+    "Word": "provide"
+  },
+  {
+    "sound": "мЯУууУУУ",
+    "Word": "psychologist"
+  },
+  {
+    "sound": "мяуУуУУУ",
+    "Word": "psychology"
+  },
+  {
+    "sound": "мЯуУуУУУ",
+    "Word": "pub"
+  },
+  {
+    "sound": "мяУУуУУУ",
+    "Word": "public"
+  },
+  {
+    "sound": "мЯУУуУУУ",
+    "Word": "publication"
+  },
+  {
+    "sound": "мяууУУУУ",
+    "Word": "publish"
+  },
+  {
+    "sound": "мЯууУУУУ",
+    "Word": "pull"
+  },
+  {
+    "sound": "мяУуУУУУ",
+    "Word": "punish"
+  },
+  {
+    "sound": "мЯУуУУУУ",
+    "Word": "punishment"
+  },
+  {
+    "sound": "мяуУУУУУ",
+    "Word": "pupil"
+  },
+  {
+    "sound": "мЯуУУУУУ",
+    "Word": "purchase"
+  },
+  {
+    "sound": "мяУУУУУУ",
+    "Word": "pure"
+  },
+  {
+    "sound": "мЯУУУУУУ",
+    "Word": "purple"
+  },
+  {
+    "sound": "мур",
+    "Word": "purpose"
+  },
+  {
+    "sound": "мУр",
+    "Word": "pursue"
+  },
+  {
+    "sound": "ммур",
+    "Word": "push"
+  },
+  {
+    "sound": "ммУр",
+    "Word": "put"
+  },
+  {
+    "sound": "муур",
+    "Word": "qualification"
+  },
+  {
+    "sound": "мУур",
+    "Word": "qualified"
+  },
+  {
+    "sound": "муУр",
+    "Word": "qualify"
+  },
+  {
+    "sound": "мУУр",
+    "Word": "quality"
+  },
+  {
+    "sound": "мурр",
+    "Word": "quantity"
+  },
+  {
+    "sound": "мУрр",
+    "Word": "quarter"
+  },
+  {
+    "sound": "мммур",
+    "Word": "queen"
+  },
+  {
+    "sound": "мммУр",
+    "Word": "question"
+  },
+  {
+    "sound": "ммуур",
+    "Word": "queue"
+  },
+  {
+    "sound": "ммУур",
+    "Word": "quick"
+  },
+  {
+    "sound": "ммуУр",
+    "Word": "quickly"
+  },
+  {
+    "sound": "ммУУр",
+    "Word": "quiet"
+  },
+  {
+    "sound": "ммурр",
+    "Word": "quietly"
+  },
+  {
+    "sound": "ммУрр",
+    "Word": "quit"
+  },
+  {
+    "sound": "мууур",
+    "Word": "quite"
+  },
+  {
+    "sound": "мУуур",
+    "Word": "quotation"
+  },
+  {
+    "sound": "муУур",
+    "Word": "quote"
+  },
+  {
+    "sound": "мУУур",
+    "Word": "race"
+  },
+  {
+    "sound": "мууУр",
+    "Word": "racing"
+  },
+  {
+    "sound": "мУуУр",
+    "Word": "radio"
+  },
+  {
+    "sound": "муУУр",
+    "Word": "railway"
+  },
+  {
+    "sound": "мУУУр",
+    "Word": "rain"
+  },
+  {
+    "sound": "муурр",
+    "Word": "raise"
+  },
+  {
+    "sound": "мУурр",
+    "Word": "range"
+  },
+  {
+    "sound": "муУрр",
+    "Word": "rank"
+  },
+  {
+    "sound": "мУУрр",
+    "Word": "rapid"
+  },
+  {
+    "sound": "муррр",
+    "Word": "rapidly"
+  },
+  {
+    "sound": "мУррр",
+    "Word": "rare"
+  },
+  {
+    "sound": "ммммур",
+    "Word": "rarely"
+  },
+  {
+    "sound": "ммммУр",
+    "Word": "rate"
+  },
+  {
+    "sound": "мммуур",
+    "Word": "rather"
+  },
+  {
+    "sound": "мммУур",
+    "Word": "raw"
+  },
+  {
+    "sound": "мммуУр",
+    "Word": "reach"
+  },
+  {
+    "sound": "мммУУр",
+    "Word": "react"
+  },
+  {
+    "sound": "мммурр",
+    "Word": "reaction"
+  },
+  {
+    "sound": "мммУрр",
+    "Word": "read"
+  },
+  {
+    "sound": "ммууур",
+    "Word": "reader"
+  },
+  {
+    "sound": "ммУуур",
+    "Word": "reading"
+  },
+  {
+    "sound": "ммуУур",
+    "Word": "ready"
+  },
+  {
+    "sound": "ммУУур",
+    "Word": "real"
+  },
+  {
+    "sound": "ммууУр",
+    "Word": "realistic"
+  },
+  {
+    "sound": "ммУуУр",
+    "Word": "reality"
+  },
+  {
+    "sound": "ммуУУр",
+    "Word": "realize"
+  },
+  {
+    "sound": "ммУУУр",
+    "Word": "really"
+  },
+  {
+    "sound": "ммуурр",
+    "Word": "reason"
+  },
+  {
+    "sound": "ммУурр",
+    "Word": "reasonable"
+  },
+  {
+    "sound": "ммуУрр",
+    "Word": "recall"
+  },
+  {
+    "sound": "ммУУрр",
+    "Word": "receipt"
+  },
+  {
+    "sound": "ммуррр",
+    "Word": "receive"
+  },
+  {
+    "sound": "ммУррр",
+    "Word": "recent"
+  },
+  {
+    "sound": "муууур",
+    "Word": "recently"
+  },
+  {
+    "sound": "мУууур",
+    "Word": "reception"
+  },
+  {
+    "sound": "муУуур",
+    "Word": "recipe"
+  },
+  {
+    "sound": "мУУуур",
+    "Word": "recognize"
+  },
+  {
+    "sound": "мууУур",
+    "Word": "recommend"
+  },
+  {
+    "sound": "мУуУур",
+    "Word": "recommendation"
+  },
+  {
+    "sound": "муУУур",
+    "Word": "record"
+  },
+  {
+    "sound": "мУУУур",
+    "Word": "recording"
+  },
+  {
+    "sound": "муууУр",
+    "Word": "recover"
+  },
+  {
+    "sound": "мУууУр",
+    "Word": "recycle"
+  },
+  {
+    "sound": "муУуУр",
+    "Word": "red"
+  },
+  {
+    "sound": "мУУуУр",
+    "Word": "reduce"
+  },
+  {
+    "sound": "мууУУр",
+    "Word": "reduction"
+  },
+  {
+    "sound": "мУуУУр",
+    "Word": "refer"
+  },
+  {
+    "sound": "муУУУр",
+    "Word": "reference"
+  },
+  {
+    "sound": "мУУУУр",
+    "Word": "reflect"
+  },
+  {
+    "sound": "мууурр",
+    "Word": "refuse"
+  },
+  {
+    "sound": "мУуурр",
+    "Word": "regard"
+  },
+  {
+    "sound": "муУурр",
+    "Word": "region"
+  },
+  {
+    "sound": "мУУурр",
+    "Word": "regional"
+  },
+  {
+    "sound": "мууУрр",
+    "Word": "register"
+  },
+  {
+    "sound": "мУуУрр",
+    "Word": "regret"
+  },
+  {
+    "sound": "муУУрр",
+    "Word": "regular"
+  },
+  {
+    "sound": "мУУУрр",
+    "Word": "regularly"
+  },
+  {
+    "sound": "мууррр",
+    "Word": "regulation"
+  },
+  {
+    "sound": "мУуррр",
+    "Word": "reject"
+  },
+  {
+    "sound": "муУррр",
+    "Word": "relate"
+  },
+  {
+    "sound": "мУУррр",
+    "Word": "related"
+  },
+  {
+    "sound": "мурррр",
+    "Word": "relation"
+  },
+  {
+    "sound": "мУрррр",
+    "Word": "relationship"
+  },
+  {
+    "sound": "мммммур",
+    "Word": "relative"
+  },
+  {
+    "sound": "мммммУр",
+    "Word": "relatively"
+  },
+  {
+    "sound": "ммммуур",
+    "Word": "relax"
+  },
+  {
+    "sound": "ммммУур",
+    "Word": "relaxed"
+  },
+  {
+    "sound": "ммммуУр",
+    "Word": "relaxing"
+  },
+  {
+    "sound": "ммммУУр",
+    "Word": "release"
+  },
+  {
+    "sound": "ммммурр",
+    "Word": "relevant"
+  },
+  {
+    "sound": "ммммУрр",
+    "Word": "reliable"
+  },
+  {
+    "sound": "мммууур",
+    "Word": "relief"
+  },
+  {
+    "sound": "мммУуур",
+    "Word": "religion"
+  },
+  {
+    "sound": "мммуУур",
+    "Word": "religious"
+  },
+  {
+    "sound": "мммУУур",
+    "Word": "rely"
+  },
+  {
+    "sound": "мммууУр",
+    "Word": "remain"
+  },
+  {
+    "sound": "мммУуУр",
+    "Word": "remark"
+  },
+  {
+    "sound": "мммуУУр",
+    "Word": "remember"
+  },
+  {
+    "sound": "мммУУУр",
+    "Word": "remind"
+  },
+  {
+    "sound": "мммуурр",
+    "Word": "remote"
+  },
+  {
+    "sound": "мммУурр",
+    "Word": "remove"
+  },
+  {
+    "sound": "мммуУрр",
+    "Word": "rent"
+  },
+  {
+    "sound": "мммУУрр",
+    "Word": "repair"
+  },
+  {
+    "sound": "мммуррр",
+    "Word": "repeat"
+  },
+  {
+    "sound": "мммУррр",
+    "Word": "repeated"
+  },
+  {
+    "sound": "ммуууур",
+    "Word": "replace"
+  },
+  {
+    "sound": "ммУууур",
+    "Word": "reply"
+  },
+  {
+    "sound": "ммуУуур",
+    "Word": "report"
+  },
+  {
+    "sound": "ммУУуур",
+    "Word": "reporter"
+  },
+  {
+    "sound": "ммууУур",
+    "Word": "represent"
+  },
+  {
+    "sound": "ммУуУур",
+    "Word": "representative"
+  },
+  {
+    "sound": "ммуУУур",
+    "Word": "reputation"
+  },
+  {
+    "sound": "ммУУУур",
+    "Word": "request"
+  },
+  {
+    "sound": "ммуууУр",
+    "Word": "require"
+  },
+  {
+    "sound": "ммУууУр",
+    "Word": "requirement"
+  },
+  {
+    "sound": "ммуУуУр",
+    "Word": "rescue"
+  },
+  {
+    "sound": "ммУУуУр",
+    "Word": "research"
+  },
+  {
+    "sound": "ммууУУр",
+    "Word": "researcher"
+  },
+  {
+    "sound": "ммУуУУр",
+    "Word": "reservation"
+  },
+  {
+    "sound": "ммуУУУр",
+    "Word": "reserve"
+  },
+  {
+    "sound": "ммУУУУр",
+    "Word": "resident"
+  },
+  {
+    "sound": "ммууурр",
+    "Word": "resist"
+  },
+  {
+    "sound": "ммУуурр",
+    "Word": "resolve"
+  },
+  {
+    "sound": "ммуУурр",
+    "Word": "resort"
+  },
+  {
+    "sound": "ммУУурр",
+    "Word": "resource"
+  },
+  {
+    "sound": "ммууУрр",
+    "Word": "respect"
+  },
+  {
+    "sound": "ммУуУрр",
+    "Word": "respond"
+  },
+  {
+    "sound": "ммуУУрр",
+    "Word": "response"
+  },
+  {
+    "sound": "ммУУУрр",
+    "Word": "responsibility"
+  },
+  {
+    "sound": "ммууррр",
+    "Word": "responsible"
+  },
+  {
+    "sound": "ммУуррр",
+    "Word": "rest"
+  },
+  {
+    "sound": "ммуУррр",
+    "Word": "restaurant"
+  },
+  {
+    "sound": "ммУУррр",
+    "Word": "result"
+  },
+  {
+    "sound": "ммурррр",
+    "Word": "retain"
+  },
+  {
+    "sound": "ммУрррр",
+    "Word": "retire"
+  },
+  {
+    "sound": "мууууур",
+    "Word": "retired"
+  },
+  {
+    "sound": "мУуууур",
+    "Word": "return"
+  },
+  {
+    "sound": "муУууур",
+    "Word": "reveal"
+  },
+  {
+    "sound": "мУУууур",
+    "Word": "review"
+  },
+  {
+    "sound": "мууУуур",
+    "Word": "revise"
+  },
+  {
+    "sound": "мУуУуур",
+    "Word": "revolution"
+  },
+  {
+    "sound": "муУУуур",
+    "Word": "reward"
+  },
+  {
+    "sound": "мУУУуур",
+    "Word": "rhythm"
+  },
+  {
+    "sound": "муууУур",
+    "Word": "rice"
+  },
+  {
+    "sound": "мУууУур",
+    "Word": "rich"
+  },
+  {
+    "sound": "муУуУур",
+    "Word": "rid"
+  },
+  {
+    "sound": "мУУуУур",
+    "Word": "ride"
+  },
+  {
+    "sound": "мууУУур",
+    "Word": "right"
+  },
+  {
+    "sound": "мУуУУур",
+    "Word": "ring"
+  },
+  {
+    "sound": "муУУУур",
+    "Word": "rise"
+  },
+  {
+    "sound": "мУУУУур",
+    "Word": "risk"
+  },
+  {
+    "sound": "мууууУр",
+    "Word": "river"
+  },
+  {
+    "sound": "мУуууУр",
+    "Word": "road"
+  },
+  {
+    "sound": "муУууУр",
+    "Word": "robot"
+  },
+  {
+    "sound": "мУУууУр",
+    "Word": "rock"
+  },
+  {
+    "sound": "мууУуУр",
+    "Word": "role"
+  },
+  {
+    "sound": "мУуУуУр",
+    "Word": "roll"
+  },
+  {
+    "sound": "муУУуУр",
+    "Word": "romantic"
+  },
+  {
+    "sound": "мУУУуУр",
+    "Word": "roof"
+  },
+  {
+    "sound": "муууУУр",
+    "Word": "room"
+  },
+  {
+    "sound": "мУууУУр",
+    "Word": "root"
+  },
+  {
+    "sound": "муУуУУр",
+    "Word": "rope"
+  },
+  {
+    "sound": "мУУуУУр",
+    "Word": "rough"
+  },
+  {
+    "sound": "мууУУУр",
+    "Word": "round"
+  },
+  {
+    "sound": "мУуУУУр",
+    "Word": "route"
+  },
+  {
+    "sound": "муУУУУр",
+    "Word": "routine"
+  },
+  {
+    "sound": "мУУУУУр",
+    "Word": "row"
+  },
+  {
+    "sound": "муууурр",
+    "Word": "royal"
+  },
+  {
+    "sound": "мУууурр",
+    "Word": "rub"
+  },
+  {
+    "sound": "муУуурр",
+    "Word": "rubber"
+  },
+  {
+    "sound": "мУУуурр",
+    "Word": "rubbish"
+  },
+  {
+    "sound": "мууУурр",
+    "Word": "rude"
+  },
+  {
+    "sound": "мУуУурр",
+    "Word": "rugby"
+  },
+  {
+    "sound": "муУУурр",
+    "Word": "rule"
+  },
+  {
+    "sound": "мУУУурр",
+    "Word": "run"
+  },
+  {
+    "sound": "муууУрр",
+    "Word": "runner"
+  },
+  {
+    "sound": "мУууУрр",
+    "Word": "running"
+  },
+  {
+    "sound": "муУуУрр",
+    "Word": "rural"
+  },
+  {
+    "sound": "мУУуУрр",
+    "Word": "rush"
+  },
+  {
+    "sound": "мууУУрр",
+    "Word": "sad"
+  },
+  {
+    "sound": "мУуУУрр",
+    "Word": "sadly"
+  },
+  {
+    "sound": "муУУУрр",
+    "Word": "safe"
+  },
+  {
+    "sound": "мУУУУрр",
+    "Word": "safety"
+  },
+  {
+    "sound": "муууррр",
+    "Word": "sail"
+  },
+  {
+    "sound": "мУууррр",
+    "Word": "sailing"
+  },
+  {
+    "sound": "муУуррр",
+    "Word": "sailor"
+  },
+  {
+    "sound": "мУУуррр",
+    "Word": "salad"
+  },
+  {
+    "sound": "мууУррр",
+    "Word": "salary"
+  },
+  {
+    "sound": "мУуУррр",
+    "Word": "sale"
+  },
+  {
+    "sound": "муУУррр",
+    "Word": "salt"
+  },
+  {
+    "sound": "мУУУррр",
+    "Word": "same"
+  },
+  {
+    "sound": "муурррр",
+    "Word": "sample"
+  },
+  {
+    "sound": "мУурррр",
+    "Word": "sand"
+  },
+  {
+    "sound": "муУрррр",
+    "Word": "sandwich"
+  },
+  {
+    "sound": "мУУрррр",
+    "Word": "satellite"
+  },
+  {
+    "sound": "муррррр",
+    "Word": "satisfied"
+  },
+  {
+    "sound": "мУррррр",
+    "Word": "satisfy"
+  },
+  {
+    "sound": "ммммммур",
+    "Word": "saturday"
+  },
+  {
+    "sound": "ммммммУр",
+    "Word": "sauce"
+  },
+  {
+    "sound": "мммммуур",
+    "Word": "save"
+  },
+  {
+    "sound": "мммммУур",
+    "Word": "saving"
+  },
+  {
+    "sound": "мммммуУр",
+    "Word": "say"
+  },
+  {
+    "sound": "мммммУУр",
+    "Word": "scale"
+  },
+  {
+    "sound": "мммммурр",
+    "Word": "scan"
+  },
+  {
+    "sound": "мммммУрр",
+    "Word": "scared"
+  },
+  {
+    "sound": "ммммууур",
+    "Word": "scary"
+  },
+  {
+    "sound": "ммммУуур",
+    "Word": "scene"
+  },
+  {
+    "sound": "ммммуУур",
+    "Word": "schedule"
+  },
+  {
+    "sound": "ммммУУур",
+    "Word": "scheme"
+  },
+  {
+    "sound": "ммммууУр",
+    "Word": "school"
+  },
+  {
+    "sound": "ммммУуУр",
+    "Word": "science"
+  },
+  {
+    "sound": "ммммуУУр",
+    "Word": "scientific"
+  },
+  {
+    "sound": "ммммУУУр",
+    "Word": "scientist"
+  },
+  {
+    "sound": "ммммуурр",
+    "Word": "score"
+  },
+  {
+    "sound": "ммммУурр",
+    "Word": "scream"
+  },
+  {
+    "sound": "ммммуУрр",
+    "Word": "screen"
+  },
+  {
+    "sound": "ммммУУрр",
+    "Word": "script"
+  },
+  {
+    "sound": "ммммуррр",
+    "Word": "sculpture"
+  },
+  {
+    "sound": "ммммУррр",
+    "Word": "sea"
+  },
+  {
+    "sound": "мммуууур",
+    "Word": "search"
+  },
+  {
+    "sound": "мммУууур",
+    "Word": "season"
+  },
+  {
+    "sound": "мммуУуур",
+    "Word": "seat"
+  },
+  {
+    "sound": "мммУУуур",
+    "Word": "second"
+  },
+  {
+    "sound": "мммууУур",
+    "Word": "secondary"
+  },
+  {
+    "sound": "мммУуУур",
+    "Word": "secondly"
+  },
+  {
+    "sound": "мммуУУур",
+    "Word": "secret"
+  },
+  {
+    "sound": "мммУУУур",
+    "Word": "secretary"
+  },
+  {
+    "sound": "мммуууУр",
+    "Word": "section"
+  },
+  {
+    "sound": "мммУууУр",
+    "Word": "sector"
+  },
+  {
+    "sound": "мммуУуУр",
+    "Word": "secure"
+  },
+  {
+    "sound": "мммУУуУр",
+    "Word": "security"
+  },
+  {
+    "sound": "мммууУУр",
+    "Word": "see"
+  },
+  {
+    "sound": "мммУуУУр",
+    "Word": "seed"
+  },
+  {
+    "sound": "мммуУУУр",
+    "Word": "seek"
+  },
+  {
+    "sound": "мммУУУУр",
+    "Word": "seem"
+  },
+  {
+    "sound": "мммууурр",
+    "Word": "select"
+  },
+  {
+    "sound": "мммУуурр",
+    "Word": "selection"
+  },
+  {
+    "sound": "мммуУурр",
+    "Word": "self"
+  },
+  {
+    "sound": "мммУУурр",
+    "Word": "sell"
+  },
+  {
+    "sound": "мммууУрр",
+    "Word": "send"
+  },
+  {
+    "sound": "мммУуУрр",
+    "Word": "senior"
+  },
+  {
+    "sound": "мммуУУрр",
+    "Word": "sense"
+  },
+  {
+    "sound": "мммУУУрр",
+    "Word": "sensible"
+  },
+  {
+    "sound": "мммууррр",
+    "Word": "sensitive"
+  },
+  {
+    "sound": "мммУуррр",
+    "Word": "sentence"
+  },
+  {
+    "sound": "мммуУррр",
+    "Word": "separate"
+  },
+  {
+    "sound": "мммУУррр",
+    "Word": "september"
+  },
+  {
+    "sound": "мммурррр",
+    "Word": "sequence"
+  },
+  {
+    "sound": "мммУрррр",
+    "Word": "series"
+  },
+  {
+    "sound": "ммууууур",
+    "Word": "serious"
+  },
+  {
+    "sound": "ммУуууур",
+    "Word": "seriously"
+  },
+  {
+    "sound": "ммуУууур",
+    "Word": "servant"
+  },
+  {
+    "sound": "ммУУууур",
+    "Word": "serve"
+  },
+  {
+    "sound": "ммууУуур",
+    "Word": "service"
+  },
+  {
+    "sound": "ммУуУуур",
+    "Word": "session"
+  },
+  {
+    "sound": "ммуУУуур",
+    "Word": "set"
+  },
+  {
+    "sound": "ммУУУуур",
+    "Word": "setting"
+  },
+  {
+    "sound": "ммуууУур",
+    "Word": "settle"
+  },
+  {
+    "sound": "ммУууУур",
+    "Word": "seven"
+  },
+  {
+    "sound": "ммуУуУур",
+    "Word": "seventeen"
+  },
+  {
+    "sound": "ммУУуУур",
+    "Word": "seventy"
+  },
+  {
+    "sound": "ммууУУур",
+    "Word": "several"
+  },
+  {
+    "sound": "ммУуУУур",
+    "Word": "severe"
+  },
+  {
+    "sound": "ммуУУУур",
+    "Word": "sex"
+  },
+  {
+    "sound": "ммУУУУур",
+    "Word": "sexual"
+  },
+  {
+    "sound": "ммууууУр",
+    "Word": "shade"
+  },
+  {
+    "sound": "ммУуууУр",
+    "Word": "shadow"
+  },
+  {
+    "sound": "ммуУууУр",
+    "Word": "shake"
+  },
+  {
+    "sound": "ммУУууУр",
+    "Word": "shall"
+  },
+  {
+    "sound": "ммууУуУр",
+    "Word": "shallow"
+  },
+  {
+    "sound": "ммУуУуУр",
+    "Word": "shame"
+  },
+  {
+    "sound": "ммуУУуУр",
+    "Word": "shape"
+  },
+  {
+    "sound": "ммУУУуУр",
+    "Word": "share"
+  },
+  {
+    "sound": "ммуууУУр",
+    "Word": "sharp"
+  },
+  {
+    "sound": "ммУууУУр",
+    "Word": "she"
+  },
+  {
+    "sound": "ммуУуУУр",
+    "Word": "sheep"
+  },
+  {
+    "sound": "ммУУуУУр",
+    "Word": "sheet"
+  },
+  {
+    "sound": "ммууУУУр",
+    "Word": "shelf"
+  },
+  {
+    "sound": "ммУуУУУр",
+    "Word": "shell"
+  },
+  {
+    "sound": "ммуУУУУр",
+    "Word": "shelter"
+  },
+  {
+    "sound": "ммУУУУУр",
+    "Word": "shift"
+  },
+  {
+    "sound": "ммуууурр",
+    "Word": "shine"
+  },
+  {
+    "sound": "ммУууурр",
+    "Word": "shiny"
+  },
+  {
+    "sound": "ммуУуурр",
+    "Word": "ship"
+  },
+  {
+    "sound": "ммУУуурр",
+    "Word": "shirt"
+  },
+  {
+    "sound": "ммууУурр",
+    "Word": "shock"
+  },
+  {
+    "sound": "ммУуУурр",
+    "Word": "shocked"
+  },
+  {
+    "sound": "ммуУУурр",
+    "Word": "shoe"
+  },
+  {
+    "sound": "ммУУУурр",
+    "Word": "shoot"
+  },
+  {
+    "sound": "ммуууУрр",
+    "Word": "shooting"
+  },
+  {
+    "sound": "ммУууУрр",
+    "Word": "shop"
+  },
+  {
+    "sound": "ммуУуУрр",
+    "Word": "shopping"
+  },
+  {
+    "sound": "ммУУуУрр",
+    "Word": "short"
+  },
+  {
+    "sound": "ммууУУрр",
+    "Word": "shot"
+  },
+  {
+    "sound": "ммУуУУрр",
+    "Word": "should"
+  },
+  {
+    "sound": "ммуУУУрр",
+    "Word": "shoulder"
+  },
+  {
+    "sound": "ммУУУУрр",
+    "Word": "shout"
+  },
+  {
+    "sound": "ммуууррр",
+    "Word": "show"
+  },
+  {
+    "sound": "ммУууррр",
+    "Word": "shower"
+  },
+  {
+    "sound": "ммуУуррр",
+    "Word": "shut"
+  },
+  {
+    "sound": "ммУУуррр",
+    "Word": "shy"
+  },
+  {
+    "sound": "ммууУррр",
+    "Word": "sick"
+  },
+  {
+    "sound": "ммУуУррр",
+    "Word": "side"
+  },
+  {
+    "sound": "ммуУУррр",
+    "Word": "sight"
+  },
+  {
+    "sound": "ммУУУррр",
+    "Word": "sign"
+  },
+  {
+    "sound": "ммуурррр",
+    "Word": "signal"
+  },
+  {
+    "sound": "ммУурррр",
+    "Word": "significant"
+  },
+  {
+    "sound": "ммуУрррр",
+    "Word": "significantly"
+  },
+  {
+    "sound": "ммУУрррр",
+    "Word": "silence"
+  },
+  {
+    "sound": "ммуррррр",
+    "Word": "silent"
+  },
+  {
+    "sound": "ммУррррр",
+    "Word": "silk"
+  },
+  {
+    "sound": "муууууур",
+    "Word": "silly"
+  },
+  {
+    "sound": "мУууууур",
+    "Word": "silver"
+  },
+  {
+    "sound": "муУуууур",
+    "Word": "similar"
+  },
+  {
+    "sound": "мУУуууур",
+    "Word": "similarity"
+  },
+  {
+    "sound": "мууУууур",
+    "Word": "similarly"
+  },
+  {
+    "sound": "мУуУууур",
+    "Word": "simple"
+  },
+  {
+    "sound": "муУУууур",
+    "Word": "simply"
+  },
+  {
+    "sound": "мУУУууур",
+    "Word": "since"
+  },
+  {
+    "sound": "муууУуур",
+    "Word": "sincere"
+  },
+  {
+    "sound": "мУууУуур",
+    "Word": "sing"
+  },
+  {
+    "sound": "муУуУуур",
+    "Word": "singer"
+  },
+  {
+    "sound": "мУУуУуур",
+    "Word": "singing"
+  },
+  {
+    "sound": "мууУУуур",
+    "Word": "single"
+  },
+  {
+    "sound": "мУуУУуур",
+    "Word": "sink"
+  },
+  {
+    "sound": "муУУУуур",
+    "Word": "sir"
+  },
+  {
+    "sound": "мУУУУуур",
+    "Word": "sister"
+  },
+  {
+    "sound": "мууууУур",
+    "Word": "sit"
+  },
+  {
+    "sound": "мУуууУур",
+    "Word": "site"
+  },
+  {
+    "sound": "муУууУур",
+    "Word": "situation"
+  },
+  {
+    "sound": "мУУууУур",
+    "Word": "six"
+  },
+  {
+    "sound": "мууУуУур",
+    "Word": "sixteen"
+  },
+  {
+    "sound": "мУуУуУур",
+    "Word": "sixty"
+  },
+  {
+    "sound": "муУУуУур",
+    "Word": "size"
+  },
+  {
+    "sound": "мУУУуУур",
+    "Word": "ski"
+  },
+  {
+    "sound": "муууУУур",
+    "Word": "skiing"
+  },
+  {
+    "sound": "мУууУУур",
+    "Word": "skill"
+  },
+  {
+    "sound": "муУуУУур",
+    "Word": "skin"
+  },
+  {
+    "sound": "мУУуУУур",
+    "Word": "skirt"
+  },
+  {
+    "sound": "мууУУУур",
+    "Word": "sky"
+  },
+  {
+    "sound": "мУуУУУур",
+    "Word": "slave"
+  },
+  {
+    "sound": "муУУУУур",
+    "Word": "sleep"
+  },
+  {
+    "sound": "мУУУУУур",
+    "Word": "slice"
+  },
+  {
+    "sound": "муууууУр",
+    "Word": "slide"
+  },
+  {
+    "sound": "мУууууУр",
+    "Word": "slight"
+  },
+  {
+    "sound": "муУуууУр",
+    "Word": "slightly"
+  },
+  {
+    "sound": "мУУуууУр",
+    "Word": "slip"
+  },
+  {
+    "sound": "мууУууУр",
+    "Word": "slope"
+  },
+  {
+    "sound": "мУуУууУр",
+    "Word": "slow"
+  },
+  {
+    "sound": "муУУууУр",
+    "Word": "slowly"
+  },
+  {
+    "sound": "мУУУууУр",
+    "Word": "small"
+  },
+  {
+    "sound": "муууУуУр",
+    "Word": "smart"
+  },
+  {
+    "sound": "мУууУуУр",
+    "Word": "smartphone"
+  },
+  {
+    "sound": "муУуУуУр",
+    "Word": "smell"
+  },
+  {
+    "sound": "мУУуУуУр",
+    "Word": "smile"
+  },
+  {
+    "sound": "мууУУуУр",
+    "Word": "smoke"
+  },
+  {
+    "sound": "мУуУУуУр",
+    "Word": "smoking"
+  },
+  {
+    "sound": "муУУУуУр",
+    "Word": "smooth"
+  },
+  {
+    "sound": "мУУУУуУр",
+    "Word": "snake"
+  },
+  {
+    "sound": "мууууУУр",
+    "Word": "snow"
+  },
+  {
+    "sound": "мУуууУУр",
+    "Word": "so"
+  },
+  {
+    "sound": "муУууУУр",
+    "Word": "soap"
+  },
+  {
+    "sound": "мУУууУУр",
+    "Word": "soccer"
+  },
+  {
+    "sound": "мууУуУУр",
+    "Word": "social"
+  },
+  {
+    "sound": "мУуУуУУр",
+    "Word": "society"
+  },
+  {
+    "sound": "муУУуУУр",
+    "Word": "sock"
+  },
+  {
+    "sound": "мУУУуУУр",
+    "Word": "soft"
+  },
+  {
+    "sound": "муууУУУр",
+    "Word": "software"
+  },
+  {
+    "sound": "мУууУУУр",
+    "Word": "soil"
+  },
+  {
+    "sound": "муУуУУУр",
+    "Word": "solar"
+  },
+  {
+    "sound": "мУУуУУУр",
+    "Word": "soldier"
+  },
+  {
+    "sound": "мууУУУУр",
+    "Word": "solid"
+  },
+  {
+    "sound": "мУуУУУУр",
+    "Word": "solution"
+  },
+  {
+    "sound": "муУУУУУр",
+    "Word": "solve"
+  },
+  {
+    "sound": "мУУУУУУр",
+    "Word": "some"
+  },
+  {
+    "sound": "мууууурр",
+    "Word": "somebody"
+  },
+  {
+    "sound": "мУуууурр",
+    "Word": "someone"
+  },
+  {
+    "sound": "муУууурр",
+    "Word": "something"
+  },
+  {
+    "sound": "мУУууурр",
+    "Word": "sometimes"
+  },
+  {
+    "sound": "мууУуурр",
+    "Word": "somewhat"
+  },
+  {
+    "sound": "мУуУуурр",
+    "Word": "somewhere"
+  },
+  {
+    "sound": "муУУуурр",
+    "Word": "son"
+  },
+  {
+    "sound": "мУУУуурр",
+    "Word": "song"
+  },
+  {
+    "sound": "муууУурр",
+    "Word": "soon"
+  },
+  {
+    "sound": "мУууУурр",
+    "Word": "sorry"
+  },
+  {
+    "sound": "муУуУурр",
+    "Word": "sort"
+  },
+  {
+    "sound": "мУУуУурр",
+    "Word": "soul"
+  },
+  {
+    "sound": "мууУУурр",
+    "Word": "sound"
+  },
+  {
+    "sound": "мУуУУурр",
+    "Word": "soup"
+  },
+  {
+    "sound": "муУУУурр",
+    "Word": "source"
+  },
+  {
+    "sound": "мУУУУурр",
+    "Word": "south"
+  },
+  {
+    "sound": "мууууУрр",
+    "Word": "southern"
+  },
+  {
+    "sound": "мУуууУрр",
+    "Word": "space"
+  },
+  {
+    "sound": "муУууУрр",
+    "Word": "speak"
+  },
+  {
+    "sound": "мУУууУрр",
+    "Word": "speaker"
+  },
+  {
+    "sound": "мууУуУрр",
+    "Word": "special"
+  },
+  {
+    "sound": "мУуУуУрр",
+    "Word": "specialist"
+  },
+  {
+    "sound": "муУУуУрр",
+    "Word": "species"
+  },
+  {
+    "sound": "мУУУуУрр",
+    "Word": "specific"
+  },
+  {
+    "sound": "муууУУрр",
+    "Word": "specifically"
+  },
+  {
+    "sound": "мУууУУрр",
+    "Word": "speech"
+  },
+  {
+    "sound": "муУуУУрр",
+    "Word": "speed"
+  },
+  {
+    "sound": "мУУуУУрр",
+    "Word": "spell"
+  },
+  {
+    "sound": "мууУУУрр",
+    "Word": "spelling"
+  },
+  {
+    "sound": "мУуУУУрр",
+    "Word": "spend"
+  },
+  {
+    "sound": "муУУУУрр",
+    "Word": "spending"
+  },
+  {
+    "sound": "мУУУУУрр",
+    "Word": "spicy"
+  },
+  {
+    "sound": "мууууррр",
+    "Word": "spider"
+  },
+  {
+    "sound": "мУуууррр",
+    "Word": "spirit"
+  },
+  {
+    "sound": "муУууррр",
+    "Word": "spiritual"
+  },
+  {
+    "sound": "мУУууррр",
+    "Word": "split"
+  },
+  {
+    "sound": "мууУуррр",
+    "Word": "spoken"
+  },
+  {
+    "sound": "мУуУуррр",
+    "Word": "sponsor"
+  },
+  {
+    "sound": "муУУуррр",
+    "Word": "spoon"
+  },
+  {
+    "sound": "мУУУуррр",
+    "Word": "sport"
+  },
+  {
+    "sound": "муууУррр",
+    "Word": "spot"
+  },
+  {
+    "sound": "мУууУррр",
+    "Word": "spread"
+  },
+  {
+    "sound": "муУуУррр",
+    "Word": "spring"
+  },
+  {
+    "sound": "мУУуУррр",
+    "Word": "square"
+  },
+  {
+    "sound": "мууУУррр",
+    "Word": "stable"
+  },
+  {
+    "sound": "мУуУУррр",
+    "Word": "stadium"
+  },
+  {
+    "sound": "муУУУррр",
+    "Word": "staff"
+  },
+  {
+    "sound": "мУУУУррр",
+    "Word": "stage"
+  },
+  {
+    "sound": "мууурррр",
+    "Word": "stair"
+  },
+  {
+    "sound": "мУуурррр",
+    "Word": "stamp"
+  },
+  {
+    "sound": "муУурррр",
+    "Word": "stand"
+  },
+  {
+    "sound": "мУУурррр",
+    "Word": "standard"
+  },
+  {
+    "sound": "мууУрррр",
+    "Word": "star"
+  },
+  {
+    "sound": "мУуУрррр",
+    "Word": "stare"
+  },
+  {
+    "sound": "муУУрррр",
+    "Word": "start"
+  },
+  {
+    "sound": "мУУУрррр",
+    "Word": "state"
+  },
+  {
+    "sound": "мууррррр",
+    "Word": "statement"
+  },
+  {
+    "sound": "мУуррррр",
+    "Word": "station"
+  },
+  {
+    "sound": "муУррррр",
+    "Word": "statistic"
+  },
+  {
+    "sound": "мУУррррр",
+    "Word": "statue"
+  },
+  {
+    "sound": "мурррррр",
+    "Word": "status"
+  },
+  {
+    "sound": "мУрррррр",
+    "Word": "stay"
+  },
+  {
+    "sound": "мявк",
+    "Word": "steady"
+  },
+  {
+    "sound": "мЯвк",
+    "Word": "steal"
+  },
+  {
+    "sound": "ммявк",
+    "Word": "steel"
+  },
+  {
+    "sound": "ммЯвк",
+    "Word": "steep"
+  },
+  {
+    "sound": "мяявк",
+    "Word": "step"
+  },
+  {
+    "sound": "мЯявк",
+    "Word": "stick"
+  },
+  {
+    "sound": "мяЯвк",
+    "Word": "sticky"
+  },
+  {
+    "sound": "мЯЯвк",
+    "Word": "stiff"
+  },
+  {
+    "sound": "мммявк",
+    "Word": "still"
+  },
+  {
+    "sound": "мммЯвк",
+    "Word": "stock"
+  },
+  {
+    "sound": "ммяявк",
+    "Word": "stomach"
+  },
+  {
+    "sound": "ммЯявк",
+    "Word": "stone"
+  },
+  {
+    "sound": "ммяЯвк",
+    "Word": "stop"
+  },
+  {
+    "sound": "ммЯЯвк",
+    "Word": "store"
+  },
+  {
+    "sound": "мяяявк",
+    "Word": "storm"
+  },
+  {
+    "sound": "мЯяявк",
+    "Word": "story"
+  },
+  {
+    "sound": "мяЯявк",
+    "Word": "straight"
+  },
+  {
+    "sound": "мЯЯявк",
+    "Word": "strange"
+  },
+  {
+    "sound": "мяяЯвк",
+    "Word": "stranger"
+  },
+  {
+    "sound": "мЯяЯвк",
+    "Word": "strategy"
+  },
+  {
+    "sound": "мяЯЯвк",
+    "Word": "stream"
+  },
+  {
+    "sound": "мЯЯЯвк",
+    "Word": "street"
+  },
+  {
+    "sound": "ммммявк",
+    "Word": "strength"
+  },
+  {
+    "sound": "ммммЯвк",
+    "Word": "stress"
+  },
+  {
+    "sound": "мммяявк",
+    "Word": "stretch"
+  },
+  {
+    "sound": "мммЯявк",
+    "Word": "strict"
+  },
+  {
+    "sound": "мммяЯвк",
+    "Word": "strike"
+  },
+  {
+    "sound": "мммЯЯвк",
+    "Word": "string"
+  },
+  {
+    "sound": "ммяяявк",
+    "Word": "strong"
+  },
+  {
+    "sound": "ммЯяявк",
+    "Word": "strongly"
+  },
+  {
+    "sound": "ммяЯявк",
+    "Word": "structure"
+  },
+  {
+    "sound": "ммЯЯявк",
+    "Word": "struggle"
+  },
+  {
+    "sound": "ммяяЯвк",
+    "Word": "student"
+  },
+  {
+    "sound": "ммЯяЯвк",
+    "Word": "studio"
+  },
+  {
+    "sound": "ммяЯЯвк",
+    "Word": "study"
+  },
+  {
+    "sound": "ммЯЯЯвк",
+    "Word": "stuff"
+  },
+  {
+    "sound": "мяяяявк",
+    "Word": "stupid"
+  },
+  {
+    "sound": "мЯяяявк",
+    "Word": "style"
+  },
+  {
+    "sound": "мяЯяявк",
+    "Word": "subject"
+  },
+  {
+    "sound": "мЯЯяявк",
+    "Word": "submit"
+  },
+  {
+    "sound": "мяяЯявк",
+    "Word": "substance"
+  },
+  {
+    "sound": "мЯяЯявк",
+    "Word": "succeed"
+  },
+  {
+    "sound": "мяЯЯявк",
+    "Word": "success"
+  },
+  {
+    "sound": "мЯЯЯявк",
+    "Word": "successful"
+  },
+  {
+    "sound": "мяяяЯвк",
+    "Word": "successfully"
+  },
+  {
+    "sound": "мЯяяЯвк",
+    "Word": "such"
+  },
+  {
+    "sound": "мяЯяЯвк",
+    "Word": "sudden"
+  },
+  {
+    "sound": "мЯЯяЯвк",
+    "Word": "suddenly"
+  },
+  {
+    "sound": "мяяЯЯвк",
+    "Word": "suffer"
+  },
+  {
+    "sound": "мЯяЯЯвк",
+    "Word": "sugar"
+  },
+  {
+    "sound": "мяЯЯЯвк",
+    "Word": "suggest"
+  },
+  {
+    "sound": "мЯЯЯЯвк",
+    "Word": "suggestion"
+  },
+  {
+    "sound": "мммммявк",
+    "Word": "suit"
+  },
+  {
+    "sound": "мммммЯвк",
+    "Word": "suitable"
+  },
+  {
+    "sound": "ммммяявк",
+    "Word": "sum"
+  },
+  {
+    "sound": "ммммЯявк",
+    "Word": "summarize"
+  },
+  {
+    "sound": "ммммяЯвк",
+    "Word": "summary"
+  },
+  {
+    "sound": "ммммЯЯвк",
+    "Word": "summer"
+  },
+  {
+    "sound": "мммяяявк",
+    "Word": "sun"
+  },
+  {
+    "sound": "мммЯяявк",
+    "Word": "sunday"
+  },
+  {
+    "sound": "мммяЯявк",
+    "Word": "supermarket"
+  },
+  {
+    "sound": "мммЯЯявк",
+    "Word": "supply"
+  },
+  {
+    "sound": "мммяяЯвк",
+    "Word": "support"
+  },
+  {
+    "sound": "мммЯяЯвк",
+    "Word": "supporter"
+  },
+  {
+    "sound": "мммяЯЯвк",
+    "Word": "suppose"
+  },
+  {
+    "sound": "мммЯЯЯвк",
+    "Word": "sure"
+  },
+  {
+    "sound": "ммяяяявк",
+    "Word": "surely"
+  },
+  {
+    "sound": "ммЯяяявк",
+    "Word": "surface"
+  },
+  {
+    "sound": "ммяЯяявк",
+    "Word": "surgery"
+  },
+  {
+    "sound": "ммЯЯяявк",
+    "Word": "surprise"
+  },
+  {
+    "sound": "ммяяЯявк",
+    "Word": "surprised"
+  },
+  {
+    "sound": "ммЯяЯявк",
+    "Word": "surprising"
+  },
+  {
+    "sound": "ммяЯЯявк",
+    "Word": "surround"
+  },
+  {
+    "sound": "ммЯЯЯявк",
+    "Word": "surrounding"
+  },
+  {
+    "sound": "ммяяяЯвк",
+    "Word": "survey"
+  },
+  {
+    "sound": "ммЯяяЯвк",
+    "Word": "survive"
+  },
+  {
+    "sound": "ммяЯяЯвк",
+    "Word": "suspect"
+  },
+  {
+    "sound": "ммЯЯяЯвк",
+    "Word": "swear"
+  },
+  {
+    "sound": "ммяяЯЯвк",
+    "Word": "sweater"
+  },
+  {
+    "sound": "ммЯяЯЯвк",
+    "Word": "sweep"
+  },
+  {
+    "sound": "ммяЯЯЯвк",
+    "Word": "sweet"
+  },
+  {
+    "sound": "ммЯЯЯЯвк",
+    "Word": "swim"
+  },
+  {
+    "sound": "мяяяяявк",
+    "Word": "swimming"
+  },
+  {
+    "sound": "мЯяяяявк",
+    "Word": "switch"
+  },
+  {
+    "sound": "мяЯяяявк",
+    "Word": "symbol"
+  },
+  {
+    "sound": "мЯЯяяявк",
+    "Word": "sympathy"
+  },
+  {
+    "sound": "мяяЯяявк",
+    "Word": "symptom"
+  },
+  {
+    "sound": "мЯяЯяявк",
+    "Word": "system"
+  },
+  {
+    "sound": "мяЯЯяявк",
+    "Word": "t-shirt"
+  },
+  {
+    "sound": "мЯЯЯяявк",
+    "Word": "table"
+  },
+  {
+    "sound": "мяяяЯявк",
+    "Word": "tablet"
+  },
+  {
+    "sound": "мЯяяЯявк",
+    "Word": "tail"
+  },
+  {
+    "sound": "мяЯяЯявк",
+    "Word": "take"
+  },
+  {
+    "sound": "мЯЯяЯявк",
+    "Word": "tale"
+  },
+  {
+    "sound": "мяяЯЯявк",
+    "Word": "talent"
+  },
+  {
+    "sound": "мЯяЯЯявк",
+    "Word": "talented"
+  },
+  {
+    "sound": "мяЯЯЯявк",
+    "Word": "talk"
+  },
+  {
+    "sound": "мЯЯЯЯявк",
+    "Word": "tall"
+  },
+  {
+    "sound": "мяяяяЯвк",
+    "Word": "tank"
+  },
+  {
+    "sound": "мЯяяяЯвк",
+    "Word": "tape"
+  },
+  {
+    "sound": "мяЯяяЯвк",
+    "Word": "target"
+  },
+  {
+    "sound": "мЯЯяяЯвк",
+    "Word": "task"
+  },
+  {
+    "sound": "мяяЯяЯвк",
+    "Word": "taste"
+  },
+  {
+    "sound": "мЯяЯяЯвк",
+    "Word": "tax"
+  },
+  {
+    "sound": "мяЯЯяЯвк",
+    "Word": "taxi"
+  },
+  {
+    "sound": "мЯЯЯяЯвк",
+    "Word": "tea"
+  },
+  {
+    "sound": "мяяяЯЯвк",
+    "Word": "teach"
+  },
+  {
+    "sound": "мЯяяЯЯвк",
+    "Word": "teacher"
+  },
+  {
+    "sound": "мяЯяЯЯвк",
+    "Word": "teaching"
+  },
+  {
+    "sound": "мЯЯяЯЯвк",
+    "Word": "team"
+  },
+  {
+    "sound": "мяяЯЯЯвк",
+    "Word": "tear"
+  },
+  {
+    "sound": "мЯяЯЯЯвк",
+    "Word": "technical"
+  },
+  {
+    "sound": "мяЯЯЯЯвк",
+    "Word": "technique"
+  },
+  {
+    "sound": "мЯЯЯЯЯвк",
+    "Word": "technology"
+  },
+  {
+    "sound": "мяв",
+    "Word": "teenage"
+  },
+  {
+    "sound": "мЯв",
+    "Word": "teenager"
+  },
+  {
+    "sound": "ммяв",
+    "Word": "telephone"
+  },
+  {
+    "sound": "ммЯв",
+    "Word": "television"
+  },
+  {
+    "sound": "мяяв",
+    "Word": "tell"
+  },
+  {
+    "sound": "мЯяв",
+    "Word": "temperature"
+  },
+  {
+    "sound": "мяЯв",
+    "Word": "temporary"
+  },
+  {
+    "sound": "мЯЯв",
+    "Word": "tennumber"
+  },
+  {
+    "sound": "мммяв",
+    "Word": "tend"
+  },
+  {
+    "sound": "мммЯв",
+    "Word": "tennis"
+  },
+  {
+    "sound": "ммяяв",
+    "Word": "tent"
+  },
+  {
+    "sound": "ммЯяв",
+    "Word": "term"
+  },
+  {
+    "sound": "ммяЯв",
+    "Word": "terrible"
+  },
+  {
+    "sound": "ммЯЯв",
+    "Word": "test"
+  },
+  {
+    "sound": "мяяяв",
+    "Word": "text"
+  },
+  {
+    "sound": "мЯяяв",
+    "Word": "than"
+  },
+  {
+    "sound": "мяЯяв",
+    "Word": "thank"
+  },
+  {
+    "sound": "мЯЯяв",
+    "Word": "thanks"
+  },
+  {
+    "sound": "мяяЯв",
+    "Word": "that"
+  },
+  {
+    "sound": "мЯяЯв",
+    "Word": "the"
+  },
+  {
+    "sound": "мяЯЯв",
+    "Word": "theatre"
+  },
+  {
+    "sound": "мЯЯЯв",
+    "Word": "their"
+  },
+  {
+    "sound": "ммммяв",
+    "Word": "theirs"
+  },
+  {
+    "sound": "ммммЯв",
+    "Word": "them"
+  },
+  {
+    "sound": "мммяяв",
+    "Word": "theme"
+  },
+  {
+    "sound": "мммЯяв",
+    "Word": "themselves"
+  },
+  {
+    "sound": "мммяЯв",
+    "Word": "then"
+  },
+  {
+    "sound": "мммЯЯв",
+    "Word": "theory"
+  },
+  {
+    "sound": "ммяяяв",
+    "Word": "therapy"
+  },
+  {
+    "sound": "ммЯяяв",
+    "Word": "there"
+  },
+  {
+    "sound": "ммяЯяв",
+    "Word": "therefore"
+  },
+  {
+    "sound": "ммЯЯяв",
+    "Word": "they"
+  },
+  {
+    "sound": "ммяяЯв",
+    "Word": "thick"
+  },
+  {
+    "sound": "ммЯяЯв",
+    "Word": "thief"
+  },
+  {
+    "sound": "ммяЯЯв",
+    "Word": "thin"
+  },
+  {
+    "sound": "ммЯЯЯв",
+    "Word": "thing"
+  },
+  {
+    "sound": "мяяяяв",
+    "Word": "think"
+  },
+  {
+    "sound": "мЯяяяв",
+    "Word": "thinking"
+  },
+  {
+    "sound": "мяЯяяв",
+    "Word": "third"
+  },
+  {
+    "sound": "мЯЯяяв",
+    "Word": "thirsty"
+  },
+  {
+    "sound": "мяяЯяв",
+    "Word": "thirteen"
+  },
+  {
+    "sound": "мЯяЯяв",
+    "Word": "thirty"
+  },
+  {
+    "sound": "мяЯЯяв",
+    "Word": "this"
+  },
+  {
+    "sound": "мЯЯЯяв",
+    "Word": "though"
+  },
+  {
+    "sound": "мяяяЯв",
+    "Word": "thought"
+  },
+  {
+    "sound": "мЯяяЯв",
+    "Word": "thousand"
+  },
+  {
+    "sound": "мяЯяЯв",
+    "Word": "threat"
+  },
+  {
+    "sound": "мЯЯяЯв",
+    "Word": "threaten"
+  },
+  {
+    "sound": "мяяЯЯв",
+    "Word": "three"
+  },
+  {
+    "sound": "мЯяЯЯв",
+    "Word": "throat"
+  },
+  {
+    "sound": "мяЯЯЯв",
+    "Word": "through"
+  },
+  {
+    "sound": "мЯЯЯЯв",
+    "Word": "throughout"
+  },
+  {
+    "sound": "мммммяв",
+    "Word": "throw"
+  },
+  {
+    "sound": "мммммЯв",
+    "Word": "thursday"
+  },
+  {
+    "sound": "ммммяяв",
+    "Word": "thus"
+  },
+  {
+    "sound": "ммммЯяв",
+    "Word": "ticket"
+  },
+  {
+    "sound": "ммммяЯв",
+    "Word": "tidy"
+  },
+  {
+    "sound": "ммммЯЯв",
+    "Word": "tie"
+  },
+  {
+    "sound": "мммяяяв",
+    "Word": "tight"
+  },
+  {
+    "sound": "мммЯяяв",
+    "Word": "till"
+  },
+  {
+    "sound": "мммяЯяв",
+    "Word": "time"
+  },
+  {
+    "sound": "мммЯЯяв",
+    "Word": "tin"
+  },
+  {
+    "sound": "мммяяЯв",
+    "Word": "tiny"
+  },
+  {
+    "sound": "мммЯяЯв",
+    "Word": "tip"
+  },
+  {
+    "sound": "мммяЯЯв",
+    "Word": "tired"
+  },
+  {
+    "sound": "мммЯЯЯв",
+    "Word": "title"
+  },
+  {
+    "sound": "ммяяяяв",
+    "Word": "to"
+  },
+  {
+    "sound": "ммЯяяяв",
+    "Word": "today"
+  },
+  {
+    "sound": "ммяЯяяв",
+    "Word": "toe"
+  },
+  {
+    "sound": "ммЯЯяяв",
+    "Word": "together"
+  },
+  {
+    "sound": "ммяяЯяв",
+    "Word": "toilet"
+  },
+  {
+    "sound": "ммЯяЯяв",
+    "Word": "tomato"
+  },
+  {
+    "sound": "ммяЯЯяв",
+    "Word": "tomorrow"
+  },
+  {
+    "sound": "ммЯЯЯяв",
+    "Word": "tone"
+  },
+  {
+    "sound": "ммяяяЯв",
+    "Word": "tongue"
+  },
+  {
+    "sound": "ммЯяяЯв",
+    "Word": "tonight"
+  },
+  {
+    "sound": "ммяЯяЯв",
+    "Word": "too"
+  },
+  {
+    "sound": "ммЯЯяЯв",
+    "Word": "tool"
+  },
+  {
+    "sound": "ммяяЯЯв",
+    "Word": "tooth"
+  },
+  {
+    "sound": "ммЯяЯЯв",
+    "Word": "top"
+  },
+  {
+    "sound": "ммяЯЯЯв",
+    "Word": "topic"
+  },
+  {
+    "sound": "ммЯЯЯЯв",
+    "Word": "total"
+  },
+  {
+    "sound": "мяяяяяв",
+    "Word": "totally"
+  },
+  {
+    "sound": "мЯяяяяв",
+    "Word": "touch"
+  },
+  {
+    "sound": "мяЯяяяв",
+    "Word": "tough"
+  },
+  {
+    "sound": "мЯЯяяяв",
+    "Word": "tour"
+  },
+  {
+    "sound": "мяяЯяяв",
+    "Word": "tourism"
+  },
+  {
+    "sound": "мЯяЯяяв",
+    "Word": "tourist"
+  },
+  {
+    "sound": "мяЯЯяяв",
+    "Word": "towards"
+  },
+  {
+    "sound": "мЯЯЯяяв",
+    "Word": "towel"
+  },
+  {
+    "sound": "мяяяЯяв",
+    "Word": "tower"
+  },
+  {
+    "sound": "мЯяяЯяв",
+    "Word": "town"
+  },
+  {
+    "sound": "мяЯяЯяв",
+    "Word": "toy"
+  },
+  {
+    "sound": "мЯЯяЯяв",
+    "Word": "track"
+  },
+  {
+    "sound": "мяяЯЯяв",
+    "Word": "trade"
+  },
+  {
+    "sound": "мЯяЯЯяв",
+    "Word": "tradition"
+  },
+  {
+    "sound": "мяЯЯЯяв",
+    "Word": "traditional"
+  },
+  {
+    "sound": "мЯЯЯЯяв",
+    "Word": "traffic"
+  },
+  {
+    "sound": "мяяяяЯв",
+    "Word": "train"
+  },
+  {
+    "sound": "мЯяяяЯв",
+    "Word": "trainer"
+  },
+  {
+    "sound": "мяЯяяЯв",
+    "Word": "training"
+  },
+  {
+    "sound": "мЯЯяяЯв",
+    "Word": "transfer"
+  },
+  {
+    "sound": "мяяЯяЯв",
+    "Word": "transform"
+  },
+  {
+    "sound": "мЯяЯяЯв",
+    "Word": "transition"
+  },
+  {
+    "sound": "мяЯЯяЯв",
+    "Word": "translate"
+  },
+  {
+    "sound": "мЯЯЯяЯв",
+    "Word": "translation"
+  },
+  {
+    "sound": "мяяяЯЯв",
+    "Word": "transport"
+  },
+  {
+    "sound": "мЯяяЯЯв",
+    "Word": "travel"
+  },
+  {
+    "sound": "мяЯяЯЯв",
+    "Word": "traveller"
+  },
+  {
+    "sound": "мЯЯяЯЯв",
+    "Word": "treat"
+  },
+  {
+    "sound": "мяяЯЯЯв",
+    "Word": "treatment"
+  },
+  {
+    "sound": "мЯяЯЯЯв",
+    "Word": "tree"
+  },
+  {
+    "sound": "мяЯЯЯЯв",
+    "Word": "trend"
+  },
+  {
+    "sound": "мЯЯЯЯЯв",
+    "Word": "trial"
+  },
+  {
+    "sound": "ммммммяв",
+    "Word": "trick"
+  },
+  {
+    "sound": "ммммммЯв",
+    "Word": "trip"
+  },
+  {
+    "sound": "мммммяяв",
+    "Word": "tropical"
+  },
+  {
+    "sound": "мммммЯяв",
+    "Word": "trouble"
+  },
+  {
+    "sound": "мммммяЯв",
+    "Word": "trousers"
+  },
+  {
+    "sound": "мммммЯЯв",
+    "Word": "truck"
+  },
+  {
+    "sound": "ммммяяяв",
+    "Word": "true"
+  },
+  {
+    "sound": "ммммЯяяв",
+    "Word": "truly"
+  },
+  {
+    "sound": "ммммяЯяв",
+    "Word": "trust"
+  },
+  {
+    "sound": "ммммЯЯяв",
+    "Word": "truth"
+  },
+  {
+    "sound": "ммммяяЯв",
+    "Word": "try"
+  },
+  {
+    "sound": "ммммЯяЯв",
+    "Word": "tube"
+  },
+  {
+    "sound": "ммммяЯЯв",
+    "Word": "tuesday"
+  },
+  {
+    "sound": "ммммЯЯЯв",
+    "Word": "tune"
+  },
+  {
+    "sound": "мммяяяяв",
+    "Word": "tunnel"
+  },
+  {
+    "sound": "мммЯяяяв",
+    "Word": "turn"
+  },
+  {
+    "sound": "мммяЯяяв",
+    "Word": "tv"
+  },
+  {
+    "sound": "мммЯЯяяв",
+    "Word": "twelve"
+  },
+  {
+    "sound": "мммяяЯяв",
+    "Word": "twenty"
+  },
+  {
+    "sound": "мммЯяЯяв",
+    "Word": "twice"
+  },
+  {
+    "sound": "мммяЯЯяв",
+    "Word": "twin"
+  },
+  {
+    "sound": "мммЯЯЯяв",
+    "Word": "two"
+  },
+  {
+    "sound": "мммяяяЯв",
+    "Word": "type"
+  },
+  {
+    "sound": "мммЯяяЯв",
+    "Word": "typical"
+  },
+  {
+    "sound": "мммяЯяЯв",
+    "Word": "typically"
+  },
+  {
+    "sound": "мммЯЯяЯв",
+    "Word": "tyre"
+  },
+  {
+    "sound": "мммяяЯЯв",
+    "Word": "ugly"
+  },
+  {
+    "sound": "мммЯяЯЯв",
+    "Word": "ultimately"
+  },
+  {
+    "sound": "мммяЯЯЯв",
+    "Word": "umbrella"
+  },
+  {
+    "sound": "мммЯЯЯЯв",
+    "Word": "unable"
+  },
+  {
+    "sound": "ммяяяяяв",
+    "Word": "uncle"
+  },
+  {
+    "sound": "ммЯяяяяв",
+    "Word": "uncomfortable"
+  },
+  {
+    "sound": "ммяЯяяяв",
+    "Word": "unconscious"
+  },
+  {
+    "sound": "ммЯЯяяяв",
+    "Word": "under"
+  },
+  {
+    "sound": "ммяяЯяяв",
+    "Word": "underground"
+  },
+  {
+    "sound": "ммЯяЯяяв",
+    "Word": "understand"
+  },
+  {
+    "sound": "ммяЯЯяяв",
+    "Word": "understanding"
+  },
+  {
+    "sound": "ммЯЯЯяяв",
+    "Word": "underwear"
+  },
+  {
+    "sound": "ммяяяЯяв",
+    "Word": "unemployed"
+  },
+  {
+    "sound": "ммЯяяЯяв",
+    "Word": "unemployment"
+  },
+  {
+    "sound": "ммяЯяЯяв",
+    "Word": "unexpected"
+  },
+  {
+    "sound": "ммЯЯяЯяв",
+    "Word": "unfair"
+  },
+  {
+    "sound": "ммяяЯЯяв",
+    "Word": "unfortunately"
+  },
+  {
+    "sound": "ммЯяЯЯяв",
+    "Word": "unhappy"
+  },
+  {
+    "sound": "ммяЯЯЯяв",
+    "Word": "uniform"
+  },
+  {
+    "sound": "ммЯЯЯЯяв",
+    "Word": "union"
+  },
+  {
+    "sound": "ммяяяяЯв",
+    "Word": "unique"
+  },
+  {
+    "sound": "ммЯяяяЯв",
+    "Word": "unit"
+  },
+  {
+    "sound": "ммяЯяяЯв",
+    "Word": "united"
+  },
+  {
+    "sound": "ммЯЯяяЯв",
+    "Word": "universe"
+  },
+  {
+    "sound": "ммяяЯяЯв",
+    "Word": "university"
+  },
+  {
+    "sound": "ммЯяЯяЯв",
+    "Word": "unknown"
+  },
+  {
+    "sound": "ммяЯЯяЯв",
+    "Word": "unless"
+  },
+  {
+    "sound": "ммЯЯЯяЯв",
+    "Word": "unlike"
+  },
+  {
+    "sound": "ммяяяЯЯв",
+    "Word": "unlikely"
+  },
+  {
+    "sound": "ммЯяяЯЯв",
+    "Word": "unnecessary"
+  },
+  {
+    "sound": "ммяЯяЯЯв",
+    "Word": "unpleasant"
+  },
+  {
+    "sound": "ммЯЯяЯЯв",
+    "Word": "until"
+  },
+  {
+    "sound": "ммяяЯЯЯв",
+    "Word": "unusual"
+  },
+  {
+    "sound": "ммЯяЯЯЯв",
+    "Word": "up"
+  },
+  {
+    "sound": "ммяЯЯЯЯв",
+    "Word": "update"
+  },
+  {
+    "sound": "ммЯЯЯЯЯв",
+    "Word": "upon"
+  },
+  {
+    "sound": "мяяяяяяв",
+    "Word": "upper"
+  },
+  {
+    "sound": "мЯяяяяяв",
+    "Word": "upset"
+  },
+  {
+    "sound": "мяЯяяяяв",
+    "Word": "upstairs"
+  },
+  {
+    "sound": "мЯЯяяяяв",
+    "Word": "upwards"
+  },
+  {
+    "sound": "мяяЯяяяв",
+    "Word": "urban"
+  },
+  {
+    "sound": "мЯяЯяяяв",
+    "Word": "urge"
+  },
+  {
+    "sound": "мяЯЯяяяв",
+    "Word": "us"
+  },
+  {
+    "sound": "мЯЯЯяяяв",
+    "Word": "use"
+  },
+  {
+    "sound": "мяяяЯяяв",
+    "Word": "used"
+  },
+  {
+    "sound": "мЯяяЯяяв",
+    "Word": "usedtomodal"
+  },
+  {
+    "sound": "мяЯяЯяяв",
+    "Word": "useful"
+  },
+  {
+    "sound": "мЯЯяЯяяв",
+    "Word": "user"
+  },
+  {
+    "sound": "мяяЯЯяяв",
+    "Word": "usual"
+  },
+  {
+    "sound": "мЯяЯЯяяв",
+    "Word": "usually"
+  },
+  {
+    "sound": "мяЯЯЯяяв",
+    "Word": "vacation"
+  },
+  {
+    "sound": "мЯЯЯЯяяв",
+    "Word": "valley"
+  },
+  {
+    "sound": "мяяяяЯяв",
+    "Word": "valuable"
+  },
+  {
+    "sound": "мЯяяяЯяв",
+    "Word": "value"
+  },
+  {
+    "sound": "мяЯяяЯяв",
+    "Word": "van"
+  },
+  {
+    "sound": "мЯЯяяЯяв",
+    "Word": "variety"
+  },
+  {
+    "sound": "мяяЯяЯяв",
+    "Word": "various"
+  },
+  {
+    "sound": "мЯяЯяЯяв",
+    "Word": "vary"
+  },
+  {
+    "sound": "мяЯЯяЯяв",
+    "Word": "vast"
+  },
+  {
+    "sound": "мЯЯЯяЯяв",
+    "Word": "vegetable"
+  },
+  {
+    "sound": "мяяяЯЯяв",
+    "Word": "vehicle"
+  },
+  {
+    "sound": "мЯяяЯЯяв",
+    "Word": "venue"
+  },
+  {
+    "sound": "мяЯяЯЯяв",
+    "Word": "version"
+  },
+  {
+    "sound": "мЯЯяЯЯяв",
+    "Word": "very"
+  },
+  {
+    "sound": "мяяЯЯЯяв",
+    "Word": "via"
+  },
+  {
+    "sound": "мЯяЯЯЯяв",
+    "Word": "victim"
+  },
+  {
+    "sound": "мяЯЯЯЯяв",
+    "Word": "victory"
+  },
+  {
+    "sound": "мЯЯЯЯЯяв",
+    "Word": "video"
+  },
+  {
+    "sound": "мяяяяяЯв",
+    "Word": "view"
+  },
+  {
+    "sound": "мЯяяяяЯв",
+    "Word": "viewer"
+  },
+  {
+    "sound": "мяЯяяяЯв",
+    "Word": "village"
+  },
+  {
+    "sound": "мЯЯяяяЯв",
+    "Word": "violence"
+  },
+  {
+    "sound": "мяяЯяяЯв",
+    "Word": "violent"
+  },
+  {
+    "sound": "мЯяЯяяЯв",
+    "Word": "virtual"
+  },
+  {
+    "sound": "мяЯЯяяЯв",
+    "Word": "virus"
+  },
+  {
+    "sound": "мЯЯЯяяЯв",
+    "Word": "vision"
+  },
+  {
+    "sound": "мяяяЯяЯв",
+    "Word": "visit"
+  },
+  {
+    "sound": "мЯяяЯяЯв",
+    "Word": "visitor"
+  },
+  {
+    "sound": "мяЯяЯяЯв",
+    "Word": "visual"
+  },
+  {
+    "sound": "мЯЯяЯяЯв",
+    "Word": "vital"
+  },
+  {
+    "sound": "мяяЯЯяЯв",
+    "Word": "vitamin"
+  },
+  {
+    "sound": "мЯяЯЯяЯв",
+    "Word": "voice"
+  },
+  {
+    "sound": "мяЯЯЯяЯв",
+    "Word": "volume"
+  },
+  {
+    "sound": "мЯЯЯЯяЯв",
+    "Word": "volunteer"
+  },
+  {
+    "sound": "мяяяяЯЯв",
+    "Word": "vote"
+  },
+  {
+    "sound": "мЯяяяЯЯв",
+    "Word": "wage"
+  },
+  {
+    "sound": "мяЯяяЯЯв",
+    "Word": "wait"
+  },
+  {
+    "sound": "мЯЯяяЯЯв",
+    "Word": "waiter"
+  },
+  {
+    "sound": "мяяЯяЯЯв",
+    "Word": "wake"
+  },
+  {
+    "sound": "мЯяЯяЯЯв",
+    "Word": "walk"
+  },
+  {
+    "sound": "мяЯЯяЯЯв",
+    "Word": "wall"
+  },
+  {
+    "sound": "мЯЯЯяЯЯв",
+    "Word": "want"
+  },
+  {
+    "sound": "мяяяЯЯЯв",
+    "Word": "war"
+  },
+  {
+    "sound": "мЯяяЯЯЯв",
+    "Word": "warm"
+  },
+  {
+    "sound": "мяЯяЯЯЯв",
+    "Word": "warn"
+  },
+  {
+    "sound": "мЯЯяЯЯЯв",
+    "Word": "warning"
+  },
+  {
+    "sound": "мяяЯЯЯЯв",
+    "Word": "wash"
+  },
+  {
+    "sound": "мЯяЯЯЯЯв",
+    "Word": "washing"
+  },
+  {
+    "sound": "мяЯЯЯЯЯв",
+    "Word": "waste"
+  },
+  {
+    "sound": "мЯЯЯЯЯЯв",
+    "Word": "watch"
+  },
+  {
+    "sound": "мряу",
+    "Word": "water"
+  },
+  {
+    "sound": "мрЯу",
+    "Word": "wave"
+  },
+  {
+    "sound": "мряУ",
+    "Word": "way"
+  },
+  {
+    "sound": "мрЯУ",
+    "Word": "we"
+  },
+  {
+    "sound": "ммряу",
+    "Word": "weak"
+  },
+  {
+    "sound": "ммрЯу",
+    "Word": "weakness"
+  },
+  {
+    "sound": "ммряУ",
+    "Word": "wealth"
+  },
+  {
+    "sound": "ммрЯУ",
+    "Word": "wealthy"
+  },
+  {
+    "sound": "мрряу",
+    "Word": "weapon"
+  },
+  {
+    "sound": "мррЯу",
+    "Word": "wear"
+  },
+  {
+    "sound": "мрряУ",
+    "Word": "weather"
+  },
+  {
+    "sound": "мррЯУ",
+    "Word": "web"
+  },
+  {
+    "sound": "мряяу",
+    "Word": "website"
+  },
+  {
+    "sound": "мрЯяу",
+    "Word": "wedding"
+  },
+  {
+    "sound": "мряЯу",
+    "Word": "wednesday"
+  },
+  {
+    "sound": "мрЯЯу",
+    "Word": "week"
+  },
+  {
+    "sound": "мряяУ",
+    "Word": "weekend"
+  },
+  {
+    "sound": "мрЯяУ",
+    "Word": "weigh"
+  },
+  {
+    "sound": "мряЯУ",
+    "Word": "weight"
+  },
+  {
+    "sound": "мрЯЯУ",
+    "Word": "welcome"
+  },
+  {
+    "sound": "мряуу",
+    "Word": "well"
+  },
+  {
+    "sound": "мрЯуу",
+    "Word": "west"
+  },
+  {
+    "sound": "мряУу",
+    "Word": "western"
+  },
+  {
+    "sound": "мрЯУу",
+    "Word": "wet"
+  },
+  {
+    "sound": "мряуУ",
+    "Word": "what"
+  },
+  {
+    "sound": "мрЯуУ",
+    "Word": "whatever"
+  },
+  {
+    "sound": "мряУУ",
+    "Word": "wheel"
+  },
+  {
+    "sound": "мрЯУУ",
+    "Word": "when"
+  },
+  {
+    "sound": "мммряу",
+    "Word": "whenever"
+  },
+  {
+    "sound": "мммрЯу",
+    "Word": "where"
+  },
+  {
+    "sound": "мммряУ",
+    "Word": "whereas"
+  },
+  {
+    "sound": "мммрЯУ",
+    "Word": "wherever"
+  },
+  {
+    "sound": "ммрряу",
+    "Word": "whether"
+  },
+  {
+    "sound": "ммррЯу",
+    "Word": "which"
+  },
+  {
+    "sound": "ммрряУ",
+    "Word": "while"
+  },
+  {
+    "sound": "ммррЯУ",
+    "Word": "whisper"
+  },
+  {
+    "sound": "ммряяу",
+    "Word": "white"
+  },
+  {
+    "sound": "ммрЯяу",
+    "Word": "who"
+  },
+  {
+    "sound": "ммряЯу",
+    "Word": "whole"
+  },
+  {
+    "sound": "ммрЯЯу",
+    "Word": "whom"
+  },
+  {
+    "sound": "ммряяУ",
+    "Word": "whose"
+  },
+  {
+    "sound": "ммрЯяУ",
+    "Word": "why"
+  },
+  {
+    "sound": "ммряЯУ",
+    "Word": "wide"
+  },
+  {
+    "sound": "ммрЯЯУ",
+    "Word": "widely"
+  },
+  {
+    "sound": "ммряуу",
+    "Word": "wife"
+  },
+  {
+    "sound": "ммрЯуу",
+    "Word": "wild"
+  },
+  {
+    "sound": "ммряУу",
+    "Word": "wildlife"
+  },
+  {
+    "sound": "ммрЯУу",
+    "Word": "will"
+  },
+  {
+    "sound": "ммряуУ",
+    "Word": "willmodal"
+  },
+  {
+    "sound": "ммрЯуУ",
+    "Word": "willing"
+  },
+  {
+    "sound": "ммряУУ",
+    "Word": "win"
+  },
+  {
+    "sound": "ммрЯУУ",
+    "Word": "wind"
+  },
+  {
+    "sound": "мррряу",
+    "Word": "window"
+  },
+  {
+    "sound": "мрррЯу",
+    "Word": "wine"
+  },
+  {
+    "sound": "мррряУ",
+    "Word": "wing"
+  },
+  {
+    "sound": "мрррЯУ",
+    "Word": "winner"
+  },
+  {
+    "sound": "мрряяу",
+    "Word": "winter"
+  },
+  {
+    "sound": "мррЯяу",
+    "Word": "wire"
+  },
+  {
+    "sound": "мрряЯу",
+    "Word": "wise"
+  },
+  {
+    "sound": "мррЯЯу",
+    "Word": "wish"
+  },
+  {
+    "sound": "мрряяУ",
+    "Word": "with"
+  },
+  {
+    "sound": "мррЯяУ",
+    "Word": "within"
+  },
+  {
+    "sound": "мрряЯУ",
+    "Word": "without"
+  },
+  {
+    "sound": "мррЯЯУ",
+    "Word": "witness"
+  },
+  {
+    "sound": "мрряуу",
+    "Word": "woman"
+  },
+  {
+    "sound": "мррЯуу",
+    "Word": "wonder"
+  },
+  {
+    "sound": "мрряУу",
+    "Word": "wonderful"
+  },
+  {
+    "sound": "мррЯУу",
+    "Word": "wood"
+  },
+  {
+    "sound": "мрряуУ",
+    "Word": "wooden"
+  },
+  {
+    "sound": "мррЯуУ",
+    "Word": "wool"
+  },
+  {
+    "sound": "мрряУУ",
+    "Word": "word"
+  },
+  {
+    "sound": "мррЯУУ",
+    "Word": "work"
+  },
+  {
+    "sound": "мряяяу",
+    "Word": "worker"
+  },
+  {
+    "sound": "мрЯяяу",
+    "Word": "working"
+  },
+  {
+    "sound": "мряЯяу",
+    "Word": "world"
+  },
+  {
+    "sound": "мрЯЯяу",
+    "Word": "worldwide"
+  },
+  {
+    "sound": "мряяЯу",
+    "Word": "worried"
+  },
+  {
+    "sound": "мрЯяЯу",
+    "Word": "worry"
+  },
+  {
+    "sound": "мряЯЯу",
+    "Word": "worse"
+  },
+  {
+    "sound": "мрЯЯЯу",
+    "Word": "worst"
+  },
+  {
+    "sound": "мряяяУ",
+    "Word": "worth"
+  },
+  {
+    "sound": "мрЯяяУ",
+    "Word": "wouldmodal"
+  },
+  {
+    "sound": "мряЯяУ",
+    "Word": "wound"
+  },
+  {
+    "sound": "мрЯЯяУ",
+    "Word": "wow"
+  },
+  {
+    "sound": "мряяЯУ",
+    "Word": "wrap"
+  },
+  {
+    "sound": "мрЯяЯУ",
+    "Word": "write"
+  },
+  {
+    "sound": "мряЯЯУ",
+    "Word": "writer"
+  },
+  {
+    "sound": "мрЯЯЯУ",
+    "Word": "writing"
+  },
+  {
+    "sound": "мряяуу",
+    "Word": "written"
+  },
+  {
+    "sound": "мрЯяуу",
+    "Word": "wrong"
+  },
+  {
+    "sound": "мряЯуу",
+    "Word": "yard"
+  },
+  {
+    "sound": "мрЯЯуу",
+    "Word": "yeah"
+  },
+  {
+    "sound": "мряяУу",
+    "Word": "year"
+  },
+  {
+    "sound": "мрЯяУу",
+    "Word": "yellow"
+  },
+  {
+    "sound": "мряЯУу",
+    "Word": "yes"
+  },
+  {
+    "sound": "мрЯЯУу",
+    "Word": "yesterday"
+  },
+  {
+    "sound": "мряяуУ",
+    "Word": "yet"
+  },
+  {
+    "sound": "мрЯяуУ",
+    "Word": "you"
+  },
+  {
+    "sound": "мряЯуУ",
+    "Word": "young"
+  },
+  {
+    "sound": "мрЯЯуУ",
+    "Word": "your"
+  },
+  {
+    "sound": "мряяУУ",
+    "Word": "yours"
+  },
+  {
+    "sound": "мрЯяУУ",
+    "Word": "yourself"
+  },
+  {
+    "sound": "мряЯУУ",
+    "Word": "youth"
+  },
+  {
+    "sound": "мрЯЯУУ",
+    "Word": "zero"
+  },
+  {
+    "sound": "мряууу",
+    "Word": "zone"
+  },
+  {
+    "sound": "мрЯууу",
+    "Word": "non"
+  },
+  {
+    "sound": "мряУуу",
+    "Word": "explicit"
+  },
+  {
+    "sound": "мрЯУуу",
+    "Word": "is"
+  },
+  {
+    "sound": "мряуУу",
+    "Word": "would"
+  },
+  {
+    "sound": "мрЯуУу",
+    "Word": "take"
+  },
+  {
+    "sound": "мряУУу",
+    "Word": "english"
+  }
+]
