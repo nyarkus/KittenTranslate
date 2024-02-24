@@ -2,6 +2,12 @@ name: build and test
 
 on:
   push:
+     branches: [ dev ]
+     paths:
+      - '**.cs'
+      - '**.csproj'
+      - '**.txt'
+      - '**.json'
   pull_request:
     branches: [ main ]
     paths:
