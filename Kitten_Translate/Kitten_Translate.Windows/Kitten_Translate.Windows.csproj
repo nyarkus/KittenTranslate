@@ -1,0 +1,154 @@
+<Project Sdk="Uno.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>$(DotNetVersion)-windows10.0.19041.0</TargetFramework>
+    <RootNamespace>Kitten_Translate.Windows</RootNamespace>
+    <Platforms>x86;x64;arm64</Platforms>
+
+
+    <!-- Bundles the WinAppSDK binaries -->
+    <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
+    <PackageCertificateThumbprint>8BDCEAC6F6C763B4DBA6C2A3985E4A9F1378847F</PackageCertificateThumbprint>
+    <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
+    <PackageIcon></PackageIcon>
+    <PublishAot>False</PublishAot>
+    <ApplicationIcon>cat.ico</ApplicationIcon>
+    <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
+    <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
+    <GenerateTestArtifacts>True</GenerateTestArtifacts>
+    <AppxBundle>Never</AppxBundle>
+    <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+
+    <!-- <SelfContained>true</SelfContained> -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Uno.WinUI" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" />
+    <PackageReference Include="Uno.Material.WinUI" />
+    <PackageReference Include="Uno.Extensions.Reactive.WinUI" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" />
+    <PackageReference Include="Uno.Core.Extensions.Logging.Singleton" />
+    <PackageReference Include="Uno.UI.Adapter.Microsoft.Extensions.Logging" />
+  </ItemGroup>
+
+  <ItemGroup><!--
+    If you encounter this error message:
+
+      error NETSDK1148: A referenced assembly was compiled using a newer version of Microsoft.Windows.SDK.NET.dll.
+      Please update to a newer .NET SDK in order to reference this assembly.
+
+    This means that the two packages below must be aligned with the "build" version number of
+    the "Microsoft.Windows.SDK.BuildTools" package above, and the "revision" version number
+    must be the highest found in https://www.nuget.org/packages/Microsoft.Windows.SDK.NET.Ref.
+    -->
+    <!-- <FrameworkReference Update="Microsoft.Windows.SDK.NET.Ref" RuntimeFrameworkVersion="10.0.22621.28" />
+    <FrameworkReference Update="Microsoft.Windows.SDK.NET.Ref" TargetingPackVersion="10.0.22621.28" /> -->
+  
+    <Content Remove="Assets\icons\AppIcon.altform-lightunplated_targetsize-16.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-lightunplated_targetsize-24.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-lightunplated_targetsize-256.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-lightunplated_targetsize-32.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-lightunplated_targetsize-48.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-unplated_targetsize-16.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-unplated_targetsize-24.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-unplated_targetsize-256.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-unplated_targetsize-32.png" />
+    <Content Remove="Assets\icons\AppIcon.altform-unplated_targetsize-48.png" />
+    <Content Remove="Assets\icons\AppIcon.png" />
+    <Content Remove="Assets\icons\AppIcon.scale-125.png" />
+    <Content Remove="Assets\icons\AppIcon.scale-150.png" />
+    <Content Remove="Assets\icons\AppIcon.scale-200.png" />
+    <Content Remove="Assets\icons\AppIcon.scale-400.png" />
+    <Content Remove="Assets\icons\AppIcon.targetsize-16.png" />
+    <Content Remove="Assets\icons\AppIcon.targetsize-24.png" />
+    <Content Remove="Assets\icons\AppIcon.targetsize-256.png" />
+    <Content Remove="Assets\icons\AppIcon.targetsize-32.png" />
+    <Content Remove="Assets\icons\AppIcon.targetsize-48.png" />
+    <Content Remove="Assets\icons\LargeTile.png" />
+    <Content Remove="Assets\icons\LargeTile.scale-125.png" />
+    <Content Remove="Assets\icons\LargeTile.scale-150.png" />
+    <Content Remove="Assets\icons\LargeTile.scale-200.png" />
+    <Content Remove="Assets\icons\LargeTile.scale-400.png" />
+    <Content Remove="Assets\icons\MediumTile.png" />
+    <Content Remove="Assets\icons\MediumTile.scale-125.png" />
+    <Content Remove="Assets\icons\MediumTile.scale-150.png" />
+    <Content Remove="Assets\icons\MediumTile.scale-200.png" />
+    <Content Remove="Assets\icons\MediumTile.scale-400.png" />
+    <Content Remove="Assets\icons\PackageLogo.png" />
+    <Content Remove="Assets\icons\PackageLogo.scale-125.png" />
+    <Content Remove="Assets\icons\PackageLogo.scale-150.png" />
+    <Content Remove="Assets\icons\PackageLogo.scale-200.png" />
+    <Content Remove="Assets\icons\PackageLogo.scale-400.png" />
+    <Content Remove="Assets\icons\SmallTile.scale-100.png" />
+    <Content Remove="Assets\icons\SmallTile.scale-125.png" />
+    <Content Remove="Assets\icons\SmallTile.scale-150.png" />
+    <Content Remove="Assets\icons\SmallTile.scale-200.png" />
+    <Content Remove="Assets\icons\SmallTile.scale-400.png" />
+    <Content Remove="Assets\icons\SplashScreen.png" />
+    <Content Remove="Assets\icons\SplashScreen.scale-125.png" />
+    <Content Remove="Assets\icons\SplashScreen.scale-150.png" />
+    <Content Remove="Assets\icons\SplashScreen.scale-200.png" />
+    <Content Remove="Assets\icons\SplashScreen.scale-400.png" />
+    <Content Remove="Assets\icons\WideTile.png" />
+    <Content Remove="Assets\icons\WideTile.scale-125.png" />
+    <Content Remove="Assets\icons\WideTile.scale-150.png" />
+    <Content Remove="Assets\icons\WideTile.scale-200.png" />
+    <Content Remove="Assets\icons\WideTile.scale-400.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="english_cat.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="cat.ico">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="english_cat.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kitten_Translate\Kitten_Translate.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Assets\icons\AppIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\icons\LargeTile.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\icons\MediumTile.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\icons\PackageLogo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\icons\SplashScreen.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\icons\WideTile.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <Import Project="..\Kitten_Translate.Shared\base.props" />
+
+  <Target Name="ValidateOverrides" BeforeTargets="Restore;_CheckForUnsupportedTargetFramework" Condition="'$(OverrideTargetFramework)' != ''">
+    <Error Text="OverrideTargetFramework set to '$(OverrideTargetFramework)' is missing Windows target. Set OverrideTargetFramework to $([MSBuild]::Escape('$'))(DotNetVersion)-windows10.0.19041.0 or skip building this project (eg unload the project in Visual Studio)" Condition="!$(OverrideTargetFramework.Contains('windows10'))" />
+  </Target>
+
+  <ItemGroup>
+    <AppxManifest Update="Package.appxmanifest">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </AppxManifest>
+  </ItemGroup>
+</Project>

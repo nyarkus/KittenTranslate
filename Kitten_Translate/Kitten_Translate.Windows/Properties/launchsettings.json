@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"Kitten_Translate.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"Kitten_Translate.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
