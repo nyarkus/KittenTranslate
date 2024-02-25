@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Kitten_Translate.Updater;
+namespace Updater;
 
 public class UpdateChecker
 {
@@ -38,21 +38,53 @@ public class UpdateChecker
         string url = response.RequestMessage.RequestUri.ToString();
         return new Update(version, url.Substring(url.LastIndexOf('/') + 1));
     }
+    public static async Task<bool> CheckUpdaterUpdate(Update update)
+    {
+        try
+        {
+            var httpClient = new HttpClient();
+            await httpClient.GetStreamAsync($"https://github.com/nyarkus/KittenTranslate/releases/download/{update.Tag}/updater.forv{update.Version}.7z");
+        }
+        catch
+        {
+            return false;
+        }
+        if (FileVersionInfo.GetVersionInfo("Updater.exe").FileVersion != update.Version) return true;
+        return false;
+    }
     public static async Task<bool> CheckDictionaryUpdate()
     {
-        string hash = Kacianoki.HashGenerator.HashGenerator.ComputeSHA256(Path.Combine(MainPage.WorkDirectory, "english_cat.json"));
-        var v = await GetLastVersion();
-        var client = new HttpClient();
-        var remotehash = await client.GetStringAsync($"https://github.com/nyarkus/KittenTranslate/releases/download/{v.Tag}/english_cat.json.sha256");
-        remotehash = remotehash.Replace(remotehash.Substring(remotehash.IndexOf(' '), remotehash.Length - remotehash.IndexOf(' ')), "");
-        if (hash != remotehash) return true;
-        return false;
+        try
+        {
+
+
+            string hash = Kacianoki.HashGenerator.HashGenerator.ComputeSHA256("english_cat.json");
+            var v = await GetLastVersion();
+            var client = new HttpClient();
+            var remotehash = await client.GetStringAsync($"https://github.com/nyarkus/KittenTranslate/releases/download/{v.Tag}/english_cat.json.sha256");
+            remotehash = remotehash.Replace(remotehash.Substring(remotehash.IndexOf(' '), remotehash.Length - remotehash.IndexOf(' ')), "");
+            if (hash != remotehash) return true;
+            return false;
+        }
+        catch
+        {
+            return true;
+        }
     }
     public static bool CheckUpdate(Update LastUpdate)
     {
-        string curretupdatever = FileVersionInfo.GetVersionInfo(Path.Combine(MainPage.WorkDirectory, "Kitten_Translate.Windows.exe")).FileVersion;
-        if(curretupdatever != LastUpdate.Version) return true;
-        else return false;
+        try
+        {
+
+
+            string curretupdatever = FileVersionInfo.GetVersionInfo("Kitten_Translate.Windows.exe").FileVersion;
+            if (curretupdatever != LastUpdate.Version) return true;
+            else return false;
+        }
+        catch
+        {
+            return true;
+        }
     }
     
 

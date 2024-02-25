@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</Source>
+    <SmallTileSource>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</SmallTileSource>
+    <MediumTileSource>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</MediumTileSource>
+    <WideTileSource>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</WideTileSource>
+    <LargeTileSource>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</LargeTileSource>
+    <AppIconSource>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</AppIconSource>
+    <SplashScreenSource>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</SplashScreenSource>
+    <PackageLogoSource>H:\Projects\Kacianoki\%40Data\Discord Server\emoji\cat.png</PackageLogoSource>
+    <ActiveDebugProfile>Kitten_Translate.Windows (Package)</ActiveDebugProfile>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <_LastSelectedProfileId>H:\Backup\Projects\VS\Kitten_Translate\Kitten_Translate.Windows\Properties\PublishProfiles\win-x64.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x86'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="H:\Backup\Projects\VS\Kitten_Translate\Kitten_Translate.Shared\AppHead.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

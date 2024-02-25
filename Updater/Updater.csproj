@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <FileVersion>1.0.2.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" />
+    <PackageReference Include="SharpCompress" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HashGenerator">
+      <HintPath>..\..\Eternal Beta\HashGenerator\bin\Release\net6.0\HashGenerator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
